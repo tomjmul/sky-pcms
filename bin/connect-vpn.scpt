@@ -1,7 +1,7 @@
 #!/usr/bin/osascript
 
--- Get password from environment variable
-set vpnPassword to system attribute "SKY_SECRET"
+-- Get password from macOS Keychain
+set vpnPassword to do shell script "security find-generic-password -s 'sky-vpn' -a 'tom.muldoon@sky.uk' -w"
 
 tell application "Cisco Secure Client"
 	activate
