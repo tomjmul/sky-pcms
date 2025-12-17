@@ -1,0 +1,49 @@
+[
+{
+  "serviceKey": "8931313723297060117",
+  "providerTerritory": "US",
+  "gracenoteId": "10691",
+  "rank": 30,
+  "channelName": "KSL-TV",
+  "logos": [
+    {
+      "type": "Default",
+      "key": "skychb_8931313723297060117_darknow",
+      "template": "https://imageservice.disco.peacocktv.com/logo/{key}/AGG_SOURCE/{width}/{height}?proposition=NBCUOTT&territory=US"
+    },
+    {
+      "type": "Light",
+      "key": "skychb_8931313723297060117_lightnow",
+      "template": "https://imageservice.disco.peacocktv.com/logo/{key}/AGG_SOURCE/{width}/{height}?proposition=NBCUOTT&territory=US"
+    },
+    {
+      "type": "Dark",
+      "key": "skychb_8931313723297060117_darknow",
+      "template": "https://imageservice.disco.peacocktv.com/logo/{key}/AGG_SOURCE/{width}/{height}?proposition=NBCUOTT&territory=US"
+    }
+  ],
+  "hidden": false,
+  "logoHeightPercentage": 12,
+  "logoStyle": "cinema",
+  "formatType": "SD",
+  "sectionNavigation": "ENTERTAINMENT",
+  "contentSegments": [
+    "LOCAL_AFFILIATES"
+  ],
+  "classifications": [
+    "News"
+  ],
+  "territories": [
+    "US"
+  ],
+  "privacyRestrictions": [
+    "NFLCONSENT"
+  ],
+  "channelAvailabilities": [
+    {
+      "onAir": 1019529021000,
+      "offAir": 2145928811000
+    }
+  ]
+}
+  ]

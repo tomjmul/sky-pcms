@@ -1,0 +1,637 @@
+{
+  "updateList": [
+    {
+      "nodeId": "b9a706a4-316d-11ef-9aa9-4bc9f6d8a593",
+      "variants": []
+    },
+    {
+      "nodeId": "19ebc240-0b13-11ec-9087-aba12131e1b7",
+      "variants": []
+    },
+    {
+      "nodeId": "8e360458-0b13-11ec-a788-3fd429d20360",
+      "variants": []
+    },
+    {
+      "nodeId": "1f1a9faa-c8b9-11e9-9b03-638b3b17e735",
+      "variants": []
+    },
+    {
+      "nodeId": "b5948476-f584-11e9-972a-e3cfde733c09",
+      "variants": []
+    },
+    {
+      "nodeId": "24aa5d02-c8b9-11e9-9c44-c7e401b5eb6e",
+      "variants": []
+    },
+    {
+      "nodeId": "0850fcc2-f584-11e9-8801-5bbd2980bef5",
+      "variants": []
+    },
+    {
+      "nodeId": "23f0239c-c8b9-11e9-9c24-47c6785fe47d",
+      "variants": []
+    },
+    {
+      "nodeId": "0c9b60d0-f596-11e9-8b91-b7d16cd2d347",
+      "variants": []
+    },
+    {
+      "nodeId": "229f5eea-c8b9-11e9-9be3-478ec43a9409",
+      "variants": []
+    },
+    {
+      "nodeId": "df215b90-f59b-11e9-aa7a-73d3e87201c8",
+      "variants": []
+    },
+    {
+      "nodeId": "21b2b158-c8b9-11e9-9ba3-b748fa0c60eb",
+      "variants": []
+    },
+    {
+      "nodeId": "2a0eee42-f597-11e9-bbc6-97bc5950e431",
+      "variants": []
+    },
+    {
+      "nodeId": "1c834684-c8b9-11e9-9a83-2b3a1a19e6dc",
+      "variants": []
+    },
+    {
+      "nodeId": "7007c756-f59d-11e9-8da9-c7642e9832e3",
+      "variants": []
+    },
+    {
+      "nodeId": "18574ce0-c8b9-11e9-9983-978f21103ef9",
+      "variants": []
+    },
+    {
+      "nodeId": "705ff53e-f59d-11e9-aab9-d3085252300f",
+      "variants": []
+    },
+    {
+      "nodeId": "1b3a59a2-c8b9-11e9-9a22-374c9c0e9401",
+      "variants": []
+    },
+    {
+      "nodeId": "b724e63c-f59d-11e9-b76e-4ff38e5aed81",
+      "variants": []
+    },
+    {
+      "nodeId": "19a6f87a-c8b9-11e9-99e2-1b26ca3efbe1",
+      "variants": []
+    },
+    {
+      "nodeId": "4b88f738-f584-11e9-9ccc-9bf1a0192fc1",
+      "variants": []
+    },
+    {
+      "nodeId": "b1c9bcde-f6cc-11ec-a9c1-3fd0fa87d2d3",
+      "variants": []
+    },
+    {
+      "nodeId": "b1db6e66-f6cc-11ec-9abc-7b9bdbb08cd6",
+      "variants": []
+    },
+    {
+      "nodeId": "1923da80-c8b9-11e9-99c2-7318f7407be9",
+      "variants": []
+    },
+    {
+      "nodeId": "fcdaf736-1fee-11ea-9c49-a381f55f1576",
+      "variants": []
+    },
+    {
+      "nodeId": "55eba9c6-40f4-11ea-9212-233679452c49",
+      "variants": []
+    },
+    {
+      "nodeId": "56441e12-40f4-11ea-9ea8-2314dc6ab3e0",
+      "variants": []
+    },
+    {
+      "nodeId": "1f9d4cca-c8b9-11e9-9b22-cb6e603b7f57",
+      "variants": []
+    },
+    {
+      "nodeId": "10afebdc-f587-11e9-9b2b-eb7d215f059d",
+      "variants": []
+    },
+    {
+      "nodeId": "26343742-c8b9-11e9-9ca4-db8de67c1150",
+      "variants": []
+    },
+    {
+      "nodeId": "d94bace6-f593-11e9-a9d9-2fead9c90c50",
+      "variants": []
+    },
+    {
+      "nodeId": "773b378a-9ffa-11ea-bfba-47a00b38042f",
+      "variants": []
+    },
+    {
+      "nodeId": "77467c12-9ffa-11ea-a55c-93ae0e7df72e",
+      "variants": []
+    },
+    {
+      "nodeId": "be645996-e422-11e9-82f6-17592d1d54fc",
+      "variants": []
+    },
+    {
+      "nodeId": "76f7070e-9ffa-11ea-9a57-d35773853e06",
+      "variants": []
+    },
+    {
+      "nodeId": "77080888-9ffa-11ea-bcbd-030953e29026",
+      "variants": []
+    },
+    {
+      "nodeId": "7717c296-9ffa-11ea-a7cd-ef29d06959e8",
+      "variants": []
+    },
+    {
+      "nodeId": "77276c00-9ffa-11ea-b193-eb14769786b1",
+      "variants": []
+    },
+    {
+      "nodeId": "252038a6-c8b9-11e9-9c64-176bffacdc6b",
+      "variants": []
+    },
+    {
+      "nodeId": "4f0ba2ea-f591-11e9-82b3-2b7d0ae6cbdd",
+      "variants": []
+    },
+    {
+      "nodeId": "775a2ff0-9ffa-11ea-b5cf-efab212a48a4",
+      "variants": []
+    },
+    {
+      "nodeId": "296009f6-f733-11ea-afdd-3725b2856d24",
+      "variants": []
+    },
+    {
+      "nodeId": "25ac3b9e-c8b9-11e9-9c84-b793cb49cf60",
+      "variants": []
+    },
+    {
+      "nodeId": "e8a56c78-f592-11e9-aaad-8fa63e9f1bcf",
+      "variants": []
+    },
+    {
+      "nodeId": "2edb810c-c8b9-11e9-9de5-af36118b95ec",
+      "variants": []
+    },
+    {
+      "nodeId": "aa6ea75c-f598-11e9-8fd9-27799601ff46",
+      "variants": []
+    },
+    {
+      "nodeId": "8f918986-ccca-11ea-9ffa-374e1eccc497",
+      "variants": []
+    },
+    {
+      "nodeId": "8f827464-ccca-11ea-8a52-f7e66fbb0856",
+      "variants": []
+    },
+    {
+      "nodeId": "2c9ffdc8-c8b9-11e9-9da5-ef980e7c2d35",
+      "variants": []
+    },
+    {
+      "nodeId": "4059219e-f598-11e9-a3ef-67a1df482bd9",
+      "variants": []
+    },
+    {
+      "nodeId": "2ddfc1fa-c8b9-11e9-9dc5-b33c45e63228",
+      "variants": []
+    },
+    {
+      "nodeId": "e5495a34-f598-11e9-b8b4-4376707ad52e",
+      "variants": []
+    },
+    {
+      "nodeId": "28f593fe-c8b9-11e9-9d23-57bb8c69b0ad",
+      "variants": []
+    },
+    {
+      "nodeId": "b4872162-f59b-11e9-aa4d-6f5b4e34ef0c",
+      "variants": []
+    },
+    {
+      "nodeId": "1e2047da-c8b9-11e9-9ae3-8b68879a51ae",
+      "variants": []
+    },
+    {
+      "nodeId": "2469b0fe-f59b-11e9-9079-434d893614ee",
+      "variants": []
+    },
+    {
+      "nodeId": "277a68ec-c8b9-11e9-9ce4-4fa5a4b26a7d",
+      "variants": []
+    },
+    {
+      "nodeId": "29f44614-f597-11e9-a3c5-5ffa0fd2e92f",
+      "variants": []
+    },
+    {
+      "nodeId": "22310562-c8b9-11e9-9bc3-2b1c140bbc17",
+      "variants": []
+    },
+    {
+      "nodeId": "7ce2617c-f59b-11e9-974c-4bec9cbcff1d",
+      "variants": []
+    },
+    {
+      "nodeId": "1cf93b50-c8b9-11e9-9aa3-57618f0f1bc1",
+      "variants": []
+    },
+    {
+      "nodeId": "eeee9c2a-f59d-11e9-b79e-63ef6125b179",
+      "variants": []
+    },
+    {
+      "nodeId": "18b8f9f4-c8b9-11e9-99a2-7f22dd0d96bb",
+      "variants": []
+    },
+    {
+      "nodeId": "4047314a-f59e-11e9-bd91-4f1c68f09b7f",
+      "variants": []
+    },
+    {
+      "nodeId": "20171d48-c8b9-11e9-9b42-57c67d0bac61",
+      "variants": []
+    },
+    {
+      "nodeId": "8875abcc-f59e-11e9-b155-0f327af7bfba",
+      "variants": []
+    },
+    {
+      "nodeId": "18194684-c8b9-11e9-9963-97b9f9867902",
+      "variants": []
+    },
+    {
+      "nodeId": "dfed38ac-f59e-11e9-85ac-3b59d83e65e5",
+      "variants": []
+    },
+    {
+      "nodeId": "28118b1e-c8b9-11e9-9d03-4b48b277cb46",
+      "variants": []
+    },
+    {
+      "nodeId": "29f66e5a-f59f-11e9-bcfa-93c23cb17690",
+      "variants": []
+    },
+    {
+      "nodeId": "1d6e1588-c8b9-11e9-9ac3-f798e8709bc5",
+      "variants": []
+    },
+    {
+      "nodeId": "74ed63fa-f59f-11e9-b7d1-c347b7abeb5f",
+      "variants": []
+    },
+    {
+      "nodeId": "3012bba8-c8b9-11e9-9e05-e7c060efe760",
+      "variants": []
+    },
+    {
+      "nodeId": "4e61c978-f5a0-11e9-8132-63ff3987e18c",
+      "variants": []
+    },
+    {
+      "nodeId": "26da460a-c8b9-11e9-9cc4-6b8f2017b033",
+      "variants": []
+    },
+    {
+      "nodeId": "96afd8be-f5a0-11e9-846d-cf59f33df585",
+      "variants": []
+    },
+    {
+      "nodeId": "fdc923ac-b5e0-11ee-9806-63956e72beff",
+      "variants": []
+    },
+    {
+      "nodeId": "fdd7caa6-b5e0-11ee-bdc9-8ba2ed444e73",
+      "variants": []
+    },
+    {
+      "nodeId": "fde5d68c-b5e0-11ee-907a-4fefe1159766",
+      "variants": []
+    },
+    {
+      "nodeId": "3b181684-afb8-11ee-bcf2-eb8dedef8039",
+      "variants": []
+    },
+    {
+      "nodeId": "3b24a66a-afb8-11ee-8770-7bc6ed49fe8b",
+      "variants": []
+    },
+    {
+      "nodeId": "79faa6f0-991e-11ea-9658-5f912fa46757",
+      "variants": []
+    },
+    {
+      "nodeId": "781bb860-991e-11ea-903c-6fa5639fb686",
+      "variants": []
+    },
+    {
+      "nodeId": "7627a44c-991e-11ea-9d0c-1ba5c5cb90aa",
+      "variants": []
+    },
+    {
+      "nodeId": "70907f86-991e-11ea-9556-73899a86a36b",
+      "variants": []
+    },
+    {
+      "nodeId": "707bc212-991e-11ea-b9be-937dd3753503",
+      "variants": []
+    },
+    {
+      "nodeId": "706cd3a6-991e-11ea-9ca2-f73568a99283",
+      "variants": []
+    },
+    {
+      "nodeId": "7059552e-991e-11ea-869d-177c9866d08e",
+      "variants": []
+    },
+    {
+      "nodeId": "703c6ae0-991e-11ea-8fd0-fbc69668594e",
+      "variants": []
+    },
+    {
+      "nodeId": "702d65fe-991e-11ea-a274-2f8198d57942",
+      "variants": []
+    },
+    {
+      "nodeId": "7020344c-991e-11ea-95ec-17d7f22e736b",
+      "variants": []
+    },
+    {
+      "nodeId": "7012f5fc-991e-11ea-ae28-37a31dc49956",
+      "variants": []
+    },
+    {
+      "nodeId": "9e1cd97a-99cf-11ea-bf25-a36574072161",
+      "variants": []
+    },
+    {
+      "nodeId": "d1866bb8-99d5-11ea-b3e1-0b32969f918e",
+      "variants": []
+    },
+    {
+      "nodeId": "d17a111a-99d5-11ea-80af-03fcfa208fee",
+      "variants": []
+    },
+    {
+      "nodeId": "d16d0718-99d5-11ea-bd12-232881dc7e55",
+      "variants": []
+    },
+    {
+      "nodeId": "a7812b6c-99d7-11ea-ba0d-9f27a9a96eae",
+      "variants": []
+    },
+    {
+      "nodeId": "d68243c2-99d9-11ea-ae7f-43f12859824e",
+      "variants": []
+    },
+    {
+      "nodeId": "d66a468c-99d9-11ea-81a0-bf1b6f5da61c",
+      "variants": []
+    },
+    {
+      "nodeId": "d656456a-99d9-11ea-b977-9797c1021077",
+      "variants": []
+    },
+    {
+      "nodeId": "d64ae102-99d9-11ea-bc25-073d92c08537",
+      "variants": []
+    },
+    {
+      "nodeId": "d633ef24-99d9-11ea-9b5d-f3b33c38eaaa",
+      "variants": []
+    },
+    {
+      "nodeId": "d6222974-99d9-11ea-ba40-27bd1f7d06e7",
+      "variants": []
+    },
+    {
+      "nodeId": "d6150a50-99d9-11ea-ae73-13fae210ddeb",
+      "variants": []
+    },
+    {
+      "nodeId": "d60766b6-99d9-11ea-b388-e3ccbf1dc0b8",
+      "variants": []
+    },
+    {
+      "nodeId": "88f061b8-8484-11ee-a5d8-7b6d565663b4",
+      "variants": []
+    },
+    {
+      "nodeId": "9754cba4-b620-11ee-b28a-63bc59f55eab",
+      "variants": []
+    },
+    {
+      "nodeId": "9764551a-b620-11ee-85a5-dbf60283fbe3",
+      "variants": []
+    },
+    {
+      "nodeId": "e0bda938-83a7-11ee-984b-07b86e095db4",
+      "variants": []
+    },
+    {
+      "nodeId": "e0b00f30-83a7-11ee-888b-abbed4c1bd5b",
+      "variants": []
+    },
+    {
+      "nodeId": "0edf68ce-8dc6-11ee-a8e3-6ba2821d545a",
+      "variants": []
+    },
+    {
+      "nodeId": "0eecee0e-8dc6-11ee-9ccc-d32eff817507",
+      "variants": []
+    },
+    {
+      "nodeId": "0efb0c82-8dc6-11ee-a76c-cf9ee2e0f1a5",
+      "variants": []
+    },
+    {
+      "nodeId": "0f09aa1c-8dc6-11ee-a09b-6394f8db88bf",
+      "variants": []
+    },
+    {
+      "nodeId": "f2448bf2-8e8a-11ee-a6ae-dbba154fa211",
+      "variants": []
+    },
+    {
+      "nodeId": "f251cede-8e8a-11ee-b7f3-234f2cc9b712",
+      "variants": []
+    },
+    {
+      "nodeId": "f25f4186-8e8a-11ee-82cd-e31893aa1f8f",
+      "variants": []
+    },
+    {
+      "nodeId": "f26ca8da-8e8a-11ee-a1ff-5f550bd6f911",
+      "variants": []
+    },
+    {
+      "nodeId": "ffb40e20-9d9e-11ee-bcf0-3b36f9bd5963",
+      "variants": []
+    },
+    {
+      "nodeId": "ffc2eb20-9d9e-11ee-87ec-67e4ce04dc33",
+      "variants": []
+    },
+    {
+      "nodeId": "eab9abb6-3c0e-11ee-aa03-7f102d22fbdc",
+      "variants": []
+    },
+    {
+      "nodeId": "148f76ea-3c33-11ee-99d9-4fc902f180e4",
+      "variants": []
+    },
+    {
+      "nodeId": "149ca68a-3c33-11ee-abb6-9fcfcb245098",
+      "variants": []
+    },
+    {
+      "nodeId": "14aa1f0e-3c33-11ee-9f28-4774eafca09e",
+      "variants": []
+    },
+    {
+      "nodeId": "14b78f5e-3c33-11ee-ae41-77638c6ba5f3",
+      "variants": []
+    },
+    {
+      "nodeId": "0f29a0ac-3c53-11ee-8a32-537298c6ce0a",
+      "variants": []
+    },
+    {
+      "nodeId": "3d5eb36e-3c2f-11ee-9d8f-030e4f7ee82f",
+      "variants": []
+    },
+    {
+      "nodeId": "3d6bf3b2-3c2f-11ee-a8b4-9f5e6a1d8ed0",
+      "variants": []
+    },
+    {
+      "nodeId": "3d793cb6-3c2f-11ee-8cd9-37f22aeb3a6e",
+      "variants": []
+    },
+    {
+      "nodeId": "3d8f2a62-3c2f-11ee-a5f7-bbf02b6c48ee",
+      "variants": []
+    },
+    {
+      "nodeId": "3d9d257c-3c2f-11ee-a9ef-47ffc6296199",
+      "variants": []
+    },
+    {
+      "nodeId": "3dab7406-3c2f-11ee-8b9d-dbd46c715e2d",
+      "variants": []
+    },
+    {
+      "nodeId": "3dbb4458-3c2f-11ee-8fd9-aba4ad61cf1b",
+      "variants": []
+    },
+    {
+      "nodeId": "3dca0290-3c2f-11ee-8b9a-1f087ceedd1d",
+      "variants": []
+    },
+    {
+      "nodeId": "bcdcffb2-3c3c-11ee-bbfe-0f3514b57908",
+      "variants": []
+    },
+    {
+      "nodeId": "eac6e7c2-3c0e-11ee-bd95-dbd36c6b7656",
+      "variants": []
+    },
+    {
+      "nodeId": "1d6eff52-a79a-11ed-aae6-2f4b5f351cb5",
+      "variants": []
+    },
+    {
+      "nodeId": "1d78daf4-a79a-11ed-ad1e-7b792ecd43bf",
+      "variants": []
+    },
+    {
+      "nodeId": "20a95230-c8b9-11e9-9b62-6735ae7adb0d",
+      "variants": []
+    },
+    {
+      "nodeId": "51dde162-f5a1-11e9-86cc-eba5188f3aeb",
+      "variants": []
+    },
+    {
+      "nodeId": "21435060-c8b9-11e9-9b83-ab8911e7472b",
+      "variants": []
+    },
+    {
+      "nodeId": "1f0bb420-f5a2-11e9-8b58-372c48ef8739",
+      "variants": []
+    },
+    {
+      "nodeId": "2ba646e8-c8b9-11e9-9d84-87cc9ae3da69",
+      "variants": []
+    },
+    {
+      "nodeId": "1df2737a-f5a3-11e9-8204-83957a9e9045",
+      "variants": []
+    },
+    {
+      "nodeId": "299a4a48-c8b9-11e9-9d43-67bd134ea939",
+      "variants": []
+    },
+    {
+      "nodeId": "236b76d8-c8b9-11e9-9c03-e70b2d18b90f",
+      "variants": []
+    },
+    {
+      "nodeId": "935716e8-f5a3-11e9-8237-3bbe7ce144ca",
+      "variants": []
+    },
+    {
+      "nodeId": "1bb11fec-c8b9-11e9-9a42-13fbaeeb8e3b",
+      "variants": [
+        {
+          "name": "CHANNEL_DESCRIPTION",
+          "overrideValues": [],
+          "attribute": {
+            "name": "CHANNEL_DESCRIPTION",
+            "type": "REFDATA",
+            "subType": "linear_channel",
+            "multiValue": false,
+            "languageAgnostic": true,
+            "datagramValueType": "STRING",
+            "rank": 13,
+            "uihint": {},
+            "visibleOnClientApi": true,
+            "editableRoles": [],
+            "propositional": false,
+            "typePath": "/REFDATA/linear_channel",
+            "validators": [
+              {
+                "name": "NO_LEADING_TRAILING_WHITESPACE",
+                "required": false,
+                "unique": false,
+                "min": 0,
+                "max": 2147483647,
+                "decimalplaces": 0,
+                "regex": "^(\\S.{0,}\\S+|\\S?\\S?)$",
+                "messageType": "ERROR",
+                "message": "validation.noLeadingTrailingWhitespace",
+                "data": {}
+              }
+            ],
+            "metadata": {},
+            "translationKey": "model.attribute.channel_description"
+          },
+          "language": "ANY",
+          "values": [
+            "Cartoonito"
+          ]
+        }
+      ]
+    }
+  ],
+  "context": "7c786bcf-1e05-4e4c-829b-00bc30a6c1e5",
+  "versionName": "CLONED FROM [876f1b12-1056-408c-b558-768f175d4bf7] - 2024-06-21 12:13:38.916"
+}

@@ -1,0 +1,2949 @@
+{
+  "updateList": [
+    {
+      "nodeId": "e4bfcf0c-79e9-11e8-b856-076ee12a64fa",
+      "variants": []
+    },
+    {
+      "nodeId": "e4fc0b0c-79e9-11e8-b8bf-e3fe33f204b2",
+      "variants": []
+    },
+    {
+      "nodeId": "e3aa7bee-79e9-11e8-b684-2fd15a9806e6",
+      "variants": []
+    },
+    {
+      "nodeId": "e3ea5e08-79e9-11e8-b6ee-63a3f22ecbf8",
+      "variants": []
+    },
+    {
+      "nodeId": "e467f39a-79e9-11e8-b7c1-5faadde06ab0",
+      "variants": []
+    },
+    {
+      "nodeId": "e4cc2a86-79e9-11e8-b86b-1bcfcd87623d",
+      "variants": []
+    },
+    {
+      "nodeId": "e5148bfa-79e9-11e8-b8e9-5b37f1cff517",
+      "variants": []
+    },
+    {
+      "nodeId": "e4efd832-79e9-11e8-b8aa-f74994a7d280",
+      "variants": []
+    },
+    {
+      "nodeId": "e437d4bc-79e9-11e8-b76d-ff4f89d74fd7",
+      "variants": []
+    },
+    {
+      "nodeId": "e3d06dea-79e9-11e8-b6c3-6bd3565c3583",
+      "variants": []
+    },
+    {
+      "nodeId": "e49bfa14-79e9-11e8-b817-3bdbbe972b1e",
+      "variants": []
+    },
+    {
+      "nodeId": "e4813152-79e9-11e8-b7ed-b7571258d665",
+      "variants": []
+    },
+    {
+      "nodeId": "e4d87e6c-79e9-11e8-b880-c3b7c3418fde",
+      "variants": []
+    },
+    {
+      "nodeId": "e48eff12-79e9-11e8-b802-5f53de17673d",
+      "variants": []
+    },
+    {
+      "nodeId": "e5445a42-79e9-11e8-b93f-cb40e3a37fcb",
+      "variants": []
+    },
+    {
+      "nodeId": "e573daba-79e9-11e8-b993-9f277b98e793",
+      "variants": []
+    },
+    {
+      "nodeId": "e4a802fa-79e9-11e8-b82c-db9918a9e10e",
+      "variants": []
+    },
+    {
+      "nodeId": "e567ece6-79e9-11e8-b97e-a30ba845c02e",
+      "variants": []
+    },
+    {
+      "nodeId": "e41e256c-79e9-11e8-b743-272ca79df12c",
+      "variants": []
+    },
+    {
+      "nodeId": "e45b7606-79e9-11e8-b7ac-47ecba7c5d1b",
+      "variants": []
+    },
+    {
+      "nodeId": "e4e419ac-79e9-11e8-b895-77ee7319a8a5",
+      "variants": []
+    },
+    {
+      "nodeId": "e44ededc-79e9-11e8-b797-cb069964aeee",
+      "variants": []
+    },
+    {
+      "nodeId": "e538475c-79e9-11e8-b929-5fb8cae76a82",
+      "variants": []
+    },
+    {
+      "nodeId": "e4b398d6-79e9-11e8-b841-fb7172fdeef0",
+      "variants": []
+    },
+    {
+      "nodeId": "e42bc442-79e9-11e8-b758-4b9f803c54fe",
+      "variants": []
+    },
+    {
+      "nodeId": "e403f584-79e9-11e8-b718-73c615ca04f0",
+      "variants": []
+    },
+    {
+      "nodeId": "e44377cc-79e9-11e8-b782-23e24ef39d0e",
+      "variants": []
+    },
+    {
+      "nodeId": "e55c0f84-79e9-11e8-b969-877756d3dbec",
+      "variants": []
+    },
+    {
+      "nodeId": "e474653a-79e9-11e8-b7d7-4bed54b085fe",
+      "variants": []
+    },
+    {
+      "nodeId": "e520535e-79e9-11e8-b8fe-2f2e68d0d792",
+      "variants": []
+    },
+    {
+      "nodeId": "59fda056-c34a-11ed-a88c-b7857388dbd6",
+      "variants": []
+    },
+    {
+      "nodeId": "68668d9c-c34a-11ed-a9a6-17e0fe2a3e5f",
+      "variants": []
+    },
+    {
+      "nodeId": "6868f6f4-c34a-11ed-8ee7-4382e446310c",
+      "variants": []
+    },
+    {
+      "nodeId": "6867ce14-c34a-11ed-8256-2bf2f833ebd9",
+      "variants": []
+    },
+    {
+      "nodeId": "686620dc-c34a-11ed-af3f-43f442596a9b",
+      "variants": []
+    },
+    {
+      "nodeId": "686542ac-c34a-11ed-91d8-3333859cf612",
+      "variants": []
+    },
+    {
+      "nodeId": "6866f840-c34a-11ed-ae3a-f3500d580d11",
+      "variants": []
+    },
+    {
+      "nodeId": "686772ca-c34a-11ed-888e-a7ff2012dd84",
+      "variants": []
+    },
+    {
+      "nodeId": "68683002-c34a-11ed-a162-1fd5fe1f74a5",
+      "variants": []
+    },
+    {
+      "nodeId": "6924848c-c34a-11ed-a9bc-37c80ae7ad3a",
+      "variants": []
+    },
+    {
+      "nodeId": "6960b006-c34a-11ed-826e-076ff0796b5c",
+      "variants": []
+    },
+    {
+      "nodeId": "6965f84a-c34a-11ed-ae52-33bd0cb43b0f",
+      "variants": []
+    },
+    {
+      "nodeId": "6a359cbc-c34a-11ed-a9d4-374a7a72f48b",
+      "variants": []
+    },
+    {
+      "nodeId": "6c019e2e-c34a-11ed-afac-83a07d52dca0",
+      "variants": []
+    },
+    {
+      "nodeId": "6d084692-c34a-11ed-afc4-2700c4d8fe90",
+      "variants": []
+    },
+    {
+      "nodeId": "7ced5aac-c34a-11ed-a9c5-ab9245a5cf2d",
+      "variants": []
+    },
+    {
+      "nodeId": "7cecea4a-c34a-11ed-8960-af03ba8185fa",
+      "variants": []
+    },
+    {
+      "nodeId": "7cefa4f6-c34a-11ed-82e4-4b7d409af70e",
+      "variants": []
+    },
+    {
+      "nodeId": "7cee83dc-c34a-11ed-aa4a-1b2f27211421",
+      "variants": []
+    },
+    {
+      "nodeId": "7cee2e28-c34a-11ed-92a5-7b78211d227c",
+      "variants": []
+    },
+    {
+      "nodeId": "7cf06b0c-c34a-11ed-a236-5b2fffe614be",
+      "variants": []
+    },
+    {
+      "nodeId": "7cef3d4a-c34a-11ed-aec9-0fc82a329b4a",
+      "variants": []
+    },
+    {
+      "nodeId": "7cedc17c-c34a-11ed-b03c-bb4f1450173c",
+      "variants": []
+    },
+    {
+      "nodeId": "7ceeed9a-c34a-11ed-8fb0-ef4ff079fe4e",
+      "variants": []
+    },
+    {
+      "nodeId": "7e193ee6-c34a-11ed-aa62-4f7ff9c0b245",
+      "variants": []
+    },
+    {
+      "nodeId": "7e163f02-c34a-11ed-a9dd-17282ffc3bd2",
+      "variants": []
+    },
+    {
+      "nodeId": "7e623ede-c34a-11ed-b054-770e349fd7a7",
+      "variants": []
+    },
+    {
+      "nodeId": "7f875038-c34a-11ed-89db-4f594a82ac56",
+      "variants": []
+    },
+    {
+      "nodeId": "85703df2-c34a-11ed-af49-2331409ee0c4",
+      "variants": []
+    },
+    {
+      "nodeId": "938b7bf4-c34a-11ed-afd2-a3612c0a9476",
+      "variants": []
+    },
+    {
+      "nodeId": "9922f16e-c34a-11ed-b05d-ab7b9e90cda5",
+      "variants": []
+    },
+    {
+      "nodeId": "99228454-c34a-11ed-abe5-939b42493955",
+      "variants": []
+    },
+    {
+      "nodeId": "9923eaf6-c34a-11ed-83ce-93955f1ce1dd",
+      "variants": []
+    },
+    {
+      "nodeId": "99233d90-c34a-11ed-93a9-ff42b597b36b",
+      "variants": []
+    },
+    {
+      "nodeId": "9925332a-c34a-11ed-b0d8-f32aeda8898d",
+      "variants": []
+    },
+    {
+      "nodeId": "9923a654-c34a-11ed-a323-2f8020e1e562",
+      "variants": []
+    },
+    {
+      "nodeId": "9924612a-c34a-11ed-8a60-4373f3d41582",
+      "variants": []
+    },
+    {
+      "nodeId": "de50d446-5d40-11ee-8462-3f31e772e3b1",
+      "variants": []
+    },
+    {
+      "nodeId": "de5fc514-5d40-11ee-b843-ffa0c59cf643",
+      "variants": []
+    },
+    {
+      "nodeId": "de56642e-5d40-11ee-a374-17e468c95777",
+      "variants": []
+    },
+    {
+      "nodeId": "de6548c2-5d40-11ee-b2ac-43c5d2b1d0e0",
+      "variants": []
+    },
+    {
+      "nodeId": "de6b82c8-5d40-11ee-8f05-0f503213d617",
+      "variants": []
+    },
+    {
+      "nodeId": "de71040a-5d40-11ee-a1bc-072ae47f68aa",
+      "variants": []
+    },
+    {
+      "nodeId": "de8b5620-5d40-11ee-813d-0f54e4ab1f73",
+      "variants": []
+    },
+    {
+      "nodeId": "de7f7e9a-5d40-11ee-90df-0398183f8d87",
+      "variants": []
+    },
+    {
+      "nodeId": "de868f00-5d40-11ee-b330-0f7579e6c41c",
+      "variants": []
+    },
+    {
+      "nodeId": "dff06366-5d40-11ee-b85b-07b9bd1b09ae",
+      "variants": []
+    },
+    {
+      "nodeId": "eb64a0b8-5d40-11ee-8fb8-ef34f1547597",
+      "variants": []
+    },
+    {
+      "nodeId": "ebd67e68-5d40-11ee-b378-47a6c9d25e77",
+      "variants": []
+    },
+    {
+      "nodeId": "ec6d4442-5d40-11ee-81f2-df4dd90b8ce6",
+      "variants": []
+    },
+    {
+      "nodeId": "dfeb9228-5d40-11ee-847b-5bcf754d7365",
+      "variants": []
+    },
+    {
+      "nodeId": "dff24776-5d40-11ee-a38d-f3e080871116",
+      "variants": []
+    },
+    {
+      "nodeId": "e0035c64-5d40-11ee-b2c4-1fdfa84de39c",
+      "variants": []
+    },
+    {
+      "nodeId": "e04a7784-5d40-11ee-8156-8b3d7c2a8b53",
+      "variants": []
+    },
+    {
+      "nodeId": "ea3b2bb2-5d40-11ee-b35f-db856323eab9",
+      "variants": []
+    },
+    {
+      "nodeId": "fbd44b4c-5d40-11ee-9061-3ba6a5ad5e3c",
+      "variants": []
+    },
+    {
+      "nodeId": "fbd36b96-5d40-11ee-a2fd-0bcf57c11166",
+      "variants": []
+    },
+    {
+      "nodeId": "fbd45600-5d40-11ee-91fe-633e3d026a32",
+      "variants": []
+    },
+    {
+      "nodeId": "fbd27146-5d40-11ee-b97e-47c5afe3d4b6",
+      "variants": []
+    },
+    {
+      "nodeId": "fbd1f522-5d40-11ee-85a1-b38be9987733",
+      "variants": []
+    },
+    {
+      "nodeId": "fbd3df7c-5d40-11ee-b41c-878f8db8096e",
+      "variants": []
+    },
+    {
+      "nodeId": "fbd2ef2c-5d40-11ee-b452-d72593a5ef92",
+      "variants": []
+    },
+    {
+      "nodeId": "fbd17a48-5d40-11ee-a4b5-735455af73f3",
+      "variants": []
+    },
+    {
+      "nodeId": "0a9ef1d6-5d41-11ee-a564-371720202747",
+      "variants": []
+    },
+    {
+      "nodeId": "0a9e8e12-5d41-11ee-864c-37688f2bfea9",
+      "variants": []
+    },
+    {
+      "nodeId": "0a9d2702-5d41-11ee-b500-138fd9aa19d7",
+      "variants": []
+    },
+    {
+      "nodeId": "0a9d99c6-5d41-11ee-b4c9-d70b509048e1",
+      "variants": []
+    },
+    {
+      "nodeId": "0a9efab4-5d41-11ee-8324-c3a699ceaf40",
+      "variants": []
+    },
+    {
+      "nodeId": "0a9e0c8a-5d41-11ee-910e-07300b0251e1",
+      "variants": []
+    },
+    {
+      "nodeId": "16a8e27a-5d41-11ee-83d8-e3938c77db97",
+      "variants": []
+    },
+    {
+      "nodeId": "16a94350-5d41-11ee-86fd-f7f36d62a79d",
+      "variants": []
+    },
+    {
+      "nodeId": "16a9afd4-5d41-11ee-a3a6-e35756052f76",
+      "variants": []
+    },
+    {
+      "nodeId": "16a6f352-5d41-11ee-b5b2-d35a39aa89a9",
+      "variants": []
+    },
+    {
+      "nodeId": "16a7660c-5d41-11ee-b57c-274db20cb2dd",
+      "variants": []
+    },
+    {
+      "nodeId": "16a88172-5d41-11ee-9216-bf5386094150",
+      "variants": []
+    },
+    {
+      "nodeId": "16a82830-5d41-11ee-a614-9372f06f878e",
+      "variants": []
+    },
+    {
+      "nodeId": "16a9a8ae-5d41-11ee-91c4-8b24f1d44542",
+      "variants": []
+    },
+    {
+      "nodeId": "16a7d66e-5d41-11ee-ba27-5790d4905506",
+      "variants": []
+    },
+    {
+      "nodeId": "2798f43a-5d41-11ee-bae6-876238d1f20a",
+      "variants": []
+    },
+    {
+      "nodeId": "279836ee-5d41-11ee-87b3-93a085db8efd",
+      "variants": []
+    },
+    {
+      "nodeId": "2797b78c-5d41-11ee-9281-7762895a02c0",
+      "variants": []
+    },
+    {
+      "nodeId": "27ae7bac-5d41-11ee-a6d0-7313ecf28085",
+      "variants": []
+    },
+    {
+      "nodeId": "279728d0-5d41-11ee-92d1-b39cd4d6a4aa",
+      "variants": []
+    },
+    {
+      "nodeId": "27963e70-5d41-11ee-b634-bf395f02964e",
+      "variants": []
+    },
+    {
+      "nodeId": "2796b4a4-5d41-11ee-a45f-935c63c5c563",
+      "variants": []
+    },
+    {
+      "nodeId": "2795c08a-5d41-11ee-8491-73c35f09e328",
+      "variants": []
+    },
+    {
+      "nodeId": "28acf11e-5d41-11ee-b66a-cf1154346e85",
+      "variants": []
+    },
+    {
+      "nodeId": "2924c4b4-5d41-11ee-87c9-2f793bde6bee",
+      "variants": []
+    },
+    {
+      "nodeId": "29253e12-5d41-11ee-9297-bb3f7be7d356",
+      "variants": []
+    },
+    {
+      "nodeId": "3bec0206-5d41-11ee-b72d-f31fb428cc7d",
+      "variants": []
+    },
+    {
+      "nodeId": "3bed870c-5d41-11ee-9390-fbd0e5cb235c",
+      "variants": []
+    },
+    {
+      "nodeId": "3beb3fd8-5d41-11ee-935c-570ee8f70938",
+      "variants": []
+    },
+    {
+      "nodeId": "3beac8f0-5d41-11ee-bc51-d7e1460adf63",
+      "variants": []
+    },
+    {
+      "nodeId": "3bec6002-5d41-11ee-8554-3b4cdee97a3c",
+      "variants": []
+    },
+    {
+      "nodeId": "3beba82e-5d41-11ee-888d-db5d7e5f69c6",
+      "variants": []
+    },
+    {
+      "nodeId": "3bed0e12-5d41-11ee-b6f8-27204ee21abf",
+      "variants": []
+    },
+    {
+      "nodeId": "3bedd5d6-5d41-11ee-a83d-836f480d4e59",
+      "variants": []
+    },
+    {
+      "nodeId": "3becac24-5d41-11ee-a521-4390bbfafe75",
+      "variants": []
+    },
+    {
+      "nodeId": "1b294638-9ff3-11ee-a33b-4378d97bb72e",
+      "variants": []
+    },
+    {
+      "nodeId": "68a587f4-9ff4-11ee-9660-7beb1278eeb6",
+      "variants": []
+    },
+    {
+      "nodeId": "689af24e-9ff4-11ee-a7ed-d79d5850ecd4",
+      "variants": []
+    },
+    {
+      "nodeId": "68afe71c-9ff4-11ee-ad25-cbe5407c0cf7",
+      "variants": []
+    },
+    {
+      "nodeId": "68ba2f60-9ff4-11ee-b5a2-8b159a898850",
+      "variants": []
+    },
+    {
+      "nodeId": "68c7fc80-9ff4-11ee-a77b-1b66c548f0dd",
+      "variants": []
+    },
+    {
+      "nodeId": "68d287d6-9ff4-11ee-aeed-83db6d1431ab",
+      "variants": []
+    },
+    {
+      "nodeId": "68dfef3e-9ff4-11ee-894f-7fa20baa7e23",
+      "variants": []
+    },
+    {
+      "nodeId": "3dde974a-c50b-11ee-8222-8f05041bfbc6",
+      "variants": []
+    },
+    {
+      "nodeId": "3e004142-c50b-11ee-9f5a-57e054977b7f",
+      "variants": []
+    },
+    {
+      "nodeId": "3de939fc-c50b-11ee-8bdc-0be5778ce7fd",
+      "variants": []
+    },
+    {
+      "nodeId": "3df3f75c-c50b-11ee-a4fd-1f709381cf60",
+      "variants": []
+    },
+    {
+      "nodeId": "8a327294-c5a4-11ee-8a56-9b849346e864",
+      "variants": []
+    },
+    {
+      "nodeId": "8a3f3786-c5a4-11ee-8492-570c3bca754e",
+      "variants": []
+    },
+    {
+      "nodeId": "8a4cb096-c5a4-11ee-b018-630054967d05",
+      "variants": []
+    },
+    {
+      "nodeId": "8a5b9eee-c5a4-11ee-b4cf-7f171cf334ee",
+      "variants": []
+    },
+    {
+      "nodeId": "8a68fac6-c5a4-11ee-a7a3-af20753f3233",
+      "variants": []
+    },
+    {
+      "nodeId": "d284f12c-c5ca-11ee-9800-dfce45ac5c1a",
+      "variants": []
+    },
+    {
+      "nodeId": "869e224c-c688-11ee-95f7-3f75b7b32dbf",
+      "variants": [
+        {
+          "name": "LOGO",
+          "overrideValues": [],
+          "attribute": {
+            "name": "LOGO",
+            "type": "REFDATA",
+            "subType": "linear_channel",
+            "multiValue": true,
+            "languageAgnostic": true,
+            "datagramValueType": "LOGO",
+            "rank": 24,
+            "uihint": {
+              "componentId": "CHANNEL_LOGO",
+              "wideDisplay": true
+            },
+            "visibleOnClientApi": true,
+            "editableRoles": [],
+            "propositional": false,
+            "typePath": "/REFDATA/linear_channel",
+            "validators": [
+              {
+                "name": "REQUIRED_CHANNEL_LOGO",
+                "required": false,
+                "unique": false,
+                "min": 0,
+                "max": 2147483647,
+                "decimalplaces": 0,
+                "messageType": "ERROR",
+                "message": "Default logo is required",
+                "data": {}
+              }
+            ],
+            "metadata": {},
+            "translationKey": "model.attribute.logo"
+          },
+          "language": "ANY",
+          "values": [
+            {
+              "key": "skychb_1306_lightnow",
+              "type": "Light",
+              "template": "https://images.metadata.sky.com/pd-logo/{key}/{width}/{height}"
+            },
+            {
+              "type": "Default",
+              "key": "skychb_1306_darknow",
+              "template": "https://images.metadata.sky.com/pd-logo/{key}/{width}/{height}"
+            },
+            {
+              "key": "skychb_1306_darknow",
+              "type": "Dark",
+              "template": "https://images.metadata.sky.com/pd-logo/{key}/{width}/{height}"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "nodeId": "8693c2c0-c688-11ee-b48a-43572bd905b2",
+      "variants": [
+        {
+          "name": "LOGO",
+          "overrideValues": [],
+          "attribute": {
+            "name": "LOGO",
+            "type": "REFDATA",
+            "subType": "linear_channel",
+            "multiValue": true,
+            "languageAgnostic": true,
+            "datagramValueType": "LOGO",
+            "rank": 24,
+            "uihint": {
+              "componentId": "CHANNEL_LOGO",
+              "wideDisplay": true
+            },
+            "visibleOnClientApi": true,
+            "editableRoles": [],
+            "propositional": false,
+            "typePath": "/REFDATA/linear_channel",
+            "validators": [
+              {
+                "name": "REQUIRED_CHANNEL_LOGO",
+                "required": false,
+                "unique": false,
+                "min": 0,
+                "max": 2147483647,
+                "decimalplaces": 0,
+                "messageType": "ERROR",
+                "message": "Default logo is required",
+                "data": {}
+              }
+            ],
+            "metadata": {},
+            "translationKey": "model.attribute.logo"
+          },
+          "language": "ANY",
+          "values": [
+            {
+              "key": "skychb_1306_lightnow",
+              "type": "Light",
+              "template": "https://images.metadata.sky.com/pd-logo/{key}/{width}/{height}"
+            },
+            {
+              "type": "Default",
+              "key": "skychb_1306_darknow",
+              "template": "https://images.metadata.sky.com/pd-logo/{key}/{width}/{height}"
+            },
+            {
+              "key": "skychb_1306_darknow",
+              "type": "Dark",
+              "template": "https://images.metadata.sky.com/pd-logo/{key}/{width}/{height}"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "nodeId": "86b3b8e6-c688-11ee-bc74-2760356e0811",
+      "variants": [
+        {
+          "name": "LOGO",
+          "overrideValues": [],
+          "attribute": {
+            "name": "LOGO",
+            "type": "REFDATA",
+            "subType": "linear_channel",
+            "multiValue": true,
+            "languageAgnostic": true,
+            "datagramValueType": "LOGO",
+            "rank": 24,
+            "uihint": {
+              "componentId": "CHANNEL_LOGO",
+              "wideDisplay": true
+            },
+            "visibleOnClientApi": true,
+            "editableRoles": [],
+            "propositional": false,
+            "typePath": "/REFDATA/linear_channel",
+            "validators": [
+              {
+                "name": "REQUIRED_CHANNEL_LOGO",
+                "required": false,
+                "unique": false,
+                "min": 0,
+                "max": 2147483647,
+                "decimalplaces": 0,
+                "messageType": "ERROR",
+                "message": "Default logo is required",
+                "data": {}
+              }
+            ],
+            "metadata": {},
+            "translationKey": "model.attribute.logo"
+          },
+          "language": "ANY",
+          "values": [
+            {
+              "key": "skychb_1306_lightnow",
+              "type": "Light",
+              "template": "https://images.metadata.sky.com/pd-logo/{key}/{width}/{height}"
+            },
+            {
+              "type": "Default",
+              "key": "skychb_1306_darknow",
+              "template": "https://images.metadata.sky.com/pd-logo/{key}/{width}/{height}"
+            },
+            {
+              "key": "skychb_1306_darknow",
+              "type": "Dark",
+              "template": "https://images.metadata.sky.com/pd-logo/{key}/{width}/{height}"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "nodeId": "86a84cea-c688-11ee-9513-8f3fa39b9e76",
+      "variants": [
+        {
+          "name": "LOGO",
+          "overrideValues": [],
+          "attribute": {
+            "name": "LOGO",
+            "type": "REFDATA",
+            "subType": "linear_channel",
+            "multiValue": true,
+            "languageAgnostic": true,
+            "datagramValueType": "LOGO",
+            "rank": 24,
+            "uihint": {
+              "componentId": "CHANNEL_LOGO",
+              "wideDisplay": true
+            },
+            "visibleOnClientApi": true,
+            "editableRoles": [],
+            "propositional": false,
+            "typePath": "/REFDATA/linear_channel",
+            "validators": [
+              {
+                "name": "REQUIRED_CHANNEL_LOGO",
+                "required": false,
+                "unique": false,
+                "min": 0,
+                "max": 2147483647,
+                "decimalplaces": 0,
+                "messageType": "ERROR",
+                "message": "Default logo is required",
+                "data": {}
+              }
+            ],
+            "metadata": {},
+            "translationKey": "model.attribute.logo"
+          },
+          "language": "ANY",
+          "values": [
+            {
+              "key": "skychb_1306_lightnow",
+              "type": "Light",
+              "template": "https://images.metadata.sky.com/pd-logo/{key}/{width}/{height}"
+            },
+            {
+              "type": "Default",
+              "key": "skychb_1306_darknow",
+              "template": "https://images.metadata.sky.com/pd-logo/{key}/{width}/{height}"
+            },
+            {
+              "key": "skychb_1306_darknow",
+              "type": "Dark",
+              "template": "https://images.metadata.sky.com/pd-logo/{key}/{width}/{height}"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "nodeId": "86be6b6a-c688-11ee-a720-677d807b790f",
+      "variants": [
+        {
+          "name": "LOGO",
+          "overrideValues": [],
+          "attribute": {
+            "name": "LOGO",
+            "type": "REFDATA",
+            "subType": "linear_channel",
+            "multiValue": true,
+            "languageAgnostic": true,
+            "datagramValueType": "LOGO",
+            "rank": 24,
+            "uihint": {
+              "componentId": "CHANNEL_LOGO",
+              "wideDisplay": true
+            },
+            "visibleOnClientApi": true,
+            "editableRoles": [],
+            "propositional": false,
+            "typePath": "/REFDATA/linear_channel",
+            "validators": [
+              {
+                "name": "REQUIRED_CHANNEL_LOGO",
+                "required": false,
+                "unique": false,
+                "min": 0,
+                "max": 2147483647,
+                "decimalplaces": 0,
+                "messageType": "ERROR",
+                "message": "Default logo is required",
+                "data": {}
+              }
+            ],
+            "metadata": {},
+            "translationKey": "model.attribute.logo"
+          },
+          "language": "ANY",
+          "values": [
+            {
+              "key": "skychb_1306_lightnow",
+              "type": "Light",
+              "template": "https://images.metadata.sky.com/pd-logo/{key}/{width}/{height}"
+            },
+            {
+              "type": "Default",
+              "key": "skychb_1306_darknow",
+              "template": "https://images.metadata.sky.com/pd-logo/{key}/{width}/{height}"
+            },
+            {
+              "key": "skychb_1306_darknow",
+              "type": "Dark",
+              "template": "https://images.metadata.sky.com/pd-logo/{key}/{width}/{height}"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "nodeId": "b7ac8f0e-c692-11ee-8436-dbf60446d3a8",
+      "variants": []
+    },
+    {
+      "nodeId": "b7b683ba-c692-11ee-8ef7-23ee6a0d6b10",
+      "variants": []
+    },
+    {
+      "nodeId": "b7c0d1ee-c692-11ee-9421-37d087e01f42",
+      "variants": []
+    },
+    {
+      "nodeId": "b7cada5e-c692-11ee-8ad8-6f37087a211f",
+      "variants": []
+    },
+    {
+      "nodeId": "b7d69fa6-c692-11ee-882e-6366d5c9eb6d",
+      "variants": []
+    },
+    {
+      "nodeId": "9eddff42-c739-11ee-b8f3-136353770171",
+      "variants": []
+    },
+    {
+      "nodeId": "9ed36686-c739-11ee-afaa-97d721acb165",
+      "variants": []
+    },
+    {
+      "nodeId": "0206f0aa-cc13-11ee-9c23-2f3ce166f247",
+      "variants": []
+    },
+    {
+      "nodeId": "021286ae-cc13-11ee-b2a4-27668cea2462",
+      "variants": []
+    },
+    {
+      "nodeId": "01faf4e4-cc13-11ee-98fd-ebedc8f41cd0",
+      "variants": []
+    },
+    {
+      "nodeId": "cb3fbd98-cc19-11ee-aea8-1fdf638b7f8e",
+      "variants": []
+    },
+    {
+      "nodeId": "cb335b66-cc19-11ee-b5bb-133ee37ac1d8",
+      "variants": []
+    },
+    {
+      "nodeId": "cb4c7aba-cc19-11ee-8ed5-37f0e8941721",
+      "variants": []
+    },
+    {
+      "nodeId": "cb58f10a-cc19-11ee-adc2-43d7bc4920fd",
+      "variants": []
+    },
+    {
+      "nodeId": "2f70c8ea-cc1d-11ee-ba59-eb30fb074baf",
+      "variants": []
+    },
+    {
+      "nodeId": "81492324-cce5-11ee-bea7-9b6ca5890e92",
+      "variants": [
+        {
+          "name": "LOGO",
+          "overrideValues": [],
+          "attribute": {
+            "name": "LOGO",
+            "type": "REFDATA",
+            "subType": "linear_channel",
+            "multiValue": true,
+            "languageAgnostic": true,
+            "datagramValueType": "LOGO",
+            "rank": 24,
+            "uihint": {
+              "componentId": "CHANNEL_LOGO",
+              "wideDisplay": true
+            },
+            "visibleOnClientApi": true,
+            "editableRoles": [],
+            "propositional": false,
+            "typePath": "/REFDATA/linear_channel",
+            "validators": [
+              {
+                "name": "REQUIRED_CHANNEL_LOGO",
+                "required": false,
+                "unique": false,
+                "min": 0,
+                "max": 2147483647,
+                "decimalplaces": 0,
+                "messageType": "ERROR",
+                "message": "Default logo is required",
+                "data": {}
+              }
+            ],
+            "metadata": {},
+            "translationKey": "model.attribute.logo"
+          },
+          "language": "ANY",
+          "values": [
+            {
+              "key": "skychb_1306_lightnow",
+              "type": "Light",
+              "template": "https://images.metadata.sky.com/pd-logo/{key}/{width}/{height}"
+            },
+            {
+              "type": "Default",
+              "key": "skychb_1306_darknow",
+              "template": "https://images.metadata.sky.com/pd-logo/{key}/{width}/{height}"
+            },
+            {
+              "key": "skychb_1306_darknow",
+              "type": "Dark",
+              "template": "https://images.metadata.sky.com/pd-logo/{key}/{width}/{height}"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "nodeId": "811823dc-cce5-11ee-b3cd-c786f9b93f97",
+      "variants": [
+        {
+          "name": "LOGO",
+          "overrideValues": [],
+          "attribute": {
+            "name": "LOGO",
+            "type": "REFDATA",
+            "subType": "linear_channel",
+            "multiValue": true,
+            "languageAgnostic": true,
+            "datagramValueType": "LOGO",
+            "rank": 24,
+            "uihint": {
+              "componentId": "CHANNEL_LOGO",
+              "wideDisplay": true
+            },
+            "visibleOnClientApi": true,
+            "editableRoles": [],
+            "propositional": false,
+            "typePath": "/REFDATA/linear_channel",
+            "validators": [
+              {
+                "name": "REQUIRED_CHANNEL_LOGO",
+                "required": false,
+                "unique": false,
+                "min": 0,
+                "max": 2147483647,
+                "decimalplaces": 0,
+                "messageType": "ERROR",
+                "message": "Default logo is required",
+                "data": {}
+              }
+            ],
+            "metadata": {},
+            "translationKey": "model.attribute.logo"
+          },
+          "language": "ANY",
+          "values": [
+            {
+              "key": "skychb_1306_lightnow",
+              "type": "Light",
+              "template": "https://images.metadata.sky.com/pd-logo/{key}/{width}/{height}"
+            },
+            {
+              "type": "Default",
+              "key": "skychb_1306_darknow",
+              "template": "https://images.metadata.sky.com/pd-logo/{key}/{width}/{height}"
+            },
+            {
+              "key": "skychb_1306_darknow",
+              "type": "Dark",
+              "template": "https://images.metadata.sky.com/pd-logo/{key}/{width}/{height}"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "nodeId": "8124876c-cce5-11ee-915b-fbefda87a59e",
+      "variants": [
+        {
+          "name": "LOGO",
+          "overrideValues": [],
+          "attribute": {
+            "name": "LOGO",
+            "type": "REFDATA",
+            "subType": "linear_channel",
+            "multiValue": true,
+            "languageAgnostic": true,
+            "datagramValueType": "LOGO",
+            "rank": 24,
+            "uihint": {
+              "componentId": "CHANNEL_LOGO",
+              "wideDisplay": true
+            },
+            "visibleOnClientApi": true,
+            "editableRoles": [],
+            "propositional": false,
+            "typePath": "/REFDATA/linear_channel",
+            "validators": [
+              {
+                "name": "REQUIRED_CHANNEL_LOGO",
+                "required": false,
+                "unique": false,
+                "min": 0,
+                "max": 2147483647,
+                "decimalplaces": 0,
+                "messageType": "ERROR",
+                "message": "Default logo is required",
+                "data": {}
+              }
+            ],
+            "metadata": {},
+            "translationKey": "model.attribute.logo"
+          },
+          "language": "ANY",
+          "values": [
+            {
+              "key": "skychb_1306_lightnow",
+              "type": "Light",
+              "template": "https://images.metadata.sky.com/pd-logo/{key}/{width}/{height}"
+            },
+            {
+              "type": "Default",
+              "key": "skychb_1306_darknow",
+              "template": "https://images.metadata.sky.com/pd-logo/{key}/{width}/{height}"
+            },
+            {
+              "key": "skychb_1306_darknow",
+              "type": "Dark",
+              "template": "https://images.metadata.sky.com/pd-logo/{key}/{width}/{height}"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "nodeId": "8130caea-cce5-11ee-a7f0-ef34bfa4cd11",
+      "variants": [
+        {
+          "name": "LOGO",
+          "overrideValues": [],
+          "attribute": {
+            "name": "LOGO",
+            "type": "REFDATA",
+            "subType": "linear_channel",
+            "multiValue": true,
+            "languageAgnostic": true,
+            "datagramValueType": "LOGO",
+            "rank": 24,
+            "uihint": {
+              "componentId": "CHANNEL_LOGO",
+              "wideDisplay": true
+            },
+            "visibleOnClientApi": true,
+            "editableRoles": [],
+            "propositional": false,
+            "typePath": "/REFDATA/linear_channel",
+            "validators": [
+              {
+                "name": "REQUIRED_CHANNEL_LOGO",
+                "required": false,
+                "unique": false,
+                "min": 0,
+                "max": 2147483647,
+                "decimalplaces": 0,
+                "messageType": "ERROR",
+                "message": "Default logo is required",
+                "data": {}
+              }
+            ],
+            "metadata": {},
+            "translationKey": "model.attribute.logo"
+          },
+          "language": "ANY",
+          "values": [
+            {
+              "key": "skychb_1306_lightnow",
+              "type": "Light",
+              "template": "https://images.metadata.sky.com/pd-logo/{key}/{width}/{height}"
+            },
+            {
+              "type": "Default",
+              "key": "skychb_1306_darknow",
+              "template": "https://images.metadata.sky.com/pd-logo/{key}/{width}/{height}"
+            },
+            {
+              "key": "skychb_1306_darknow",
+              "type": "Dark",
+              "template": "https://images.metadata.sky.com/pd-logo/{key}/{width}/{height}"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "nodeId": "813cc57a-cce5-11ee-8732-e33f677ef584",
+      "variants": [
+        {
+          "name": "LOGO",
+          "overrideValues": [],
+          "attribute": {
+            "name": "LOGO",
+            "type": "REFDATA",
+            "subType": "linear_channel",
+            "multiValue": true,
+            "languageAgnostic": true,
+            "datagramValueType": "LOGO",
+            "rank": 24,
+            "uihint": {
+              "componentId": "CHANNEL_LOGO",
+              "wideDisplay": true
+            },
+            "visibleOnClientApi": true,
+            "editableRoles": [],
+            "propositional": false,
+            "typePath": "/REFDATA/linear_channel",
+            "validators": [
+              {
+                "name": "REQUIRED_CHANNEL_LOGO",
+                "required": false,
+                "unique": false,
+                "min": 0,
+                "max": 2147483647,
+                "decimalplaces": 0,
+                "messageType": "ERROR",
+                "message": "Default logo is required",
+                "data": {}
+              }
+            ],
+            "metadata": {},
+            "translationKey": "model.attribute.logo"
+          },
+          "language": "ANY",
+          "values": [
+            {
+              "key": "skychb_1306_lightnow",
+              "type": "Light",
+              "template": "https://images.metadata.sky.com/pd-logo/{key}/{width}/{height}"
+            },
+            {
+              "type": "Default",
+              "key": "skychb_1306_darknow",
+              "template": "https://images.metadata.sky.com/pd-logo/{key}/{width}/{height}"
+            },
+            {
+              "key": "skychb_1306_darknow",
+              "type": "Dark",
+              "template": "https://images.metadata.sky.com/pd-logo/{key}/{width}/{height}"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "nodeId": "cb63c13e-cce6-11ee-a67b-f786fbb82212",
+      "variants": [
+        {
+          "name": "LOGO",
+          "overrideValues": [],
+          "attribute": {
+            "name": "LOGO",
+            "type": "REFDATA",
+            "subType": "linear_channel",
+            "multiValue": true,
+            "languageAgnostic": true,
+            "datagramValueType": "LOGO",
+            "rank": 24,
+            "uihint": {
+              "componentId": "CHANNEL_LOGO",
+              "wideDisplay": true
+            },
+            "visibleOnClientApi": true,
+            "editableRoles": [],
+            "propositional": false,
+            "typePath": "/REFDATA/linear_channel",
+            "validators": [
+              {
+                "name": "REQUIRED_CHANNEL_LOGO",
+                "required": false,
+                "unique": false,
+                "min": 0,
+                "max": 2147483647,
+                "decimalplaces": 0,
+                "messageType": "ERROR",
+                "message": "Default logo is required",
+                "data": {}
+              }
+            ],
+            "metadata": {},
+            "translationKey": "model.attribute.logo"
+          },
+          "language": "ANY",
+          "values": [
+            {
+              "key": "skychb_1306_lightnow",
+              "type": "Light",
+              "template": "https://images.metadata.sky.com/pd-logo/{key}/{width}/{height}"
+            },
+            {
+              "type": "Default",
+              "key": "skychb_1306_darknow",
+              "template": "https://images.metadata.sky.com/pd-logo/{key}/{width}/{height}"
+            },
+            {
+              "key": "skychb_1306_darknow",
+              "type": "Dark",
+              "template": "https://images.metadata.sky.com/pd-logo/{key}/{width}/{height}"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "nodeId": "cb7a9b34-cce6-11ee-997b-67100eaaac68",
+      "variants": [
+        {
+          "name": "LOGO",
+          "overrideValues": [],
+          "attribute": {
+            "name": "LOGO",
+            "type": "REFDATA",
+            "subType": "linear_channel",
+            "multiValue": true,
+            "languageAgnostic": true,
+            "datagramValueType": "LOGO",
+            "rank": 24,
+            "uihint": {
+              "componentId": "CHANNEL_LOGO",
+              "wideDisplay": true
+            },
+            "visibleOnClientApi": true,
+            "editableRoles": [],
+            "propositional": false,
+            "typePath": "/REFDATA/linear_channel",
+            "validators": [
+              {
+                "name": "REQUIRED_CHANNEL_LOGO",
+                "required": false,
+                "unique": false,
+                "min": 0,
+                "max": 2147483647,
+                "decimalplaces": 0,
+                "messageType": "ERROR",
+                "message": "Default logo is required",
+                "data": {}
+              }
+            ],
+            "metadata": {},
+            "translationKey": "model.attribute.logo"
+          },
+          "language": "ANY",
+          "values": [
+            {
+              "key": "skychb_1306_lightnow",
+              "type": "Light",
+              "template": "https://images.metadata.sky.com/pd-logo/{key}/{width}/{height}"
+            },
+            {
+              "type": "Default",
+              "key": "skychb_1306_darknow",
+              "template": "https://images.metadata.sky.com/pd-logo/{key}/{width}/{height}"
+            },
+            {
+              "key": "skychb_1306_darknow",
+              "type": "Dark",
+              "template": "https://images.metadata.sky.com/pd-logo/{key}/{width}/{height}"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "nodeId": "cb6f4c84-cce6-11ee-b26f-4301e51c5d9f",
+      "variants": [
+        {
+          "name": "LOGO",
+          "overrideValues": [],
+          "attribute": {
+            "name": "LOGO",
+            "type": "REFDATA",
+            "subType": "linear_channel",
+            "multiValue": true,
+            "languageAgnostic": true,
+            "datagramValueType": "LOGO",
+            "rank": 24,
+            "uihint": {
+              "componentId": "CHANNEL_LOGO",
+              "wideDisplay": true
+            },
+            "visibleOnClientApi": true,
+            "editableRoles": [],
+            "propositional": false,
+            "typePath": "/REFDATA/linear_channel",
+            "validators": [
+              {
+                "name": "REQUIRED_CHANNEL_LOGO",
+                "required": false,
+                "unique": false,
+                "min": 0,
+                "max": 2147483647,
+                "decimalplaces": 0,
+                "messageType": "ERROR",
+                "message": "Default logo is required",
+                "data": {}
+              }
+            ],
+            "metadata": {},
+            "translationKey": "model.attribute.logo"
+          },
+          "language": "ANY",
+          "values": [
+            {
+              "key": "skychb_1306_lightnow",
+              "type": "Light",
+              "template": "https://images.metadata.sky.com/pd-logo/{key}/{width}/{height}"
+            },
+            {
+              "type": "Default",
+              "key": "skychb_1306_darknow",
+              "template": "https://images.metadata.sky.com/pd-logo/{key}/{width}/{height}"
+            },
+            {
+              "key": "skychb_1306_darknow",
+              "type": "Dark",
+              "template": "https://images.metadata.sky.com/pd-logo/{key}/{width}/{height}"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "nodeId": "cb932262-cce6-11ee-890e-fbe7e135ff68",
+      "variants": [
+        {
+          "name": "LOGO",
+          "overrideValues": [],
+          "attribute": {
+            "name": "LOGO",
+            "type": "REFDATA",
+            "subType": "linear_channel",
+            "multiValue": true,
+            "languageAgnostic": true,
+            "datagramValueType": "LOGO",
+            "rank": 24,
+            "uihint": {
+              "componentId": "CHANNEL_LOGO",
+              "wideDisplay": true
+            },
+            "visibleOnClientApi": true,
+            "editableRoles": [],
+            "propositional": false,
+            "typePath": "/REFDATA/linear_channel",
+            "validators": [
+              {
+                "name": "REQUIRED_CHANNEL_LOGO",
+                "required": false,
+                "unique": false,
+                "min": 0,
+                "max": 2147483647,
+                "decimalplaces": 0,
+                "messageType": "ERROR",
+                "message": "Default logo is required",
+                "data": {}
+              }
+            ],
+            "metadata": {},
+            "translationKey": "model.attribute.logo"
+          },
+          "language": "ANY",
+          "values": [
+            {
+              "key": "skychb_1306_lightnow",
+              "type": "Light",
+              "template": "https://images.metadata.sky.com/pd-logo/{key}/{width}/{height}"
+            },
+            {
+              "type": "Default",
+              "key": "skychb_1306_darknow",
+              "template": "https://images.metadata.sky.com/pd-logo/{key}/{width}/{height}"
+            },
+            {
+              "key": "skychb_1306_darknow",
+              "type": "Dark",
+              "template": "https://images.metadata.sky.com/pd-logo/{key}/{width}/{height}"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "nodeId": "cb870f22-cce6-11ee-a982-6fe99dd8daa0",
+      "variants": [
+        {
+          "name": "LOGO",
+          "overrideValues": [],
+          "attribute": {
+            "name": "LOGO",
+            "type": "REFDATA",
+            "subType": "linear_channel",
+            "multiValue": true,
+            "languageAgnostic": true,
+            "datagramValueType": "LOGO",
+            "rank": 24,
+            "uihint": {
+              "componentId": "CHANNEL_LOGO",
+              "wideDisplay": true
+            },
+            "visibleOnClientApi": true,
+            "editableRoles": [],
+            "propositional": false,
+            "typePath": "/REFDATA/linear_channel",
+            "validators": [
+              {
+                "name": "REQUIRED_CHANNEL_LOGO",
+                "required": false,
+                "unique": false,
+                "min": 0,
+                "max": 2147483647,
+                "decimalplaces": 0,
+                "messageType": "ERROR",
+                "message": "Default logo is required",
+                "data": {}
+              }
+            ],
+            "metadata": {},
+            "translationKey": "model.attribute.logo"
+          },
+          "language": "ANY",
+          "values": [
+            {
+              "key": "skychb_1306_lightnow",
+              "type": "Light",
+              "template": "https://images.metadata.sky.com/pd-logo/{key}/{width}/{height}"
+            },
+            {
+              "type": "Default",
+              "key": "skychb_1306_darknow",
+              "template": "https://images.metadata.sky.com/pd-logo/{key}/{width}/{height}"
+            },
+            {
+              "key": "skychb_1306_darknow",
+              "type": "Dark",
+              "template": "https://images.metadata.sky.com/pd-logo/{key}/{width}/{height}"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "nodeId": "0b2b2932-cce8-11ee-b8b1-67a33bc573ad",
+      "variants": [
+        {
+          "name": "LOGO",
+          "overrideValues": [],
+          "attribute": {
+            "name": "LOGO",
+            "type": "REFDATA",
+            "subType": "linear_channel",
+            "multiValue": true,
+            "languageAgnostic": true,
+            "datagramValueType": "LOGO",
+            "rank": 24,
+            "uihint": {
+              "componentId": "CHANNEL_LOGO",
+              "wideDisplay": true
+            },
+            "visibleOnClientApi": true,
+            "editableRoles": [],
+            "propositional": false,
+            "typePath": "/REFDATA/linear_channel",
+            "validators": [
+              {
+                "name": "REQUIRED_CHANNEL_LOGO",
+                "required": false,
+                "unique": false,
+                "min": 0,
+                "max": 2147483647,
+                "decimalplaces": 0,
+                "messageType": "ERROR",
+                "message": "Default logo is required",
+                "data": {}
+              }
+            ],
+            "metadata": {},
+            "translationKey": "model.attribute.logo"
+          },
+          "language": "ANY",
+          "values": [
+            {
+              "key": "skychb_1306_lightnow",
+              "type": "Light",
+              "template": "https://images.metadata.sky.com/pd-logo/{key}/{width}/{height}"
+            },
+            {
+              "type": "Default",
+              "key": "skychb_1306_darknow",
+              "template": "https://images.metadata.sky.com/pd-logo/{key}/{width}/{height}"
+            },
+            {
+              "key": "skychb_1306_darknow",
+              "type": "Dark",
+              "template": "https://images.metadata.sky.com/pd-logo/{key}/{width}/{height}"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "nodeId": "0b3270d4-cce8-11ee-87ee-53b365b360fe",
+      "variants": [
+        {
+          "name": "LOGO",
+          "overrideValues": [],
+          "attribute": {
+            "name": "LOGO",
+            "type": "REFDATA",
+            "subType": "linear_channel",
+            "multiValue": true,
+            "languageAgnostic": true,
+            "datagramValueType": "LOGO",
+            "rank": 24,
+            "uihint": {
+              "componentId": "CHANNEL_LOGO",
+              "wideDisplay": true
+            },
+            "visibleOnClientApi": true,
+            "editableRoles": [],
+            "propositional": false,
+            "typePath": "/REFDATA/linear_channel",
+            "validators": [
+              {
+                "name": "REQUIRED_CHANNEL_LOGO",
+                "required": false,
+                "unique": false,
+                "min": 0,
+                "max": 2147483647,
+                "decimalplaces": 0,
+                "messageType": "ERROR",
+                "message": "Default logo is required",
+                "data": {}
+              }
+            ],
+            "metadata": {},
+            "translationKey": "model.attribute.logo"
+          },
+          "language": "ANY",
+          "values": [
+            {
+              "key": "skychb_1306_lightnow",
+              "type": "Light",
+              "template": "https://images.metadata.sky.com/pd-logo/{key}/{width}/{height}"
+            },
+            {
+              "type": "Default",
+              "key": "skychb_1306_darknow",
+              "template": "https://images.metadata.sky.com/pd-logo/{key}/{width}/{height}"
+            },
+            {
+              "key": "skychb_1306_darknow",
+              "type": "Dark",
+              "template": "https://images.metadata.sky.com/pd-logo/{key}/{width}/{height}"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "nodeId": "0b2b4fa2-cce8-11ee-8e24-a7ea87dfbf62",
+      "variants": [
+        {
+          "name": "LOGO",
+          "overrideValues": [],
+          "attribute": {
+            "name": "LOGO",
+            "type": "REFDATA",
+            "subType": "linear_channel",
+            "multiValue": true,
+            "languageAgnostic": true,
+            "datagramValueType": "LOGO",
+            "rank": 24,
+            "uihint": {
+              "componentId": "CHANNEL_LOGO",
+              "wideDisplay": true
+            },
+            "visibleOnClientApi": true,
+            "editableRoles": [],
+            "propositional": false,
+            "typePath": "/REFDATA/linear_channel",
+            "validators": [
+              {
+                "name": "REQUIRED_CHANNEL_LOGO",
+                "required": false,
+                "unique": false,
+                "min": 0,
+                "max": 2147483647,
+                "decimalplaces": 0,
+                "messageType": "ERROR",
+                "message": "Default logo is required",
+                "data": {}
+              }
+            ],
+            "metadata": {},
+            "translationKey": "model.attribute.logo"
+          },
+          "language": "ANY",
+          "values": [
+            {
+              "key": "skychb_1306_lightnow",
+              "type": "Light",
+              "template": "https://images.metadata.sky.com/pd-logo/{key}/{width}/{height}"
+            },
+            {
+              "type": "Default",
+              "key": "skychb_1306_darknow",
+              "template": "https://images.metadata.sky.com/pd-logo/{key}/{width}/{height}"
+            },
+            {
+              "key": "skychb_1306_darknow",
+              "type": "Dark",
+              "template": "https://images.metadata.sky.com/pd-logo/{key}/{width}/{height}"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "nodeId": "0b30803a-cce8-11ee-aca9-a3dcc76ed1c4",
+      "variants": [
+        {
+          "name": "LOGO",
+          "overrideValues": [],
+          "attribute": {
+            "name": "LOGO",
+            "type": "REFDATA",
+            "subType": "linear_channel",
+            "multiValue": true,
+            "languageAgnostic": true,
+            "datagramValueType": "LOGO",
+            "rank": 24,
+            "uihint": {
+              "componentId": "CHANNEL_LOGO",
+              "wideDisplay": true
+            },
+            "visibleOnClientApi": true,
+            "editableRoles": [],
+            "propositional": false,
+            "typePath": "/REFDATA/linear_channel",
+            "validators": [
+              {
+                "name": "REQUIRED_CHANNEL_LOGO",
+                "required": false,
+                "unique": false,
+                "min": 0,
+                "max": 2147483647,
+                "decimalplaces": 0,
+                "messageType": "ERROR",
+                "message": "Default logo is required",
+                "data": {}
+              }
+            ],
+            "metadata": {},
+            "translationKey": "model.attribute.logo"
+          },
+          "language": "ANY",
+          "values": [
+            {
+              "key": "skychb_1306_lightnow",
+              "type": "Light",
+              "template": "https://images.metadata.sky.com/pd-logo/{key}/{width}/{height}"
+            },
+            {
+              "type": "Default",
+              "key": "skychb_1306_darknow",
+              "template": "https://images.metadata.sky.com/pd-logo/{key}/{width}/{height}"
+            },
+            {
+              "key": "skychb_1306_darknow",
+              "type": "Dark",
+              "template": "https://images.metadata.sky.com/pd-logo/{key}/{width}/{height}"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "nodeId": "0bd79280-cce8-11ee-9b20-576e65ce5b24",
+      "variants": [
+        {
+          "name": "LOGO",
+          "overrideValues": [],
+          "attribute": {
+            "name": "LOGO",
+            "type": "REFDATA",
+            "subType": "linear_channel",
+            "multiValue": true,
+            "languageAgnostic": true,
+            "datagramValueType": "LOGO",
+            "rank": 24,
+            "uihint": {
+              "componentId": "CHANNEL_LOGO",
+              "wideDisplay": true
+            },
+            "visibleOnClientApi": true,
+            "editableRoles": [],
+            "propositional": false,
+            "typePath": "/REFDATA/linear_channel",
+            "validators": [
+              {
+                "name": "REQUIRED_CHANNEL_LOGO",
+                "required": false,
+                "unique": false,
+                "min": 0,
+                "max": 2147483647,
+                "decimalplaces": 0,
+                "messageType": "ERROR",
+                "message": "Default logo is required",
+                "data": {}
+              }
+            ],
+            "metadata": {},
+            "translationKey": "model.attribute.logo"
+          },
+          "language": "ANY",
+          "values": [
+            {
+              "key": "skychb_1306_lightnow",
+              "type": "Light",
+              "template": "https://images.metadata.sky.com/pd-logo/{key}/{width}/{height}"
+            },
+            {
+              "type": "Default",
+              "key": "skychb_1306_darknow",
+              "template": "https://images.metadata.sky.com/pd-logo/{key}/{width}/{height}"
+            },
+            {
+              "key": "skychb_1306_darknow",
+              "type": "Dark",
+              "template": "https://images.metadata.sky.com/pd-logo/{key}/{width}/{height}"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "nodeId": "4a0dead0-cce9-11ee-9c46-77d31478d434",
+      "variants": [
+        {
+          "name": "LOGO",
+          "overrideValues": [],
+          "attribute": {
+            "name": "LOGO",
+            "type": "REFDATA",
+            "subType": "linear_channel",
+            "multiValue": true,
+            "languageAgnostic": true,
+            "datagramValueType": "LOGO",
+            "rank": 24,
+            "uihint": {
+              "componentId": "CHANNEL_LOGO",
+              "wideDisplay": true
+            },
+            "visibleOnClientApi": true,
+            "editableRoles": [],
+            "propositional": false,
+            "typePath": "/REFDATA/linear_channel",
+            "validators": [
+              {
+                "name": "REQUIRED_CHANNEL_LOGO",
+                "required": false,
+                "unique": false,
+                "min": 0,
+                "max": 2147483647,
+                "decimalplaces": 0,
+                "messageType": "ERROR",
+                "message": "Default logo is required",
+                "data": {}
+              }
+            ],
+            "metadata": {},
+            "translationKey": "model.attribute.logo"
+          },
+          "language": "ANY",
+          "values": [
+            {
+              "key": "skychb_1306_lightnow",
+              "type": "Light",
+              "template": "https://images.metadata.sky.com/pd-logo/{key}/{width}/{height}"
+            },
+            {
+              "type": "Default",
+              "key": "skychb_1306_darknow",
+              "template": "https://images.metadata.sky.com/pd-logo/{key}/{width}/{height}"
+            },
+            {
+              "key": "skychb_1306_darknow",
+              "type": "Dark",
+              "template": "https://images.metadata.sky.com/pd-logo/{key}/{width}/{height}"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "nodeId": "4a18f6fa-cce9-11ee-ba5d-9765c8fd6d8a",
+      "variants": [
+        {
+          "name": "LOGO",
+          "overrideValues": [],
+          "attribute": {
+            "name": "LOGO",
+            "type": "REFDATA",
+            "subType": "linear_channel",
+            "multiValue": true,
+            "languageAgnostic": true,
+            "datagramValueType": "LOGO",
+            "rank": 24,
+            "uihint": {
+              "componentId": "CHANNEL_LOGO",
+              "wideDisplay": true
+            },
+            "visibleOnClientApi": true,
+            "editableRoles": [],
+            "propositional": false,
+            "typePath": "/REFDATA/linear_channel",
+            "validators": [
+              {
+                "name": "REQUIRED_CHANNEL_LOGO",
+                "required": false,
+                "unique": false,
+                "min": 0,
+                "max": 2147483647,
+                "decimalplaces": 0,
+                "messageType": "ERROR",
+                "message": "Default logo is required",
+                "data": {}
+              }
+            ],
+            "metadata": {},
+            "translationKey": "model.attribute.logo"
+          },
+          "language": "ANY",
+          "values": [
+            {
+              "key": "skychb_1306_lightnow",
+              "type": "Light",
+              "template": "https://images.metadata.sky.com/pd-logo/{key}/{width}/{height}"
+            },
+            {
+              "type": "Default",
+              "key": "skychb_1306_darknow",
+              "template": "https://images.metadata.sky.com/pd-logo/{key}/{width}/{height}"
+            },
+            {
+              "key": "skychb_1306_darknow",
+              "type": "Dark",
+              "template": "https://images.metadata.sky.com/pd-logo/{key}/{width}/{height}"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "nodeId": "4a247958-cce9-11ee-a7cc-730304a382ef",
+      "variants": [
+        {
+          "name": "LOGO",
+          "overrideValues": [],
+          "attribute": {
+            "name": "LOGO",
+            "type": "REFDATA",
+            "subType": "linear_channel",
+            "multiValue": true,
+            "languageAgnostic": true,
+            "datagramValueType": "LOGO",
+            "rank": 24,
+            "uihint": {
+              "componentId": "CHANNEL_LOGO",
+              "wideDisplay": true
+            },
+            "visibleOnClientApi": true,
+            "editableRoles": [],
+            "propositional": false,
+            "typePath": "/REFDATA/linear_channel",
+            "validators": [
+              {
+                "name": "REQUIRED_CHANNEL_LOGO",
+                "required": false,
+                "unique": false,
+                "min": 0,
+                "max": 2147483647,
+                "decimalplaces": 0,
+                "messageType": "ERROR",
+                "message": "Default logo is required",
+                "data": {}
+              }
+            ],
+            "metadata": {},
+            "translationKey": "model.attribute.logo"
+          },
+          "language": "ANY",
+          "values": [
+            {
+              "key": "skychb_1306_lightnow",
+              "type": "Light",
+              "template": "https://images.metadata.sky.com/pd-logo/{key}/{width}/{height}"
+            },
+            {
+              "type": "Default",
+              "key": "skychb_1306_darknow",
+              "template": "https://images.metadata.sky.com/pd-logo/{key}/{width}/{height}"
+            },
+            {
+              "key": "skychb_1306_darknow",
+              "type": "Dark",
+              "template": "https://images.metadata.sky.com/pd-logo/{key}/{width}/{height}"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "nodeId": "4a3d7912-cce9-11ee-8876-fbbc8f27b29b",
+      "variants": [
+        {
+          "name": "LOGO",
+          "overrideValues": [],
+          "attribute": {
+            "name": "LOGO",
+            "type": "REFDATA",
+            "subType": "linear_channel",
+            "multiValue": true,
+            "languageAgnostic": true,
+            "datagramValueType": "LOGO",
+            "rank": 24,
+            "uihint": {
+              "componentId": "CHANNEL_LOGO",
+              "wideDisplay": true
+            },
+            "visibleOnClientApi": true,
+            "editableRoles": [],
+            "propositional": false,
+            "typePath": "/REFDATA/linear_channel",
+            "validators": [
+              {
+                "name": "REQUIRED_CHANNEL_LOGO",
+                "required": false,
+                "unique": false,
+                "min": 0,
+                "max": 2147483647,
+                "decimalplaces": 0,
+                "messageType": "ERROR",
+                "message": "Default logo is required",
+                "data": {}
+              }
+            ],
+            "metadata": {},
+            "translationKey": "model.attribute.logo"
+          },
+          "language": "ANY",
+          "values": [
+            {
+              "key": "skychb_1306_lightnow",
+              "type": "Light",
+              "template": "https://images.metadata.sky.com/pd-logo/{key}/{width}/{height}"
+            },
+            {
+              "type": "Default",
+              "key": "skychb_1306_darknow",
+              "template": "https://images.metadata.sky.com/pd-logo/{key}/{width}/{height}"
+            },
+            {
+              "key": "skychb_1306_darknow",
+              "type": "Dark",
+              "template": "https://images.metadata.sky.com/pd-logo/{key}/{width}/{height}"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "nodeId": "4a2fb0f2-cce9-11ee-ae43-9fd015f7a660",
+      "variants": [
+        {
+          "name": "LOGO",
+          "overrideValues": [],
+          "attribute": {
+            "name": "LOGO",
+            "type": "REFDATA",
+            "subType": "linear_channel",
+            "multiValue": true,
+            "languageAgnostic": true,
+            "datagramValueType": "LOGO",
+            "rank": 24,
+            "uihint": {
+              "componentId": "CHANNEL_LOGO",
+              "wideDisplay": true
+            },
+            "visibleOnClientApi": true,
+            "editableRoles": [],
+            "propositional": false,
+            "typePath": "/REFDATA/linear_channel",
+            "validators": [
+              {
+                "name": "REQUIRED_CHANNEL_LOGO",
+                "required": false,
+                "unique": false,
+                "min": 0,
+                "max": 2147483647,
+                "decimalplaces": 0,
+                "messageType": "ERROR",
+                "message": "Default logo is required",
+                "data": {}
+              }
+            ],
+            "metadata": {},
+            "translationKey": "model.attribute.logo"
+          },
+          "language": "ANY",
+          "values": [
+            {
+              "key": "skychb_1306_lightnow",
+              "type": "Light",
+              "template": "https://images.metadata.sky.com/pd-logo/{key}/{width}/{height}"
+            },
+            {
+              "type": "Default",
+              "key": "skychb_1306_darknow",
+              "template": "https://images.metadata.sky.com/pd-logo/{key}/{width}/{height}"
+            },
+            {
+              "key": "skychb_1306_darknow",
+              "type": "Dark",
+              "template": "https://images.metadata.sky.com/pd-logo/{key}/{width}/{height}"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "nodeId": "ac67c480-cf19-11ee-b564-ab5804a9757e",
+      "variants": []
+    },
+    {
+      "nodeId": "3a73ea66-0236-11ef-85e2-e7398cb37623",
+      "variants": []
+    },
+    {
+      "nodeId": "3a80f576-0236-11ef-9341-e34c5770e7e2",
+      "variants": []
+    },
+    {
+      "nodeId": "dda8ec74-0239-11ef-9258-0fd0fa180a45",
+      "variants": []
+    },
+    {
+      "nodeId": "ddb6bf48-0239-11ef-a22b-8fde4e5deaa3",
+      "variants": []
+    },
+    {
+      "nodeId": "1fd5bd36-3eb5-11ef-aa90-3b4753d15ade",
+      "variants": []
+    },
+    {
+      "nodeId": "1fe19188-3eb5-11ef-bcf0-b31dbce0fef4",
+      "variants": []
+    },
+    {
+      "nodeId": "1fef988c-3eb5-11ef-a2e0-df7be7fadff5",
+      "variants": []
+    },
+    {
+      "nodeId": "1ffcbc9c-3eb5-11ef-9e93-53cca310a050",
+      "variants": []
+    },
+    {
+      "nodeId": "200a7fd0-3eb5-11ef-899d-fbdcec547282",
+      "variants": []
+    },
+    {
+      "nodeId": "201703a4-3eb5-11ef-9394-4f444f5b3326",
+      "variants": []
+    },
+    {
+      "nodeId": "20249de8-3eb5-11ef-9117-c38fa3e2251e",
+      "variants": []
+    },
+    {
+      "nodeId": "2032a3ca-3eb5-11ef-ab4a-c7f71426bfa1",
+      "variants": []
+    },
+    {
+      "nodeId": "203fd176-3eb5-11ef-955e-1b2c71fc2f1f",
+      "variants": []
+    },
+    {
+      "nodeId": "205001c2-3eb5-11ef-9e33-676c7a1ac09e",
+      "variants": []
+    },
+    {
+      "nodeId": "205ca38c-3eb5-11ef-bc3e-b3556b9bc1b2",
+      "variants": []
+    },
+    {
+      "nodeId": "20690492-3eb5-11ef-9814-d38bc4e240ec",
+      "variants": []
+    },
+    {
+      "nodeId": "2076e472-3eb5-11ef-874f-2fbbfc76c12d",
+      "variants": []
+    },
+    {
+      "nodeId": "20848b5e-3eb5-11ef-a7b4-4b455393a2e6",
+      "variants": []
+    },
+    {
+      "nodeId": "2094e8be-3eb5-11ef-a7a9-8787ad79d0bf",
+      "variants": []
+    },
+    {
+      "nodeId": "20a5765c-3eb5-11ef-a2fd-830e4df6d029",
+      "variants": []
+    },
+    {
+      "nodeId": "20b6aef4-3eb5-11ef-b003-2f1477a66fd8",
+      "variants": []
+    },
+    {
+      "nodeId": "20c77b62-3eb5-11ef-b8f9-2b16c651458a",
+      "variants": []
+    },
+    {
+      "nodeId": "20d75550-3eb5-11ef-9932-2f79316073b5",
+      "variants": []
+    },
+    {
+      "nodeId": "20e6a906-3eb5-11ef-8cb1-e7dde5e686a9",
+      "variants": []
+    },
+    {
+      "nodeId": "20f5b676-3eb5-11ef-adb4-3bd2ac8637d9",
+      "variants": []
+    },
+    {
+      "nodeId": "2103ac90-3eb5-11ef-a1be-d72dddaac378",
+      "variants": []
+    },
+    {
+      "nodeId": "2113d3cc-3eb5-11ef-adff-c3270dd2a27f",
+      "variants": []
+    },
+    {
+      "nodeId": "21246264-3eb5-11ef-988a-6fa8f29440b4",
+      "variants": []
+    },
+    {
+      "nodeId": "213cb706-3eb5-11ef-9565-c341b5834ed7",
+      "variants": []
+    },
+    {
+      "nodeId": "215154f4-3eb5-11ef-b93d-cbe01cc70e72",
+      "variants": []
+    },
+    {
+      "nodeId": "21682648-3eb5-11ef-85c7-4358241e8626",
+      "variants": []
+    },
+    {
+      "nodeId": "2179e5a4-3eb5-11ef-81df-af9b16bd7f5f",
+      "variants": []
+    },
+    {
+      "nodeId": "218a4eb2-3eb5-11ef-a4f6-1f53712b5eda",
+      "variants": []
+    },
+    {
+      "nodeId": "21a17f06-3eb5-11ef-909f-afb66fbf2ae7",
+      "variants": []
+    },
+    {
+      "nodeId": "21b84632-3eb5-11ef-90cd-1f72d62773fa",
+      "variants": []
+    },
+    {
+      "nodeId": "21c7e86c-3eb5-11ef-9ca6-9b8852512e0f",
+      "variants": []
+    },
+    {
+      "nodeId": "21da00c4-3eb5-11ef-a76b-0bf37dbe55b9",
+      "variants": []
+    },
+    {
+      "nodeId": "21ee36fc-3eb5-11ef-af24-0b009c95323d",
+      "variants": []
+    },
+    {
+      "nodeId": "21fdfbfa-3eb5-11ef-978e-ebed30a67ea5",
+      "variants": []
+    },
+    {
+      "nodeId": "2214dc12-3eb5-11ef-8844-8ba8b5b9c48d",
+      "variants": []
+    },
+    {
+      "nodeId": "2223f24c-3eb5-11ef-a635-a7c6a212500c",
+      "variants": []
+    },
+    {
+      "nodeId": "2235263e-3eb5-11ef-ab66-eb0086e576be",
+      "variants": []
+    },
+    {
+      "nodeId": "22457c28-3eb5-11ef-8d22-d7b6e36846fa",
+      "variants": []
+    },
+    {
+      "nodeId": "225a4e0a-3eb5-11ef-a1d7-a7ec72218deb",
+      "variants": []
+    },
+    {
+      "nodeId": "26573fea-3eb5-11ef-aaa7-0f8413c19231",
+      "variants": []
+    },
+    {
+      "nodeId": "267b9e4e-3eb5-11ef-a2f7-0f63c83a6f5f",
+      "variants": []
+    },
+    {
+      "nodeId": "268d7c68-3eb5-11ef-9eaa-cf526fffd43c",
+      "variants": []
+    },
+    {
+      "nodeId": "2696e3ac-3eb5-11ef-bd07-3f4939735e60",
+      "variants": []
+    },
+    {
+      "nodeId": "26ab0170-3eb5-11ef-89b4-03ff42e312a5",
+      "variants": []
+    },
+    {
+      "nodeId": "26cfe9f4-3eb5-11ef-912e-0b1646068928",
+      "variants": []
+    },
+    {
+      "nodeId": "26f78f04-3eb5-11ef-ab61-ebb42aa141c5",
+      "variants": []
+    },
+    {
+      "nodeId": "272923de-3eb5-11ef-9575-2f31d34f0ca3",
+      "variants": []
+    },
+    {
+      "nodeId": "273b5bd0-3eb5-11ef-93ab-3bbd0e6dc3ff",
+      "variants": []
+    },
+    {
+      "nodeId": "2746c8a8-3eb5-11ef-9e4a-7b8a5161d9e9",
+      "variants": []
+    },
+    {
+      "nodeId": "2768045a-3eb5-11ef-bc55-4bf849e36a34",
+      "variants": []
+    },
+    {
+      "nodeId": "276be872-3eb5-11ef-982b-8b24558200a1",
+      "variants": []
+    },
+    {
+      "nodeId": "2795877c-3eb5-11ef-a7c0-2f10c4da3125",
+      "variants": []
+    },
+    {
+      "nodeId": "27a3187e-3eb5-11ef-a7cb-577ead984b87",
+      "variants": []
+    },
+    {
+      "nodeId": "27a34b82-3eb5-11ef-8766-134a268dd3b0",
+      "variants": []
+    },
+    {
+      "nodeId": "27ddd2ca-3eb5-11ef-a314-d3d0addb7503",
+      "variants": []
+    },
+    {
+      "nodeId": "280864c2-3eb5-11ef-b01a-cb8ca1e827a8",
+      "variants": []
+    },
+    {
+      "nodeId": "282ad624-3eb5-11ef-b910-4f05279f8e81",
+      "variants": []
+    },
+    {
+      "nodeId": "282afa14-3eb5-11ef-adcb-673fb0f04f50",
+      "variants": []
+    },
+    {
+      "nodeId": "285df2ac-3eb5-11ef-a1d5-8b4fec5c028d",
+      "variants": []
+    },
+    {
+      "nodeId": "28608f26-3eb5-11ef-8cc8-bb598537e947",
+      "variants": []
+    },
+    {
+      "nodeId": "28659f5c-3eb5-11ef-9949-b3d8e80d525c",
+      "variants": []
+    },
+    {
+      "nodeId": "2884f8e8-3eb5-11ef-ae16-874f6c304f51",
+      "variants": []
+    },
+    {
+      "nodeId": "28c794fa-3eb5-11ef-98a1-9f890e7d5000",
+      "variants": []
+    },
+    {
+      "nodeId": "28ecfc54-3eb5-11ef-957c-2722c20a5af5",
+      "variants": []
+    },
+    {
+      "nodeId": "28edc882-3eb5-11ef-81f6-ef2b0878dfdf",
+      "variants": []
+    },
+    {
+      "nodeId": "2909fc82-3eb5-11ef-85de-ef6bf5697609",
+      "variants": []
+    },
+    {
+      "nodeId": "29148940-3eb5-11ef-b954-83c31e09298b",
+      "variants": []
+    },
+    {
+      "nodeId": "291b8da8-3eb5-11ef-a50d-2b3432c9eca9",
+      "variants": []
+    },
+    {
+      "nodeId": "294ca9c4-3eb5-11ef-90b6-9ba914e1ff4c",
+      "variants": []
+    },
+    {
+      "nodeId": "294ce510-3eb5-11ef-a782-df38342f3e12",
+      "variants": []
+    },
+    {
+      "nodeId": "29646726-3eb5-11ef-9cbd-1782015ad4f8",
+      "variants": []
+    },
+    {
+      "nodeId": "2980860e-3eb5-11ef-90e4-b719f23cf8c3",
+      "variants": []
+    },
+    {
+      "nodeId": "2987af88-3eb5-11ef-97a5-67d00167dc1e",
+      "variants": []
+    },
+    {
+      "nodeId": "29a96498-3eb5-11ef-885b-03c687894631",
+      "variants": []
+    },
+    {
+      "nodeId": "29b54646-3eb5-11ef-a64c-eb96ecf8eac9",
+      "variants": []
+    },
+    {
+      "nodeId": "29ce6e00-3eb5-11ef-a1ee-b798f4b29c3c",
+      "variants": []
+    },
+    {
+      "nodeId": "29dd3336-3eb5-11ef-af3b-bb415fe54378",
+      "variants": []
+    },
+    {
+      "nodeId": "29e0fea8-3eb5-11ef-ab7d-f319f386493e",
+      "variants": []
+    },
+    {
+      "nodeId": "29e3bbac-3eb5-11ef-8d39-f318c4a57a87",
+      "variants": []
+    },
+    {
+      "nodeId": "2e191744-3eb5-11ef-aabe-5fd8fd43de7c",
+      "variants": []
+    },
+    {
+      "nodeId": "2e220372-3eb5-11ef-a30e-2fe9de868c45",
+      "variants": []
+    },
+    {
+      "nodeId": "2e35b9e4-3eb5-11ef-9ec1-d3bce10215b8",
+      "variants": []
+    },
+    {
+      "nodeId": "2e729030-3eb5-11ef-89cb-533e9c3ebe11",
+      "variants": []
+    },
+    {
+      "nodeId": "2e8cc2fc-3eb5-11ef-bd1e-c7a5a1c5cdd4",
+      "variants": []
+    },
+    {
+      "nodeId": "2e8cedf4-3eb5-11ef-9145-071b1ce3c87b",
+      "variants": []
+    },
+    {
+      "nodeId": "2eabca9e-3eb5-11ef-ab78-9f7aa55af520",
+      "variants": []
+    },
+    {
+      "nodeId": "2ef27462-3eb5-11ef-958c-73e6a69ed911",
+      "variants": []
+    },
+    {
+      "nodeId": "2ef77a7a-3eb5-11ef-9e61-337300ff1492",
+      "variants": []
+    },
+    {
+      "nodeId": "2f3fd144-3eb5-11ef-93c2-9beda55d4b4e",
+      "variants": []
+    },
+    {
+      "nodeId": "2f43a760-3eb5-11ef-bc6c-b74044123ab6",
+      "variants": []
+    },
+    {
+      "nodeId": "2f43b0ca-3eb5-11ef-a7d7-c727cb003316",
+      "variants": []
+    },
+    {
+      "nodeId": "2f4809ea-3eb5-11ef-9842-1f73da7e7458",
+      "variants": []
+    },
+    {
+      "nodeId": "2f9164be-3eb5-11ef-a7e2-f7c769854882",
+      "variants": []
+    },
+    {
+      "nodeId": "2fa67c46-3eb5-11ef-a32b-4f1f64590957",
+      "variants": []
+    },
+    {
+      "nodeId": "2fc049dc-3eb5-11ef-877d-f7674fa4aaf0",
+      "variants": []
+    },
+    {
+      "nodeId": "2fd00390-3eb5-11ef-ade2-67383612ab64",
+      "variants": []
+    },
+    {
+      "nodeId": "30246656-3eb5-11ef-b031-03c8da8a819b",
+      "variants": []
+    },
+    {
+      "nodeId": "3041098c-3eb5-11ef-8cdf-6f3ab4a2c425",
+      "variants": []
+    },
+    {
+      "nodeId": "3046c6ba-3eb5-11ef-a1ec-276ce10e6774",
+      "variants": []
+    },
+    {
+      "nodeId": "8e7c863e-3eb5-11ef-b027-5b4894c43976",
+      "variants": []
+    },
+    {
+      "nodeId": "8e87b4fa-3eb5-11ef-a346-97cfa77f46c5",
+      "variants": []
+    },
+    {
+      "nodeId": "8e935ee0-3eb5-11ef-8794-1f01951a7086",
+      "variants": []
+    },
+    {
+      "nodeId": "8e9f09de-3eb5-11ef-adfb-e72fc931f85c",
+      "variants": []
+    },
+    {
+      "nodeId": "8eac4d2e-3eb5-11ef-8cf6-7375b157dfdf",
+      "variants": []
+    },
+    {
+      "nodeId": "8eb82324-3eb5-11ef-a203-67beff1c8849",
+      "variants": []
+    },
+    {
+      "nodeId": "8ec3c5a8-3eb5-11ef-a79a-8701959c8e91",
+      "variants": []
+    },
+    {
+      "nodeId": "8ecfa378-3eb5-11ef-b96c-8fe0aec3bedd",
+      "variants": []
+    },
+    {
+      "nodeId": "8edb85bc-3eb5-11ef-a525-075ce8fe5622",
+      "variants": []
+    },
+    {
+      "nodeId": "8ee7c57a-3eb5-11ef-98b9-eb404b2b772b",
+      "variants": []
+    },
+    {
+      "nodeId": "8ef3ab2e-3eb5-11ef-820e-17ade3097341",
+      "variants": []
+    },
+    {
+      "nodeId": "8f00a2fc-3eb5-11ef-9594-57fa723f6847",
+      "variants": []
+    },
+    {
+      "nodeId": "8f0d0a4c-3eb5-11ef-85f6-97818ac0cabd",
+      "variants": []
+    },
+    {
+      "nodeId": "8f191fa8-3eb5-11ef-9961-c770f4efad65",
+      "variants": []
+    },
+    {
+      "nodeId": "8f25424c-3eb5-11ef-ae2e-8f2f0dd3de36",
+      "variants": []
+    },
+    {
+      "nodeId": "8f31dcbe-3eb5-11ef-b927-d378609df398",
+      "variants": []
+    },
+    {
+      "nodeId": "8f402cc4-3eb5-11ef-a6b5-e715e2f59581",
+      "variants": []
+    },
+    {
+      "nodeId": "8f505522-3eb5-11ef-9419-6b93599bd577",
+      "variants": []
+    },
+    {
+      "nodeId": "8f5e0ec4-3eb5-11ef-82b2-830d6c6bf672",
+      "variants": []
+    },
+    {
+      "nodeId": "8f6c33b4-3eb5-11ef-be09-6f7dcae092fa",
+      "variants": []
+    },
+    {
+      "nodeId": "8f7d6224-3eb5-11ef-baef-f3361d8a3d3e",
+      "variants": []
+    },
+    {
+      "nodeId": "8f8dc1d2-3eb5-11ef-a27b-9fcfefd806e1",
+      "variants": []
+    },
+    {
+      "nodeId": "8fa16854-3eb5-11ef-9caf-f7c395784f27",
+      "variants": []
+    },
+    {
+      "nodeId": "8fb06e58-3eb5-11ef-856f-2f6792d8ec11",
+      "variants": []
+    },
+    {
+      "nodeId": "8fc47bfa-3eb5-11ef-8935-8f1db864756f",
+      "variants": []
+    },
+    {
+      "nodeId": "8fd3a09e-3eb5-11ef-a07b-87fbbbffebeb",
+      "variants": []
+    },
+    {
+      "nodeId": "8fe5a4c4-3eb5-11ef-a0b3-fb4c2353fe25",
+      "variants": []
+    },
+    {
+      "nodeId": "8ff74cce-3eb5-11ef-8657-3fd0027e00a9",
+      "variants": []
+    },
+    {
+      "nodeId": "9006ecba-3eb5-11ef-bd9b-9b4c9a63fc4e",
+      "variants": []
+    },
+    {
+      "nodeId": "901c9a1a-3eb5-11ef-815f-fb41d4463965",
+      "variants": []
+    },
+    {
+      "nodeId": "90287b6e-3eb5-11ef-ac40-0bea2338f0e0",
+      "variants": []
+    },
+    {
+      "nodeId": "903ab5ea-3eb5-11ef-84b3-af6b48bfec62",
+      "variants": []
+    },
+    {
+      "nodeId": "90521a3c-3eb5-11ef-80a1-5b7a656bad1f",
+      "variants": []
+    },
+    {
+      "nodeId": "90656916-3eb5-11ef-b17d-e3edd347f422",
+      "variants": []
+    },
+    {
+      "nodeId": "907ebb28-3eb5-11ef-9ab8-e724a3e151bf",
+      "variants": []
+    },
+    {
+      "nodeId": "9091d938-3eb5-11ef-91ed-6b13968b7469",
+      "variants": []
+    },
+    {
+      "nodeId": "90a692ce-3eb5-11ef-a904-3ba36ec3c9cb",
+      "variants": []
+    },
+    {
+      "nodeId": "90b7452e-3eb5-11ef-a3fb-072bd1505a46",
+      "variants": []
+    },
+    {
+      "nodeId": "90cdbc46-3eb5-11ef-86b5-0fb4aa6164e0",
+      "variants": []
+    },
+    {
+      "nodeId": "90e00040-3eb5-11ef-8703-635f57400ea3",
+      "variants": []
+    },
+    {
+      "nodeId": "96ae9d2e-3eb5-11ef-b03e-7fc404ea8b3b",
+      "variants": []
+    },
+    {
+      "nodeId": "96cc8e74-3eb5-11ef-ae12-17515c1e857c",
+      "variants": []
+    },
+    {
+      "nodeId": "96edf21c-3eb5-11ef-a35d-1b015667a894",
+      "variants": []
+    },
+    {
+      "nodeId": "96ee1daa-3eb5-11ef-87ab-e3a5c10754bb",
+      "variants": []
+    },
+    {
+      "nodeId": "970e03b8-3eb5-11ef-a21a-83f425f8a372",
+      "variants": []
+    },
+    {
+      "nodeId": "97209ea6-3eb5-11ef-8d0d-235707d29ea0",
+      "variants": []
+    },
+    {
+      "nodeId": "972f4bc2-3eb5-11ef-a7b1-6ff06eacfa10",
+      "variants": []
+    },
+    {
+      "nodeId": "976f6572-3eb5-11ef-95ab-3beeea632626",
+      "variants": []
+    },
+    {
+      "nodeId": "9771003a-3eb5-11ef-a53c-279e0354b837",
+      "variants": []
+    },
+    {
+      "nodeId": "977b559e-3eb5-11ef-860d-3b9365b1adea",
+      "variants": []
+    },
+    {
+      "nodeId": "978a8820-3eb5-11ef-8224-37f45e07e922",
+      "variants": []
+    },
+    {
+      "nodeId": "978ad5dc-3eb5-11ef-b984-e7769d86a1db",
+      "variants": []
+    },
+    {
+      "nodeId": "97a67828-3eb5-11ef-98d0-fb061f5dde88",
+      "variants": []
+    },
+    {
+      "nodeId": "97bdf624-3eb5-11ef-ae45-274d099f3cf5",
+      "variants": []
+    },
+    {
+      "nodeId": "97f392fc-3eb5-11ef-9978-673b47d651c3",
+      "variants": []
+    },
+    {
+      "nodeId": "97faf182-3eb5-11ef-9430-e7c55938ca51",
+      "variants": []
+    },
+    {
+      "nodeId": "98044944-3eb5-11ef-a6cc-1f176be51a65",
+      "variants": []
+    },
+    {
+      "nodeId": "981a0d9c-3eb5-11ef-be20-2fefdaba8599",
+      "variants": []
+    },
+    {
+      "nodeId": "982b1362-3eb5-11ef-82c9-23609bf02c2e",
+      "variants": []
+    },
+    {
+      "nodeId": "985e9084-3eb5-11ef-bb06-3f673a3c1241",
+      "variants": []
+    },
+    {
+      "nodeId": "98649326-3eb5-11ef-a292-e3d899adbdf2",
+      "variants": []
+    },
+    {
+      "nodeId": "98b06774-3eb5-11ef-b93e-d736285667f2",
+      "variants": []
+    },
+    {
+      "nodeId": "98b337e2-3eb5-11ef-9cc6-ffe8baeac93b",
+      "variants": []
+    },
+    {
+      "nodeId": "98c29804-3eb5-11ef-8586-3fd138556aca",
+      "variants": []
+    },
+    {
+      "nodeId": "98e41678-3eb5-11ef-bdb2-676b7034e73d",
+      "variants": []
+    },
+    {
+      "nodeId": "98f61620-3eb5-11ef-866e-4b8d41c59c99",
+      "variants": []
+    },
+    {
+      "nodeId": "990b378a-3eb5-11ef-a092-bfc5ce16ed32",
+      "variants": []
+    },
+    {
+      "nodeId": "9919c070-3eb5-11ef-8176-7f832506f530",
+      "variants": []
+    },
+    {
+      "nodeId": "9926cdb0-3eb5-11ef-84ca-5bf4e785633f",
+      "variants": []
+    },
+    {
+      "nodeId": "993a32d8-3eb5-11ef-ac57-3bca813d9755",
+      "variants": []
+    },
+    {
+      "nodeId": "99689812-3eb5-11ef-b194-574cd3faa6c5",
+      "variants": []
+    },
+    {
+      "nodeId": "996d2f12-3eb5-11ef-80b8-178d0063e1c8",
+      "variants": []
+    },
+    {
+      "nodeId": "997d5e8c-3eb5-11ef-894c-ebe2f4edcd8c",
+      "variants": []
+    },
+    {
+      "nodeId": "9980f6f0-3eb5-11ef-9acf-039a826a1931",
+      "variants": []
+    },
+    {
+      "nodeId": "9985fd1c-3eb5-11ef-a91b-a746269c4e29",
+      "variants": []
+    },
+    {
+      "nodeId": "99a509a0-3eb5-11ef-a0ca-efe56f654c0c",
+      "variants": []
+    },
+    {
+      "nodeId": "99e03b24-3eb5-11ef-86cc-ab5c597beef8",
+      "variants": []
+    },
+    {
+      "nodeId": "99e7335c-3eb5-11ef-a412-07df3128fb5c",
+      "variants": []
+    },
+    {
+      "nodeId": "9a63bb2a-3eb5-11ef-871a-2b77182edcb4",
+      "variants": []
+    },
+    {
+      "nodeId": "9a6d172e-3eb5-11ef-9204-b349f65b7f70",
+      "variants": []
+    },
+    {
+      "nodeId": "a07319f2-3eb5-11ef-b055-2f55d7a08906",
+      "variants": []
+    },
+    {
+      "nodeId": "a091d7fc-3eb5-11ef-ae29-772b9571fc68",
+      "variants": []
+    },
+    {
+      "nodeId": "a0a39d48-3eb5-11ef-a231-ffd45d248a3b",
+      "variants": []
+    },
+    {
+      "nodeId": "a0b92dfc-3eb5-11ef-87c2-03c9626b8b1a",
+      "variants": []
+    },
+    {
+      "nodeId": "a0c379f6-3eb5-11ef-a374-dfa14b9d3bb5",
+      "variants": []
+    },
+    {
+      "nodeId": "a0e842a4-3eb5-11ef-8d24-f3fb6b68aa53",
+      "variants": []
+    },
+    {
+      "nodeId": "a0e97d5e-3eb5-11ef-a7c8-831e342a9ba0",
+      "variants": []
+    },
+    {
+      "nodeId": "a116f70c-3eb5-11ef-8624-e3e658d80d66",
+      "variants": []
+    },
+    {
+      "nodeId": "a1336c34-3eb5-11ef-95c2-dbc117c35df0",
+      "variants": []
+    },
+    {
+      "nodeId": "a15063d4-3eb5-11ef-a553-03186663f224",
+      "variants": []
+    },
+    {
+      "nodeId": "a15d3c26-3eb5-11ef-823b-8bc1a39060a2",
+      "variants": []
+    },
+    {
+      "nodeId": "a1847ab6-3eb5-11ef-ae5c-c3329e8e1500",
+      "variants": []
+    },
+    {
+      "nodeId": "a196858a-3eb5-11ef-b99b-b3c68048baaa",
+      "variants": []
+    },
+    {
+      "nodeId": "a1a67d1e-3eb5-11ef-98e7-bf4328b280db",
+      "variants": []
+    },
+    {
+      "nodeId": "a1da63c2-3eb5-11ef-9447-4b5bb4115fb5",
+      "variants": []
+    },
+    {
+      "nodeId": "a1fb712a-3eb5-11ef-be37-4f70640570b9",
+      "variants": []
+    },
+    {
+      "nodeId": "a206c6ce-3eb5-11ef-998f-7ff2d38e8d37",
+      "variants": []
+    },
+    {
+      "nodeId": "a2155266-3eb5-11ef-a6e3-8b5170170896",
+      "variants": []
+    },
+    {
+      "nodeId": "a2588edc-3eb5-11ef-82e0-233938a8f849",
+      "variants": []
+    },
+    {
+      "nodeId": "a28c9858-3eb5-11ef-b955-5bd1132330d6",
+      "variants": []
+    },
+    {
+      "nodeId": "cdebdc0c-406d-11ef-921f-6b43bf62402d",
+      "variants": []
+    }
+  ],
+  "context": "06fd90b8-1d59-4a94-af63-e2c5529de872",
+  "versionName": "Logo Script CLONED FROM [31b0ff15-0b6f-443f-bf3e-550bf872beae] - 2024-08-06 10:51:46.973"
+}

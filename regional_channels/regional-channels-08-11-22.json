@@ -1,0 +1,4842 @@
+[
+  {
+    "serviceKey": "9137152191577740117",
+    "providerTerritory": "US",
+    "gracenoteId": "11705",
+    "rank": 1,
+    "channelName": "WNBC",
+    "logos": [
+      {
+        "type": "Default",
+        "key": "skychb_9137152191577740117_darknow",
+        "template": "https://imageservice.disco.peacocktv.com/logo/{key}/AGG_SOURCE/{width}/{height}?proposition=NBCUOTT&territory=US"
+      },
+      {
+        "type": "Light",
+        "key": "skychb_9137152191577740117_lightnow",
+        "template": "https://imageservice.disco.peacocktv.com/logo/{key}/AGG_SOURCE/{width}/{height}?proposition=NBCUOTT&territory=US"
+      },
+      {
+        "type": "Dark",
+        "key": "skychb_9137152191577740117_darknow",
+        "template": "https://imageservice.disco.peacocktv.com/logo/{key}/AGG_SOURCE/{width}/{height}?proposition=NBCUOTT&territory=US"
+      }
+    ],
+    "hidden": false,
+    "logoHeightPercentage": 12,
+    "logoStyle": "cinema",
+    "formatType": "SD",
+    "sectionNavigation": "NEWS",
+    "contentSegments": [
+      "LOCAL_AFFILIATES"
+    ],
+    "classifications": [
+      "News"
+    ],
+    "territories": [
+      "US"
+    ],
+    "channelAvailabilities": [
+      {
+        "onAir": 1019529021000,
+        "offAir": 2145928811000
+      }
+    ]
+  },
+  {
+    "serviceKey": "6285326806430887117",
+    "providerTerritory": "US",
+    "gracenoteId": "10590",
+    "rank": 2,
+    "channelName": "KNBC",
+    "logos": [
+      {
+        "type": "Default",
+        "key": "skychb_6285326806430887117_darknow",
+        "template": "https://imageservice.disco.peacocktv.com/logo/{key}/AGG_SOURCE/{width}/{height}?proposition=NBCUOTT&territory=US"
+      },
+      {
+        "type": "Light",
+        "key": "skychb_6285326806430887117_lightnow",
+        "template": "https://imageservice.disco.peacocktv.com/logo/{key}/AGG_SOURCE/{width}/{height}?proposition=NBCUOTT&territory=US"
+      },
+      {
+        "type": "Dark",
+        "key": "skychb_6285326806430887117_darknow",
+        "template": "https://imageservice.disco.peacocktv.com/logo/{key}/AGG_SOURCE/{width}/{height}?proposition=NBCUOTT&territory=US"
+      }
+    ],
+    "hidden": false,
+    "logoHeightPercentage": 12,
+    "logoStyle": "cinema",
+    "formatType": "SD",
+    "sectionNavigation": "NEWS",
+    "contentSegments": [
+      "LOCAL_AFFILIATES"
+    ],
+    "classifications": [
+      "News"
+    ],
+    "territories": [
+      "US"
+    ],
+    "channelAvailabilities": [
+      {
+        "onAir": 1019529021000,
+        "offAir": 2145928811000
+      }
+    ]
+  },
+  {
+    "serviceKey": "5803264295773409117",
+    "providerTerritory": "US",
+    "gracenoteId": "11670",
+    "rank": 3,
+    "channelName": "WMAQ-TV",
+    "logos": [
+      {
+        "type": "Default",
+        "key": "skychb_5803264295773409117_darknow",
+        "template": "https://imageservice.disco.peacocktv.com/logo/{key}/AGG_SOURCE/{width}/{height}?proposition=NBCUOTT&territory=US"
+      },
+      {
+        "type": "Light",
+        "key": "skychb_5803264295773409117_lightnow",
+        "template": "https://imageservice.disco.peacocktv.com/logo/{key}/AGG_SOURCE/{width}/{height}?proposition=NBCUOTT&territory=US"
+      },
+      {
+        "type": "Dark",
+        "key": "skychb_5803264295773409117_darknow",
+        "template": "https://imageservice.disco.peacocktv.com/logo/{key}/AGG_SOURCE/{width}/{height}?proposition=NBCUOTT&territory=US"
+      }
+    ],
+    "hidden": false,
+    "logoHeightPercentage": 12,
+    "logoStyle": "cinema",
+    "formatType": "SD",
+    "sectionNavigation": "NEWS",
+    "contentSegments": [
+      "LOCAL_AFFILIATES"
+    ],
+    "classifications": [
+      "News"
+    ],
+    "territories": [
+      "US"
+    ],
+    "channelAvailabilities": [
+      {
+        "onAir": 1019529021000,
+        "offAir": 2145928811000
+      }
+    ]
+  },
+  {
+    "serviceKey": "7070864115006330117",
+    "providerTerritory": "US",
+    "gracenoteId": "11326",
+    "rank": 4,
+    "channelName": "WCAU",
+    "logos": [
+      {
+        "type": "Default",
+        "key": "skychb_7070864115006330117_darknow",
+        "template": "https://imageservice.disco.peacocktv.com/logo/{key}/AGG_SOURCE/{width}/{height}?proposition=NBCUOTT&territory=US"
+      },
+      {
+        "type": "Light",
+        "key": "skychb_7070864115006330117_lightnow",
+        "template": "https://imageservice.disco.peacocktv.com/logo/{key}/AGG_SOURCE/{width}/{height}?proposition=NBCUOTT&territory=US"
+      },
+      {
+        "type": "Dark",
+        "key": "skychb_7070864115006330117_darknow",
+        "template": "https://imageservice.disco.peacocktv.com/logo/{key}/AGG_SOURCE/{width}/{height}?proposition=NBCUOTT&territory=US"
+      }
+    ],
+    "hidden": false,
+    "logoHeightPercentage": 12,
+    "logoStyle": "cinema",
+    "formatType": "SD",
+    "sectionNavigation": "NEWS",
+    "contentSegments": [
+      "LOCAL_AFFILIATES"
+    ],
+    "classifications": [
+      "News"
+    ],
+    "territories": [
+      "US"
+    ],
+    "channelAvailabilities": [
+      {
+        "onAir": 1019529021000,
+        "offAir": 2145928811000
+      }
+    ]
+  },
+  {
+    "serviceKey": "6207143419709432117",
+    "providerTerritory": "US",
+    "gracenoteId": "10830",
+    "rank": 5,
+    "channelName": "KXAS-TV",
+    "logos": [
+      {
+        "type": "Default",
+        "key": "skychb_6207143419709432117_darknow",
+        "template": "https://imageservice.disco.peacocktv.com/logo/{key}/AGG_SOURCE/{width}/{height}?proposition=NBCUOTT&territory=US"
+      },
+      {
+        "type": "Light",
+        "key": "skychb_6207143419709432117_lightnow",
+        "template": "https://imageservice.disco.peacocktv.com/logo/{key}/AGG_SOURCE/{width}/{height}?proposition=NBCUOTT&territory=US"
+      },
+      {
+        "type": "Dark",
+        "key": "skychb_6207143419709432117_darknow",
+        "template": "https://imageservice.disco.peacocktv.com/logo/{key}/AGG_SOURCE/{width}/{height}?proposition=NBCUOTT&territory=US"
+      }
+    ],
+    "hidden": false,
+    "logoHeightPercentage": 12,
+    "logoStyle": "cinema",
+    "formatType": "SD",
+    "sectionNavigation": "NEWS",
+    "contentSegments": [
+      "LOCAL_AFFILIATES"
+    ],
+    "classifications": [
+      "News"
+    ],
+    "territories": [
+      "US"
+    ],
+    "channelAvailabilities": [
+      {
+        "onAir": 1019529021000,
+        "offAir": 2145928811000
+      }
+    ]
+  },
+  {
+    "serviceKey": "5401446705201714117",
+    "providerTerritory": "US",
+    "gracenoteId": "11993",
+    "rank": 6,
+    "channelName": "WXIA-TV",
+    "logos": [
+      {
+        "type": "Default",
+        "key": "skychb_5401446705201714117_darknow",
+        "template": "https://imageservice.disco.peacocktv.com/logo/{key}/AGG_SOURCE/{width}/{height}?proposition=NBCUOTT&territory=US"
+      },
+      {
+        "type": "Light",
+        "key": "skychb_5401446705201714117_lightnow",
+        "template": "https://imageservice.disco.peacocktv.com/logo/{key}/AGG_SOURCE/{width}/{height}?proposition=NBCUOTT&territory=US"
+      },
+      {
+        "type": "Dark",
+        "key": "skychb_5401446705201714117_darknow",
+        "template": "https://imageservice.disco.peacocktv.com/logo/{key}/AGG_SOURCE/{width}/{height}?proposition=NBCUOTT&territory=US"
+      }
+    ],
+    "hidden": false,
+    "logoHeightPercentage": 12,
+    "logoStyle": "cinema",
+    "formatType": "SD",
+    "sectionNavigation": "NEWS",
+    "contentSegments": [
+      "LOCAL_AFFILIATES"
+    ],
+    "classifications": [
+      "News"
+    ],
+    "territories": [
+      "US"
+    ],
+    "channelAvailabilities": [
+      {
+        "onAir": 1019529021000,
+        "offAir": 2145928811000
+      }
+    ]
+  },
+  {
+    "serviceKey": "5079751747778553117",
+    "providerTerritory": "US",
+    "gracenoteId": "11811",
+    "rank": 7,
+    "channelName": "WRC-TV",
+    "logos": [
+      {
+        "type": "Default",
+        "key": "skychb_5079751747778553117_darknow",
+        "template": "https://imageservice.disco.peacocktv.com/logo/{key}/AGG_SOURCE/{width}/{height}?proposition=NBCUOTT&territory=US"
+      },
+      {
+        "type": "Light",
+        "key": "skychb_5079751747778553117_lightnow",
+        "template": "https://imageservice.disco.peacocktv.com/logo/{key}/AGG_SOURCE/{width}/{height}?proposition=NBCUOTT&territory=US"
+      },
+      {
+        "type": "Dark",
+        "key": "skychb_5079751747778553117_darknow",
+        "template": "https://imageservice.disco.peacocktv.com/logo/{key}/AGG_SOURCE/{width}/{height}?proposition=NBCUOTT&territory=US"
+      }
+    ],
+    "hidden": false,
+    "logoHeightPercentage": 12,
+    "logoStyle": "cinema",
+    "formatType": "SD",
+    "sectionNavigation": "NEWS",
+    "contentSegments": [
+      "LOCAL_AFFILIATES"
+    ],
+    "classifications": [
+      "News"
+    ],
+    "territories": [
+      "US"
+    ],
+    "channelAvailabilities": [
+      {
+        "onAir": 1019529021000,
+        "offAir": 2145928811000
+      }
+    ]
+  },
+  {
+    "serviceKey": "7736301118256940117",
+    "providerTerritory": "US",
+    "gracenoteId": "10600",
+    "rank": 8,
+    "channelName": "KNTV (KICU)",
+    "logos": [
+      {
+        "type": "Default",
+        "key": "skychb_7736301118256940117_darknow",
+        "template": "https://imageservice.disco.peacocktv.com/logo/{key}/AGG_SOURCE/{width}/{height}?proposition=NBCUOTT&territory=US"
+      },
+      {
+        "type": "Light",
+        "key": "skychb_7736301118256940117_lightnow",
+        "template": "https://imageservice.disco.peacocktv.com/logo/{key}/AGG_SOURCE/{width}/{height}?proposition=NBCUOTT&territory=US"
+      },
+      {
+        "type": "Dark",
+        "key": "skychb_7736301118256940117_darknow",
+        "template": "https://imageservice.disco.peacocktv.com/logo/{key}/AGG_SOURCE/{width}/{height}?proposition=NBCUOTT&territory=US"
+      }
+    ],
+    "hidden": false,
+    "logoHeightPercentage": 12,
+    "logoStyle": "cinema",
+    "formatType": "SD",
+    "sectionNavigation": "NEWS",
+    "contentSegments": [
+      "LOCAL_AFFILIATES"
+    ],
+    "classifications": [
+      "News"
+    ],
+    "territories": [
+      "US"
+    ],
+    "channelAvailabilities": [
+      {
+        "onAir": 1019529021000,
+        "offAir": 2145928811000
+      }
+    ]
+  },
+  {
+    "serviceKey": "9190651779263468117",
+    "providerTerritory": "US",
+    "gracenoteId": "10647",
+    "rank": 9,
+    "channelName": "KPRC-TV",
+    "logos": [
+      {
+        "type": "Default",
+        "key": "skychb_9190651779263468117_darknow",
+        "template": "https://imageservice.disco.peacocktv.com/logo/{key}/AGG_SOURCE/{width}/{height}?proposition=NBCUOTT&territory=US"
+      },
+      {
+        "type": "Light",
+        "key": "skychb_9190651779263468117_lightnow",
+        "template": "https://imageservice.disco.peacocktv.com/logo/{key}/AGG_SOURCE/{width}/{height}?proposition=NBCUOTT&territory=US"
+      },
+      {
+        "type": "Dark",
+        "key": "skychb_9190651779263468117_darknow",
+        "template": "https://imageservice.disco.peacocktv.com/logo/{key}/AGG_SOURCE/{width}/{height}?proposition=NBCUOTT&territory=US"
+      }
+    ],
+    "hidden": false,
+    "logoHeightPercentage": 12,
+    "logoStyle": "cinema",
+    "formatType": "SD",
+    "sectionNavigation": "NEWS",
+    "contentSegments": [
+      "LOCAL_AFFILIATES"
+    ],
+    "classifications": [
+      "News"
+    ],
+    "territories": [
+      "US"
+    ],
+    "channelAvailabilities": [
+      {
+        "onAir": 1019529021000,
+        "offAir": 2145928811000
+      }
+    ]
+  },
+  {
+    "serviceKey": "5429335914750893117",
+    "providerTerritory": "US",
+    "gracenoteId": "91446",
+    "rank": 10,
+    "channelName": "WBTS-LD",
+    "logos": [
+      {
+        "type": "Default",
+        "key": "skychb_5429335914750893117_darknow",
+        "template": "https://imageservice.disco.peacocktv.com/logo/{key}/AGG_SOURCE/{width}/{height}?proposition=NBCUOTT&territory=US"
+      },
+      {
+        "type": "Light",
+        "key": "skychb_5429335914750893117_lightnow",
+        "template": "https://imageservice.disco.peacocktv.com/logo/{key}/AGG_SOURCE/{width}/{height}?proposition=NBCUOTT&territory=US"
+      },
+      {
+        "type": "Dark",
+        "key": "skychb_5429335914750893117_darknow",
+        "template": "https://imageservice.disco.peacocktv.com/logo/{key}/AGG_SOURCE/{width}/{height}?proposition=NBCUOTT&territory=US"
+      }
+    ],
+    "hidden": false,
+    "logoHeightPercentage": 12,
+    "logoStyle": "cinema",
+    "formatType": "SD",
+    "sectionNavigation": "NEWS",
+    "contentSegments": [
+      "LOCAL_AFFILIATES"
+    ],
+    "classifications": [
+      "News"
+    ],
+    "territories": [
+      "US"
+    ],
+    "channelAvailabilities": [
+      {
+        "onAir": 1019529021000,
+        "offAir": 2145928811000
+      }
+    ]
+  },
+  {
+    "serviceKey": "5912889190413512117",
+    "providerTerritory": "US",
+    "gracenoteId": "10518",
+    "rank": 11,
+    "channelName": "KING-TV",
+    "logos": [
+      {
+        "type": "Default",
+        "key": "skychb_5912889190413512117_darknow",
+        "template": "https://imageservice.disco.peacocktv.com/logo/{key}/AGG_SOURCE/{width}/{height}?proposition=NBCUOTT&territory=US"
+      },
+      {
+        "type": "Light",
+        "key": "skychb_5912889190413512117_lightnow",
+        "template": "https://imageservice.disco.peacocktv.com/logo/{key}/AGG_SOURCE/{width}/{height}?proposition=NBCUOTT&territory=US"
+      },
+      {
+        "type": "Dark",
+        "key": "skychb_5912889190413512117_darknow",
+        "template": "https://imageservice.disco.peacocktv.com/logo/{key}/AGG_SOURCE/{width}/{height}?proposition=NBCUOTT&territory=US"
+      }
+    ],
+    "hidden": false,
+    "logoHeightPercentage": 12,
+    "logoStyle": "cinema",
+    "formatType": "SD",
+    "sectionNavigation": "NEWS",
+    "contentSegments": [
+      "LOCAL_AFFILIATES"
+    ],
+    "classifications": [
+      "News"
+    ],
+    "territories": [
+      "US"
+    ],
+    "channelAvailabilities": [
+      {
+        "onAir": 1019529021000,
+        "offAir": 2145928811000
+      }
+    ]
+  },
+  {
+    "serviceKey": "7444338281570061117",
+    "providerTerritory": "US",
+    "gracenoteId": "10645",
+    "rank": 12,
+    "channelName": "KPNX | KNAZ-TV (Flagstaff)",
+    "logos": [
+      {
+        "type": "Default",
+        "key": "skychb_7444338281570061117_darknow",
+        "template": "https://imageservice.disco.peacocktv.com/logo/{key}/AGG_SOURCE/{width}/{height}?proposition=NBCUOTT&territory=US"
+      },
+      {
+        "type": "Light",
+        "key": "skychb_7444338281570061117_lightnow",
+        "template": "https://imageservice.disco.peacocktv.com/logo/{key}/AGG_SOURCE/{width}/{height}?proposition=NBCUOTT&territory=US"
+      },
+      {
+        "type": "Dark",
+        "key": "skychb_7444338281570061117_darknow",
+        "template": "https://imageservice.disco.peacocktv.com/logo/{key}/AGG_SOURCE/{width}/{height}?proposition=NBCUOTT&territory=US"
+      }
+    ],
+    "hidden": false,
+    "logoHeightPercentage": 12,
+    "logoStyle": "cinema",
+    "formatType": "SD",
+    "sectionNavigation": "NEWS",
+    "contentSegments": [
+      "LOCAL_AFFILIATES"
+    ],
+    "classifications": [
+      "News"
+    ],
+    "territories": [
+      "US"
+    ],
+    "channelAvailabilities": [
+      {
+        "onAir": 1019529021000,
+        "offAir": 2145928811000
+      }
+    ]
+  },
+  {
+    "serviceKey": "8453801660570823117",
+    "providerTerritory": "US",
+    "gracenoteId": "11437",
+    "rank": 13,
+    "channelName": "WFLA-TV",
+    "logos": [
+      {
+        "type": "Default",
+        "key": "skychb_8453801660570823117_darknow",
+        "template": "https://imageservice.disco.peacocktv.com/logo/{key}/AGG_SOURCE/{width}/{height}?proposition=NBCUOTT&territory=US"
+      },
+      {
+        "type": "Light",
+        "key": "skychb_8453801660570823117_lightnow",
+        "template": "https://imageservice.disco.peacocktv.com/logo/{key}/AGG_SOURCE/{width}/{height}?proposition=NBCUOTT&territory=US"
+      },
+      {
+        "type": "Dark",
+        "key": "skychb_8453801660570823117_darknow",
+        "template": "https://imageservice.disco.peacocktv.com/logo/{key}/AGG_SOURCE/{width}/{height}?proposition=NBCUOTT&territory=US"
+      }
+    ],
+    "hidden": false,
+    "logoHeightPercentage": 12,
+    "logoStyle": "cinema",
+    "formatType": "SD",
+    "sectionNavigation": "NEWS",
+    "contentSegments": [
+      "LOCAL_AFFILIATES"
+    ],
+    "classifications": [
+      "News"
+    ],
+    "territories": [
+      "US"
+    ],
+    "channelAvailabilities": [
+      {
+        "onAir": 1019529021000,
+        "offAir": 2145928811000
+      }
+    ]
+  },
+  {
+    "serviceKey": "6751709690595948117",
+    "providerTerritory": "US",
+    "gracenoteId": "10328",
+    "rank": 14,
+    "channelName": "KARE",
+    "logos": [
+      {
+        "type": "Default",
+        "key": "skychb_6751709690595948117_darknow",
+        "template": "https://imageservice.disco.peacocktv.com/logo/{key}/AGG_SOURCE/{width}/{height}?proposition=NBCUOTT&territory=US"
+      },
+      {
+        "type": "Light",
+        "key": "skychb_6751709690595948117_lightnow",
+        "template": "https://imageservice.disco.peacocktv.com/logo/{key}/AGG_SOURCE/{width}/{height}?proposition=NBCUOTT&territory=US"
+      },
+      {
+        "type": "Dark",
+        "key": "skychb_6751709690595948117_darknow",
+        "template": "https://imageservice.disco.peacocktv.com/logo/{key}/AGG_SOURCE/{width}/{height}?proposition=NBCUOTT&territory=US"
+      }
+    ],
+    "hidden": false,
+    "logoHeightPercentage": 12,
+    "logoStyle": "cinema",
+    "formatType": "SD",
+    "sectionNavigation": "NEWS",
+    "contentSegments": [
+      "LOCAL_AFFILIATES"
+    ],
+    "classifications": [
+      "News"
+    ],
+    "territories": [
+      "US"
+    ],
+    "channelAvailabilities": [
+      {
+        "onAir": 1019529021000,
+        "offAir": 2145928811000
+      }
+    ]
+  },
+  {
+    "serviceKey": "8076796986326985117",
+    "providerTerritory": "US",
+    "gracenoteId": "11387",
+    "rank": 15,
+    "channelName": "WDIV-TV",
+    "logos": [
+      {
+        "type": "Default",
+        "key": "skychb_8076796986326985117_darknow",
+        "template": "https://imageservice.disco.peacocktv.com/logo/{key}/AGG_SOURCE/{width}/{height}?proposition=NBCUOTT&territory=US"
+      },
+      {
+        "type": "Light",
+        "key": "skychb_8076796986326985117_lightnow",
+        "template": "https://imageservice.disco.peacocktv.com/logo/{key}/AGG_SOURCE/{width}/{height}?proposition=NBCUOTT&territory=US"
+      },
+      {
+        "type": "Dark",
+        "key": "skychb_8076796986326985117_darknow",
+        "template": "https://imageservice.disco.peacocktv.com/logo/{key}/AGG_SOURCE/{width}/{height}?proposition=NBCUOTT&territory=US"
+      }
+    ],
+    "hidden": false,
+    "logoHeightPercentage": 12,
+    "logoStyle": "cinema",
+    "formatType": "SD",
+    "sectionNavigation": "NEWS",
+    "contentSegments": [
+      "LOCAL_AFFILIATES"
+    ],
+    "classifications": [
+      "News"
+    ],
+    "territories": [
+      "US"
+    ],
+    "channelAvailabilities": [
+      {
+        "onAir": 1019529021000,
+        "offAir": 2145928811000
+      }
+    ]
+  },
+  {
+    "serviceKey": "7595070687073675117",
+    "providerTerritory": "US",
+    "gracenoteId": "10780",
+    "rank": 16,
+    "channelName": "KUSA-TV",
+    "logos": [
+      {
+        "type": "Default",
+        "key": "skychb_7595070687073675117_darknow",
+        "template": "https://imageservice.disco.peacocktv.com/logo/{key}/AGG_SOURCE/{width}/{height}?proposition=NBCUOTT&territory=US"
+      },
+      {
+        "type": "Light",
+        "key": "skychb_7595070687073675117_lightnow",
+        "template": "https://imageservice.disco.peacocktv.com/logo/{key}/AGG_SOURCE/{width}/{height}?proposition=NBCUOTT&territory=US"
+      },
+      {
+        "type": "Dark",
+        "key": "skychb_7595070687073675117_darknow",
+        "template": "https://imageservice.disco.peacocktv.com/logo/{key}/AGG_SOURCE/{width}/{height}?proposition=NBCUOTT&territory=US"
+      }
+    ],
+    "hidden": false,
+    "logoHeightPercentage": 12,
+    "logoStyle": "cinema",
+    "formatType": "SD",
+    "sectionNavigation": "NEWS",
+    "contentSegments": [
+      "LOCAL_AFFILIATES"
+    ],
+    "classifications": [
+      "News"
+    ],
+    "territories": [
+      "US"
+    ],
+    "channelAvailabilities": [
+      {
+        "onAir": 1019529021000,
+        "offAir": 2145928811000
+      }
+    ]
+  },
+  {
+    "serviceKey": "5259282183447537117",
+    "providerTerritory": "US",
+    "gracenoteId": "11420",
+    "rank": 17,
+    "channelName": "WESH",
+    "logos": [
+      {
+        "type": "Default",
+        "key": "skychb_5259282183447537117_darknow",
+        "template": "https://imageservice.disco.peacocktv.com/logo/{key}/AGG_SOURCE/{width}/{height}?proposition=NBCUOTT&territory=US"
+      },
+      {
+        "type": "Light",
+        "key": "skychb_5259282183447537117_lightnow",
+        "template": "https://imageservice.disco.peacocktv.com/logo/{key}/AGG_SOURCE/{width}/{height}?proposition=NBCUOTT&territory=US"
+      },
+      {
+        "type": "Dark",
+        "key": "skychb_5259282183447537117_darknow",
+        "template": "https://imageservice.disco.peacocktv.com/logo/{key}/AGG_SOURCE/{width}/{height}?proposition=NBCUOTT&territory=US"
+      }
+    ],
+    "hidden": false,
+    "logoHeightPercentage": 12,
+    "logoStyle": "cinema",
+    "formatType": "SD",
+    "sectionNavigation": "NEWS",
+    "contentSegments": [
+      "LOCAL_AFFILIATES"
+    ],
+    "classifications": [
+      "News"
+    ],
+    "territories": [
+      "US"
+    ],
+    "channelAvailabilities": [
+      {
+        "onAir": 1019529021000,
+        "offAir": 2145928811000
+      }
+    ]
+  },
+  {
+    "serviceKey": "8991823756668103117",
+    "providerTerritory": "US",
+    "gracenoteId": "11916",
+    "rank": 18,
+    "channelName": "WTVJ",
+    "logos": [
+      {
+        "type": "Default",
+        "key": "skychb_8991823756668103117_darknow",
+        "template": "https://imageservice.disco.peacocktv.com/logo/{key}/AGG_SOURCE/{width}/{height}?proposition=NBCUOTT&territory=US"
+      },
+      {
+        "type": "Light",
+        "key": "skychb_8991823756668103117_lightnow",
+        "template": "https://imageservice.disco.peacocktv.com/logo/{key}/AGG_SOURCE/{width}/{height}?proposition=NBCUOTT&territory=US"
+      },
+      {
+        "type": "Dark",
+        "key": "skychb_8991823756668103117_darknow",
+        "template": "https://imageservice.disco.peacocktv.com/logo/{key}/AGG_SOURCE/{width}/{height}?proposition=NBCUOTT&territory=US"
+      }
+    ],
+    "hidden": false,
+    "logoHeightPercentage": 12,
+    "logoStyle": "cinema",
+    "formatType": "SD",
+    "sectionNavigation": "NEWS",
+    "contentSegments": [
+      "LOCAL_AFFILIATES"
+    ],
+    "classifications": [
+      "News"
+    ],
+    "territories": [
+      "US"
+    ],
+    "channelAvailabilities": [
+      {
+        "onAir": 1019529021000,
+        "offAir": 2145928811000
+      }
+    ]
+  },
+  {
+    "serviceKey": "7474968675785297117",
+    "providerTerritory": "US",
+    "gracenoteId": "20492",
+    "rank": 19,
+    "channelName": "WKYC-TV",
+    "logos": [
+      {
+        "type": "Default",
+        "key": "skychb_7474968675785297117_darknow",
+        "template": "https://imageservice.disco.peacocktv.com/logo/{key}/AGG_SOURCE/{width}/{height}?proposition=NBCUOTT&territory=US"
+      },
+      {
+        "type": "Light",
+        "key": "skychb_7474968675785297117_lightnow",
+        "template": "https://imageservice.disco.peacocktv.com/logo/{key}/AGG_SOURCE/{width}/{height}?proposition=NBCUOTT&territory=US"
+      },
+      {
+        "type": "Dark",
+        "key": "skychb_7474968675785297117_darknow",
+        "template": "https://imageservice.disco.peacocktv.com/logo/{key}/AGG_SOURCE/{width}/{height}?proposition=NBCUOTT&territory=US"
+      }
+    ],
+    "hidden": false,
+    "logoHeightPercentage": 12,
+    "logoStyle": "cinema",
+    "formatType": "SD",
+    "sectionNavigation": "NEWS",
+    "contentSegments": [
+      "LOCAL_AFFILIATES"
+    ],
+    "classifications": [
+      "News"
+    ],
+    "territories": [
+      "US"
+    ],
+    "channelAvailabilities": [
+      {
+        "onAir": 1019529021000,
+        "offAir": 2145928811000
+      }
+    ]
+  },
+  {
+    "serviceKey": "6755381953569626117",
+    "providerTerritory": "US",
+    "gracenoteId": "10388",
+    "rank": 20,
+    "channelName": "KCRA-TV",
+    "logos": [
+      {
+        "type": "Default",
+        "key": "skychb_6755381953569626117_darknow",
+        "template": "https://imageservice.disco.peacocktv.com/logo/{key}/AGG_SOURCE/{width}/{height}?proposition=NBCUOTT&territory=US"
+      },
+      {
+        "type": "Light",
+        "key": "skychb_6755381953569626117_lightnow",
+        "template": "https://imageservice.disco.peacocktv.com/logo/{key}/AGG_SOURCE/{width}/{height}?proposition=NBCUOTT&territory=US"
+      },
+      {
+        "type": "Dark",
+        "key": "skychb_6755381953569626117_darknow",
+        "template": "https://imageservice.disco.peacocktv.com/logo/{key}/AGG_SOURCE/{width}/{height}?proposition=NBCUOTT&territory=US"
+      }
+    ],
+    "hidden": false,
+    "logoHeightPercentage": 12,
+    "logoStyle": "cinema",
+    "formatType": "SD",
+    "sectionNavigation": "NEWS",
+    "contentSegments": [
+      "LOCAL_AFFILIATES"
+    ],
+    "classifications": [
+      "News"
+    ],
+    "territories": [
+      "US"
+    ],
+    "channelAvailabilities": [
+      {
+        "onAir": 1019529021000,
+        "offAir": 2145928811000
+      }
+    ]
+  },
+  {
+    "serviceKey": "8302976068203989117",
+    "providerTerritory": "US",
+    "gracenoteId": "10483",
+    "rank": 21,
+    "channelName": "KGW",
+    "logos": [
+      {
+        "type": "Default",
+        "key": "skychb_8302976068203989117_darknow",
+        "template": "https://imageservice.disco.peacocktv.com/logo/{key}/AGG_SOURCE/{width}/{height}?proposition=NBCUOTT&territory=US"
+      },
+      {
+        "type": "Light",
+        "key": "skychb_8302976068203989117_lightnow",
+        "template": "https://imageservice.disco.peacocktv.com/logo/{key}/AGG_SOURCE/{width}/{height}?proposition=NBCUOTT&territory=US"
+      },
+      {
+        "type": "Dark",
+        "key": "skychb_8302976068203989117_darknow",
+        "template": "https://imageservice.disco.peacocktv.com/logo/{key}/AGG_SOURCE/{width}/{height}?proposition=NBCUOTT&territory=US"
+      }
+    ],
+    "hidden": false,
+    "logoHeightPercentage": 12,
+    "logoStyle": "cinema",
+    "formatType": "SD",
+    "sectionNavigation": "NEWS",
+    "contentSegments": [
+      "LOCAL_AFFILIATES"
+    ],
+    "classifications": [
+      "News"
+    ],
+    "territories": [
+      "US"
+    ],
+    "channelAvailabilities": [
+      {
+        "onAir": 1019529021000,
+        "offAir": 2145928811000
+      }
+    ]
+  },
+  {
+    "serviceKey": "5469165937496566117",
+    "providerTerritory": "US",
+    "gracenoteId": "11358",
+    "rank": 22,
+    "channelName": "WCNC-TV",
+    "logos": [
+      {
+        "type": "Default",
+        "key": "skychb_5469165937496566117_darknow",
+        "template": "https://imageservice.disco.peacocktv.com/logo/{key}/AGG_SOURCE/{width}/{height}?proposition=NBCUOTT&territory=US"
+      },
+      {
+        "type": "Light",
+        "key": "skychb_5469165937496566117_lightnow",
+        "template": "https://imageservice.disco.peacocktv.com/logo/{key}/AGG_SOURCE/{width}/{height}?proposition=NBCUOTT&territory=US"
+      },
+      {
+        "type": "Dark",
+        "key": "skychb_5469165937496566117_darknow",
+        "template": "https://imageservice.disco.peacocktv.com/logo/{key}/AGG_SOURCE/{width}/{height}?proposition=NBCUOTT&territory=US"
+      }
+    ],
+    "hidden": false,
+    "logoHeightPercentage": 12,
+    "logoStyle": "cinema",
+    "formatType": "SD",
+    "sectionNavigation": "NEWS",
+    "contentSegments": [
+      "LOCAL_AFFILIATES"
+    ],
+    "classifications": [
+      "News"
+    ],
+    "territories": [
+      "US"
+    ],
+    "channelAvailabilities": [
+      {
+        "onAir": 1019529021000,
+        "offAir": 2145928811000
+      }
+    ]
+  },
+  {
+    "serviceKey": "6194870283913204117",
+    "providerTerritory": "US",
+    "gracenoteId": "10685",
+    "rank": 23,
+    "channelName": "KSDK",
+    "logos": [
+      {
+        "type": "Default",
+        "key": "skychb_6194870283913204117_darknow",
+        "template": "https://imageservice.disco.peacocktv.com/logo/{key}/AGG_SOURCE/{width}/{height}?proposition=NBCUOTT&territory=US"
+      },
+      {
+        "type": "Light",
+        "key": "skychb_6194870283913204117_lightnow",
+        "template": "https://imageservice.disco.peacocktv.com/logo/{key}/AGG_SOURCE/{width}/{height}?proposition=NBCUOTT&territory=US"
+      },
+      {
+        "type": "Dark",
+        "key": "skychb_6194870283913204117_darknow",
+        "template": "https://imageservice.disco.peacocktv.com/logo/{key}/AGG_SOURCE/{width}/{height}?proposition=NBCUOTT&territory=US"
+      }
+    ],
+    "hidden": false,
+    "logoHeightPercentage": 12,
+    "logoStyle": "cinema",
+    "formatType": "SD",
+    "sectionNavigation": "NEWS",
+    "contentSegments": [
+      "LOCAL_AFFILIATES"
+    ],
+    "classifications": [
+      "News"
+    ],
+    "territories": [
+      "US"
+    ],
+    "channelAvailabilities": [
+      {
+        "onAir": 1019529021000,
+        "offAir": 2145928811000
+      }
+    ]
+  },
+  {
+    "serviceKey": "6666349370285592117",
+    "providerTerritory": "US",
+    "gracenoteId": "11809",
+    "rank": 24,
+    "channelName": "WRAL-TV",
+    "logos": [
+      {
+        "type": "Default",
+        "key": "skychb_6666349370285592117_darknow",
+        "template": "https://imageservice.disco.peacocktv.com/logo/{key}/AGG_SOURCE/{width}/{height}?proposition=NBCUOTT&territory=US"
+      },
+      {
+        "type": "Light",
+        "key": "skychb_6666349370285592117_lightnow",
+        "template": "https://imageservice.disco.peacocktv.com/logo/{key}/AGG_SOURCE/{width}/{height}?proposition=NBCUOTT&territory=US"
+      },
+      {
+        "type": "Dark",
+        "key": "skychb_6666349370285592117_darknow",
+        "template": "https://imageservice.disco.peacocktv.com/logo/{key}/AGG_SOURCE/{width}/{height}?proposition=NBCUOTT&territory=US"
+      }
+    ],
+    "hidden": false,
+    "logoHeightPercentage": 12,
+    "logoStyle": "cinema",
+    "formatType": "SD",
+    "sectionNavigation": "NEWS",
+    "contentSegments": [
+      "LOCAL_AFFILIATES"
+    ],
+    "classifications": [
+      "News"
+    ],
+    "territories": [
+      "US"
+    ],
+    "channelAvailabilities": [
+      {
+        "onAir": 1019529021000,
+        "offAir": 2145928811000
+      }
+    ]
+  },
+  {
+    "serviceKey": "4860891476281643117",
+    "providerTerritory": "US",
+    "gracenoteId": "11877",
+    "rank": 25,
+    "channelName": "WTHR-TV",
+    "logos": [
+      {
+        "type": "Default",
+        "key": "skychb_4860891476281643117_darknow",
+        "template": "https://imageservice.disco.peacocktv.com/logo/{key}/AGG_SOURCE/{width}/{height}?proposition=NBCUOTT&territory=US"
+      },
+      {
+        "type": "Light",
+        "key": "skychb_4860891476281643117_lightnow",
+        "template": "https://imageservice.disco.peacocktv.com/logo/{key}/AGG_SOURCE/{width}/{height}?proposition=NBCUOTT&territory=US"
+      },
+      {
+        "type": "Dark",
+        "key": "skychb_4860891476281643117_darknow",
+        "template": "https://imageservice.disco.peacocktv.com/logo/{key}/AGG_SOURCE/{width}/{height}?proposition=NBCUOTT&territory=US"
+      }
+    ],
+    "hidden": false,
+    "logoHeightPercentage": 12,
+    "logoStyle": "cinema",
+    "formatType": "SD",
+    "sectionNavigation": "NEWS",
+    "contentSegments": [
+      "LOCAL_AFFILIATES"
+    ],
+    "classifications": [
+      "News"
+    ],
+    "territories": [
+      "US"
+    ],
+    "channelAvailabilities": [
+      {
+        "onAir": 1019529021000,
+        "offAir": 2145928811000
+      }
+    ]
+  },
+  {
+    "serviceKey": "8989191913608556117",
+    "providerTerritory": "US",
+    "gracenoteId": "12125",
+    "rank": 26,
+    "channelName": "WPXI-TV",
+    "logos": [
+      {
+        "type": "Default",
+        "key": "skychb_8989191913608556117_darknow",
+        "template": "https://imageservice.disco.peacocktv.com/logo/{key}/AGG_SOURCE/{width}/{height}?proposition=NBCUOTT&territory=US"
+      },
+      {
+        "type": "Light",
+        "key": "skychb_8989191913608556117_lightnow",
+        "template": "https://imageservice.disco.peacocktv.com/logo/{key}/AGG_SOURCE/{width}/{height}?proposition=NBCUOTT&territory=US"
+      },
+      {
+        "type": "Dark",
+        "key": "skychb_8989191913608556117_darknow",
+        "template": "https://imageservice.disco.peacocktv.com/logo/{key}/AGG_SOURCE/{width}/{height}?proposition=NBCUOTT&territory=US"
+      }
+    ],
+    "hidden": false,
+    "logoHeightPercentage": 12,
+    "logoStyle": "cinema",
+    "formatType": "SD",
+    "sectionNavigation": "NEWS",
+    "contentSegments": [
+      "LOCAL_AFFILIATES"
+    ],
+    "classifications": [
+      "News"
+    ],
+    "territories": [
+      "US"
+    ],
+    "channelAvailabilities": [
+      {
+        "onAir": 1019529021000,
+        "offAir": 2145928811000
+      }
+    ]
+  },
+  {
+    "serviceKey": "6054379987521890117",
+    "providerTerritory": "US",
+    "gracenoteId": "11296",
+    "rank": 27,
+    "channelName": "WBAL-TV",
+    "logos": [
+      {
+        "type": "Default",
+        "key": "skychb_6054379987521890117_darknow",
+        "template": "https://imageservice.disco.peacocktv.com/logo/{key}/AGG_SOURCE/{width}/{height}?proposition=NBCUOTT&territory=US"
+      },
+      {
+        "type": "Light",
+        "key": "skychb_6054379987521890117_lightnow",
+        "template": "https://imageservice.disco.peacocktv.com/logo/{key}/AGG_SOURCE/{width}/{height}?proposition=NBCUOTT&territory=US"
+      },
+      {
+        "type": "Dark",
+        "key": "skychb_6054379987521890117_darknow",
+        "template": "https://imageservice.disco.peacocktv.com/logo/{key}/AGG_SOURCE/{width}/{height}?proposition=NBCUOTT&territory=US"
+      }
+    ],
+    "hidden": false,
+    "logoHeightPercentage": 12,
+    "logoStyle": "cinema",
+    "formatType": "SD",
+    "sectionNavigation": "NEWS",
+    "contentSegments": [
+      "LOCAL_AFFILIATES"
+    ],
+    "classifications": [
+      "News"
+    ],
+    "territories": [
+      "US"
+    ],
+    "channelAvailabilities": [
+      {
+        "onAir": 1019529021000,
+        "offAir": 2145928811000
+      }
+    ]
+  },
+  {
+    "serviceKey": "7192421522768637117",
+    "providerTerritory": "US",
+    "gracenoteId": "10599",
+    "rank": 28,
+    "channelName": "KNSD",
+    "logos": [
+      {
+        "type": "Default",
+        "key": "skychb_7192421522768637117_darknow",
+        "template": "https://imageservice.disco.peacocktv.com/logo/{key}/AGG_SOURCE/{width}/{height}?proposition=NBCUOTT&territory=US"
+      },
+      {
+        "type": "Light",
+        "key": "skychb_7192421522768637117_lightnow",
+        "template": "https://imageservice.disco.peacocktv.com/logo/{key}/AGG_SOURCE/{width}/{height}?proposition=NBCUOTT&territory=US"
+      },
+      {
+        "type": "Dark",
+        "key": "skychb_7192421522768637117_darknow",
+        "template": "https://imageservice.disco.peacocktv.com/logo/{key}/AGG_SOURCE/{width}/{height}?proposition=NBCUOTT&territory=US"
+      }
+    ],
+    "hidden": false,
+    "logoHeightPercentage": 12,
+    "logoStyle": "cinema",
+    "formatType": "SD",
+    "sectionNavigation": "NEWS",
+    "contentSegments": [
+      "LOCAL_AFFILIATES"
+    ],
+    "classifications": [
+      "News"
+    ],
+    "territories": [
+      "US"
+    ],
+    "channelAvailabilities": [
+      {
+        "onAir": 1019529021000,
+        "offAir": 2145928811000
+      }
+    ]
+  },
+  {
+    "serviceKey": "8931313723297060117",
+    "providerTerritory": "US",
+    "gracenoteId": "10691",
+    "rank": 29,
+    "channelName": "KSL-TV",
+    "logos": [
+      {
+        "type": "Default",
+        "key": "skychb_8931313723297060117_darknow",
+        "template": "https://imageservice.disco.peacocktv.com/logo/{key}/AGG_SOURCE/{width}/{height}?proposition=NBCUOTT&territory=US"
+      },
+      {
+        "type": "Light",
+        "key": "skychb_8931313723297060117_lightnow",
+        "template": "https://imageservice.disco.peacocktv.com/logo/{key}/AGG_SOURCE/{width}/{height}?proposition=NBCUOTT&territory=US"
+      },
+      {
+        "type": "Dark",
+        "key": "skychb_8931313723297060117_darknow",
+        "template": "https://imageservice.disco.peacocktv.com/logo/{key}/AGG_SOURCE/{width}/{height}?proposition=NBCUOTT&territory=US"
+      }
+    ],
+    "hidden": false,
+    "logoHeightPercentage": 12,
+    "logoStyle": "cinema",
+    "formatType": "SD",
+    "sectionNavigation": "NEWS",
+    "contentSegments": [
+      "LOCAL_AFFILIATES"
+    ],
+    "classifications": [
+      "News"
+    ],
+    "territories": [
+      "US"
+    ],
+    "channelAvailabilities": [
+      {
+        "onAir": 1019529021000,
+        "offAir": 2145928811000
+      }
+    ]
+  },
+  {
+    "serviceKey": "7475805405597191117",
+    "providerTerritory": "US",
+    "gracenoteId": "11847",
+    "rank": 30,
+    "channelName": "WSMV-TV",
+    "logos": [
+      {
+        "type": "Default",
+        "key": "skychb_7475805405597191117_darknow",
+        "template": "https://imageservice.disco.peacocktv.com/logo/{key}/AGG_SOURCE/{width}/{height}?proposition=NBCUOTT&territory=US"
+      },
+      {
+        "type": "Light",
+        "key": "skychb_7475805405597191117_lightnow",
+        "template": "https://imageservice.disco.peacocktv.com/logo/{key}/AGG_SOURCE/{width}/{height}?proposition=NBCUOTT&territory=US"
+      },
+      {
+        "type": "Dark",
+        "key": "skychb_7475805405597191117_darknow",
+        "template": "https://imageservice.disco.peacocktv.com/logo/{key}/AGG_SOURCE/{width}/{height}?proposition=NBCUOTT&territory=US"
+      }
+    ],
+    "hidden": false,
+    "logoHeightPercentage": 12,
+    "logoStyle": "cinema",
+    "formatType": "SD",
+    "sectionNavigation": "NEWS",
+    "contentSegments": [
+      "LOCAL_AFFILIATES"
+    ],
+    "classifications": [
+      "News"
+    ],
+    "territories": [
+      "US"
+    ],
+    "channelAvailabilities": [
+      {
+        "onAir": 1019529021000,
+        "offAir": 2145928811000
+      }
+    ]
+  },
+  {
+    "serviceKey": "7210737021939503117",
+    "providerTerritory": "US",
+    "gracenoteId": "30606",
+    "rank": 31,
+    "channelName": "WOAI-TV",
+    "logos": [
+      {
+        "type": "Default",
+        "key": "skychb_7210737021939503117_darknow",
+        "template": "https://imageservice.disco.peacocktv.com/logo/{key}/AGG_SOURCE/{width}/{height}?proposition=NBCUOTT&territory=US"
+      },
+      {
+        "type": "Light",
+        "key": "skychb_7210737021939503117_lightnow",
+        "template": "https://imageservice.disco.peacocktv.com/logo/{key}/AGG_SOURCE/{width}/{height}?proposition=NBCUOTT&territory=US"
+      },
+      {
+        "type": "Dark",
+        "key": "skychb_7210737021939503117_darknow",
+        "template": "https://imageservice.disco.peacocktv.com/logo/{key}/AGG_SOURCE/{width}/{height}?proposition=NBCUOTT&territory=US"
+      }
+    ],
+    "hidden": false,
+    "logoHeightPercentage": 12,
+    "logoStyle": "cinema",
+    "formatType": "SD",
+    "sectionNavigation": "NEWS",
+    "contentSegments": [
+      "LOCAL_AFFILIATES"
+    ],
+    "classifications": [
+      "News"
+    ],
+    "territories": [
+      "US"
+    ],
+    "channelAvailabilities": [
+      {
+        "onAir": 1019529021000,
+        "offAir": 2145928811000
+      }
+    ]
+  },
+  {
+    "serviceKey": "7047755215998375117",
+    "providerTerritory": "US",
+    "gracenoteId": "10689",
+    "rank": 32,
+    "channelName": "KSHB-TV",
+    "logos": [
+      {
+        "type": "Default",
+        "key": "skychb_7047755215998375117_darknow",
+        "template": "https://imageservice.disco.peacocktv.com/logo/{key}/AGG_SOURCE/{width}/{height}?proposition=NBCUOTT&territory=US"
+      },
+      {
+        "type": "Light",
+        "key": "skychb_7047755215998375117_lightnow",
+        "template": "https://imageservice.disco.peacocktv.com/logo/{key}/AGG_SOURCE/{width}/{height}?proposition=NBCUOTT&territory=US"
+      },
+      {
+        "type": "Dark",
+        "key": "skychb_7047755215998375117_darknow",
+        "template": "https://imageservice.disco.peacocktv.com/logo/{key}/AGG_SOURCE/{width}/{height}?proposition=NBCUOTT&territory=US"
+      }
+    ],
+    "hidden": false,
+    "logoHeightPercentage": 12,
+    "logoStyle": "cinema",
+    "formatType": "SD",
+    "sectionNavigation": "NEWS",
+    "contentSegments": [
+      "LOCAL_AFFILIATES"
+    ],
+    "classifications": [
+      "News"
+    ],
+    "territories": [
+      "US"
+    ],
+    "channelAvailabilities": [
+      {
+        "onAir": 1019529021000,
+        "offAir": 2145928811000
+      }
+    ]
+  },
+  {
+    "serviceKey": "7160455668876066117",
+    "providerTerritory": "US",
+    "gracenoteId": "11354",
+    "rank": 33,
+    "channelName": "WCMH-TV",
+    "logos": [
+      {
+        "type": "Default",
+        "key": "skychb_7160455668876066117_darknow",
+        "template": "https://imageservice.disco.peacocktv.com/logo/{key}/AGG_SOURCE/{width}/{height}?proposition=NBCUOTT&territory=US"
+      },
+      {
+        "type": "Light",
+        "key": "skychb_7160455668876066117_lightnow",
+        "template": "https://imageservice.disco.peacocktv.com/logo/{key}/AGG_SOURCE/{width}/{height}?proposition=NBCUOTT&territory=US"
+      },
+      {
+        "type": "Dark",
+        "key": "skychb_7160455668876066117_darknow",
+        "template": "https://imageservice.disco.peacocktv.com/logo/{key}/AGG_SOURCE/{width}/{height}?proposition=NBCUOTT&territory=US"
+      }
+    ],
+    "hidden": false,
+    "logoHeightPercentage": 12,
+    "logoStyle": "cinema",
+    "formatType": "SD",
+    "sectionNavigation": "NEWS",
+    "contentSegments": [
+      "LOCAL_AFFILIATES"
+    ],
+    "classifications": [
+      "News"
+    ],
+    "territories": [
+      "US"
+    ],
+    "channelAvailabilities": [
+      {
+        "onAir": 1019529021000,
+        "offAir": 2145928811000
+      }
+    ]
+  },
+  {
+    "serviceKey": "6656160755190343117",
+    "providerTerritory": "US",
+    "gracenoteId": "11964",
+    "rank": 34,
+    "channelName": "WVIT",
+    "logos": [
+      {
+        "type": "Default",
+        "key": "skychb_6656160755190343117_darknow",
+        "template": "https://imageservice.disco.peacocktv.com/logo/{key}/AGG_SOURCE/{width}/{height}?proposition=NBCUOTT&territory=US"
+      },
+      {
+        "type": "Light",
+        "key": "skychb_6656160755190343117_lightnow",
+        "template": "https://imageservice.disco.peacocktv.com/logo/{key}/AGG_SOURCE/{width}/{height}?proposition=NBCUOTT&territory=US"
+      },
+      {
+        "type": "Dark",
+        "key": "skychb_6656160755190343117_darknow",
+        "template": "https://imageservice.disco.peacocktv.com/logo/{key}/AGG_SOURCE/{width}/{height}?proposition=NBCUOTT&territory=US"
+      }
+    ],
+    "hidden": false,
+    "logoHeightPercentage": 12,
+    "logoStyle": "cinema",
+    "formatType": "SD",
+    "sectionNavigation": "NEWS",
+    "contentSegments": [
+      "LOCAL_AFFILIATES"
+    ],
+    "classifications": [
+      "News"
+    ],
+    "territories": [
+      "US"
+    ],
+    "channelAvailabilities": [
+      {
+        "onAir": 1019529021000,
+        "offAir": 2145928811000
+      }
+    ]
+  },
+  {
+    "serviceKey": "5566233252361580117",
+    "providerTerritory": "US",
+    "gracenoteId": "11661",
+    "rank": 35,
+    "channelName": "WLWT",
+    "logos": [
+      {
+        "type": "Default",
+        "key": "skychb_5566233252361580117_darknow",
+        "template": "https://imageservice.disco.peacocktv.com/logo/{key}/AGG_SOURCE/{width}/{height}?proposition=NBCUOTT&territory=US"
+      },
+      {
+        "type": "Light",
+        "key": "skychb_5566233252361580117_lightnow",
+        "template": "https://imageservice.disco.peacocktv.com/logo/{key}/AGG_SOURCE/{width}/{height}?proposition=NBCUOTT&territory=US"
+      },
+      {
+        "type": "Dark",
+        "key": "skychb_5566233252361580117_darknow",
+        "template": "https://imageservice.disco.peacocktv.com/logo/{key}/AGG_SOURCE/{width}/{height}?proposition=NBCUOTT&territory=US"
+      }
+    ],
+    "hidden": false,
+    "logoHeightPercentage": 12,
+    "logoStyle": "cinema",
+    "formatType": "SD",
+    "sectionNavigation": "NEWS",
+    "contentSegments": [
+      "LOCAL_AFFILIATES"
+    ],
+    "classifications": [
+      "News"
+    ],
+    "territories": [
+      "US"
+    ],
+    "channelAvailabilities": [
+      {
+        "onAir": 1019529021000,
+        "offAir": 2145928811000
+      }
+    ]
+  },
+  {
+    "serviceKey": "5215642915741551117",
+    "providerTerritory": "US",
+    "gracenoteId": "11890",
+    "rank": 36,
+    "channelName": "WTMJ-TV",
+    "logos": [
+      {
+        "type": "Default",
+        "key": "skychb_5215642915741551117_darknow",
+        "template": "https://imageservice.disco.peacocktv.com/logo/{key}/AGG_SOURCE/{width}/{height}?proposition=NBCUOTT&territory=US"
+      },
+      {
+        "type": "Light",
+        "key": "skychb_5215642915741551117_lightnow",
+        "template": "https://imageservice.disco.peacocktv.com/logo/{key}/AGG_SOURCE/{width}/{height}?proposition=NBCUOTT&territory=US"
+      },
+      {
+        "type": "Dark",
+        "key": "skychb_5215642915741551117_darknow",
+        "template": "https://imageservice.disco.peacocktv.com/logo/{key}/AGG_SOURCE/{width}/{height}?proposition=NBCUOTT&territory=US"
+      }
+    ],
+    "hidden": false,
+    "logoHeightPercentage": 12,
+    "logoStyle": "cinema",
+    "formatType": "SD",
+    "sectionNavigation": "NEWS",
+    "contentSegments": [
+      "LOCAL_AFFILIATES"
+    ],
+    "classifications": [
+      "News"
+    ],
+    "territories": [
+      "US"
+    ],
+    "channelAvailabilities": [
+      {
+        "onAir": 1019529021000,
+        "offAir": 2145928811000
+      }
+    ]
+  },
+  {
+    "serviceKey": "7738283235090327117",
+    "providerTerritory": "US",
+    "gracenoteId": "10829",
+    "rank": 37,
+    "channelName": "KXAN",
+    "logos": [
+      {
+        "type": "Default",
+        "key": "skychb_7738283235090327117_darknow",
+        "template": "https://imageservice.disco.peacocktv.com/logo/{key}/AGG_SOURCE/{width}/{height}?proposition=NBCUOTT&territory=US"
+      },
+      {
+        "type": "Light",
+        "key": "skychb_7738283235090327117_lightnow",
+        "template": "https://imageservice.disco.peacocktv.com/logo/{key}/AGG_SOURCE/{width}/{height}?proposition=NBCUOTT&territory=US"
+      },
+      {
+        "type": "Dark",
+        "key": "skychb_7738283235090327117_darknow",
+        "template": "https://imageservice.disco.peacocktv.com/logo/{key}/AGG_SOURCE/{width}/{height}?proposition=NBCUOTT&territory=US"
+      }
+    ],
+    "hidden": false,
+    "logoHeightPercentage": 12,
+    "logoStyle": "cinema",
+    "formatType": "SD",
+    "sectionNavigation": "NEWS",
+    "contentSegments": [
+      "LOCAL_AFFILIATES"
+    ],
+    "classifications": [
+      "News"
+    ],
+    "territories": [
+      "US"
+    ],
+    "channelAvailabilities": [
+      {
+        "onAir": 1019529021000,
+        "offAir": 2145928811000
+      }
+    ]
+  },
+  {
+    "serviceKey": "7817099584379230117",
+    "providerTerritory": "US",
+    "gracenoteId": "12012",
+    "rank": 38,
+    "channelName": "WYFF",
+    "logos": [
+      {
+        "type": "Default",
+        "key": "skychb_7817099584379230117_darknow",
+        "template": "https://imageservice.disco.peacocktv.com/logo/{key}/AGG_SOURCE/{width}/{height}?proposition=NBCUOTT&territory=US"
+      },
+      {
+        "type": "Light",
+        "key": "skychb_7817099584379230117_lightnow",
+        "template": "https://imageservice.disco.peacocktv.com/logo/{key}/AGG_SOURCE/{width}/{height}?proposition=NBCUOTT&territory=US"
+      },
+      {
+        "type": "Dark",
+        "key": "skychb_7817099584379230117_darknow",
+        "template": "https://imageservice.disco.peacocktv.com/logo/{key}/AGG_SOURCE/{width}/{height}?proposition=NBCUOTT&territory=US"
+      }
+    ],
+    "hidden": false,
+    "logoHeightPercentage": 12,
+    "logoStyle": "cinema",
+    "formatType": "SD",
+    "sectionNavigation": "NEWS",
+    "contentSegments": [
+      "LOCAL_AFFILIATES"
+    ],
+    "classifications": [
+      "News"
+    ],
+    "territories": [
+      "US"
+    ],
+    "channelAvailabilities": [
+      {
+        "onAir": 1019529021000,
+        "offAir": 2145928811000
+      }
+    ]
+  },
+  {
+    "serviceKey": "8506042829937512117",
+    "providerTerritory": "US",
+    "gracenoteId": "11791",
+    "rank": 39,
+    "channelName": "WPTV",
+    "logos": [
+      {
+        "type": "Default",
+        "key": "skychb_8506042829937512117_darknow",
+        "template": "https://imageservice.disco.peacocktv.com/logo/{key}/AGG_SOURCE/{width}/{height}?proposition=NBCUOTT&territory=US"
+      },
+      {
+        "type": "Light",
+        "key": "skychb_8506042829937512117_lightnow",
+        "template": "https://imageservice.disco.peacocktv.com/logo/{key}/AGG_SOURCE/{width}/{height}?proposition=NBCUOTT&territory=US"
+      },
+      {
+        "type": "Dark",
+        "key": "skychb_8506042829937512117_darknow",
+        "template": "https://imageservice.disco.peacocktv.com/logo/{key}/AGG_SOURCE/{width}/{height}?proposition=NBCUOTT&territory=US"
+      }
+    ],
+    "hidden": false,
+    "logoHeightPercentage": 12,
+    "logoStyle": "cinema",
+    "formatType": "SD",
+    "sectionNavigation": "NEWS",
+    "contentSegments": [
+      "LOCAL_AFFILIATES"
+    ],
+    "classifications": [
+      "News"
+    ],
+    "territories": [
+      "US"
+    ],
+    "channelAvailabilities": [
+      {
+        "onAir": 1019529021000,
+        "offAir": 2145928811000
+      }
+    ]
+  },
+  {
+    "serviceKey": "6239279264631120117",
+    "providerTerritory": "US",
+    "gracenoteId": "10790",
+    "rank": 40,
+    "channelName": "KSNV-DT",
+    "logos": [
+      {
+        "type": "Default",
+        "key": "skychb_6239279264631120117_darknow",
+        "template": "https://imageservice.disco.peacocktv.com/logo/{key}/AGG_SOURCE/{width}/{height}?proposition=NBCUOTT&territory=US"
+      },
+      {
+        "type": "Light",
+        "key": "skychb_6239279264631120117_lightnow",
+        "template": "https://imageservice.disco.peacocktv.com/logo/{key}/AGG_SOURCE/{width}/{height}?proposition=NBCUOTT&territory=US"
+      },
+      {
+        "type": "Dark",
+        "key": "skychb_6239279264631120117_darknow",
+        "template": "https://imageservice.disco.peacocktv.com/logo/{key}/AGG_SOURCE/{width}/{height}?proposition=NBCUOTT&territory=US"
+      }
+    ],
+    "hidden": false,
+    "logoHeightPercentage": 12,
+    "logoStyle": "cinema",
+    "formatType": "SD",
+    "sectionNavigation": "NEWS",
+    "contentSegments": [
+      "LOCAL_AFFILIATES"
+    ],
+    "classifications": [
+      "News"
+    ],
+    "territories": [
+      "US"
+    ],
+    "channelAvailabilities": [
+      {
+        "onAir": 1019529021000,
+        "offAir": 2145928811000
+      }
+    ]
+  },
+  {
+    "serviceKey": "7233244891214616117",
+    "providerTerritory": "US",
+    "gracenoteId": "11758",
+    "rank": 41,
+    "channelName": "WOOD-TV",
+    "logos": [
+      {
+        "type": "Default",
+        "key": "skychb_7233244891214616117_darknow",
+        "template": "https://imageservice.disco.peacocktv.com/logo/{key}/AGG_SOURCE/{width}/{height}?proposition=NBCUOTT&territory=US"
+      },
+      {
+        "type": "Light",
+        "key": "skychb_7233244891214616117_lightnow",
+        "template": "https://imageservice.disco.peacocktv.com/logo/{key}/AGG_SOURCE/{width}/{height}?proposition=NBCUOTT&territory=US"
+      },
+      {
+        "type": "Dark",
+        "key": "skychb_7233244891214616117_darknow",
+        "template": "https://imageservice.disco.peacocktv.com/logo/{key}/AGG_SOURCE/{width}/{height}?proposition=NBCUOTT&territory=US"
+      }
+    ],
+    "hidden": false,
+    "logoHeightPercentage": 12,
+    "logoStyle": "cinema",
+    "formatType": "SD",
+    "sectionNavigation": "NEWS",
+    "contentSegments": [
+      "LOCAL_AFFILIATES"
+    ],
+    "classifications": [
+      "News"
+    ],
+    "territories": [
+      "US"
+    ],
+    "channelAvailabilities": [
+      {
+        "onAir": 1019529021000,
+        "offAir": 2145928811000
+      }
+    ]
+  },
+  {
+    "serviceKey": "6138930870670933117",
+    "providerTerritory": "US",
+    "gracenoteId": "11458",
+    "rank": 42,
+    "channelName": "WGAL",
+    "logos": [
+      {
+        "type": "Default",
+        "key": "skychb_6138930870670933117_darknow",
+        "template": "https://imageservice.disco.peacocktv.com/logo/{key}/AGG_SOURCE/{width}/{height}?proposition=NBCUOTT&territory=US"
+      },
+      {
+        "type": "Light",
+        "key": "skychb_6138930870670933117_lightnow",
+        "template": "https://imageservice.disco.peacocktv.com/logo/{key}/AGG_SOURCE/{width}/{height}?proposition=NBCUOTT&territory=US"
+      },
+      {
+        "type": "Dark",
+        "key": "skychb_6138930870670933117_darknow",
+        "template": "https://imageservice.disco.peacocktv.com/logo/{key}/AGG_SOURCE/{width}/{height}?proposition=NBCUOTT&territory=US"
+      }
+    ],
+    "hidden": false,
+    "logoHeightPercentage": 12,
+    "logoStyle": "cinema",
+    "formatType": "SD",
+    "sectionNavigation": "NEWS",
+    "contentSegments": [
+      "LOCAL_AFFILIATES"
+    ],
+    "classifications": [
+      "News"
+    ],
+    "territories": [
+      "US"
+    ],
+    "channelAvailabilities": [
+      {
+        "onAir": 1019529021000,
+        "offAir": 2145928811000
+      }
+    ]
+  },
+  {
+    "serviceKey": "5085595711645025117",
+    "providerTerritory": "US",
+    "gracenoteId": "11888",
+    "rank": 43,
+    "channelName": "WTLV",
+    "logos": [
+      {
+        "type": "Default",
+        "key": "skychb_5085595711645025117_darknow",
+        "template": "https://imageservice.disco.peacocktv.com/logo/{key}/AGG_SOURCE/{width}/{height}?proposition=NBCUOTT&territory=US"
+      },
+      {
+        "type": "Light",
+        "key": "skychb_5085595711645025117_lightnow",
+        "template": "https://imageservice.disco.peacocktv.com/logo/{key}/AGG_SOURCE/{width}/{height}?proposition=NBCUOTT&territory=US"
+      },
+      {
+        "type": "Dark",
+        "key": "skychb_5085595711645025117_darknow",
+        "template": "https://imageservice.disco.peacocktv.com/logo/{key}/AGG_SOURCE/{width}/{height}?proposition=NBCUOTT&territory=US"
+      }
+    ],
+    "hidden": false,
+    "logoHeightPercentage": 12,
+    "logoStyle": "cinema",
+    "formatType": "SD",
+    "sectionNavigation": "NEWS",
+    "contentSegments": [
+      "LOCAL_AFFILIATES"
+    ],
+    "classifications": [
+      "News"
+    ],
+    "territories": [
+      "US"
+    ],
+    "channelAvailabilities": [
+      {
+        "onAir": 1019529021000,
+        "offAir": 2145928811000
+      }
+    ]
+  },
+  {
+    "serviceKey": "8124040456083464117",
+    "providerTerritory": "US",
+    "gracenoteId": "10462",
+    "rank": 44,
+    "channelName": "KFOR-TV",
+    "logos": [
+      {
+        "type": "Default",
+        "key": "skychb_8124040456083464117_darknow",
+        "template": "https://imageservice.disco.peacocktv.com/logo/{key}/AGG_SOURCE/{width}/{height}?proposition=NBCUOTT&territory=US"
+      },
+      {
+        "type": "Light",
+        "key": "skychb_8124040456083464117_lightnow",
+        "template": "https://imageservice.disco.peacocktv.com/logo/{key}/AGG_SOURCE/{width}/{height}?proposition=NBCUOTT&territory=US"
+      },
+      {
+        "type": "Dark",
+        "key": "skychb_8124040456083464117_darknow",
+        "template": "https://imageservice.disco.peacocktv.com/logo/{key}/AGG_SOURCE/{width}/{height}?proposition=NBCUOTT&territory=US"
+      }
+    ],
+    "hidden": false,
+    "logoHeightPercentage": 12,
+    "logoStyle": "cinema",
+    "formatType": "SD",
+    "sectionNavigation": "NEWS",
+    "contentSegments": [
+      "LOCAL_AFFILIATES"
+    ],
+    "classifications": [
+      "News"
+    ],
+    "territories": [
+      "US"
+    ],
+    "channelAvailabilities": [
+      {
+        "onAir": 1019529021000,
+        "offAir": 2145928811000
+      }
+    ]
+  },
+  {
+    "serviceKey": "5386701872295698117",
+    "providerTerritory": "US",
+    "gracenoteId": "11971",
+    "rank": 45,
+    "channelName": "WVTM-TV",
+    "logos": [
+      {
+        "type": "Default",
+        "key": "skychb_5386701872295698117_darknow",
+        "template": "https://imageservice.disco.peacocktv.com/logo/{key}/AGG_SOURCE/{width}/{height}?proposition=NBCUOTT&territory=US"
+      },
+      {
+        "type": "Light",
+        "key": "skychb_5386701872295698117_lightnow",
+        "template": "https://imageservice.disco.peacocktv.com/logo/{key}/AGG_SOURCE/{width}/{height}?proposition=NBCUOTT&territory=US"
+      },
+      {
+        "type": "Dark",
+        "key": "skychb_5386701872295698117_darknow",
+        "template": "https://imageservice.disco.peacocktv.com/logo/{key}/AGG_SOURCE/{width}/{height}?proposition=NBCUOTT&territory=US"
+      }
+    ],
+    "hidden": false,
+    "logoHeightPercentage": 12,
+    "logoStyle": "cinema",
+    "formatType": "SD",
+    "sectionNavigation": "NEWS",
+    "contentSegments": [
+      "LOCAL_AFFILIATES"
+    ],
+    "classifications": [
+      "News"
+    ],
+    "territories": [
+      "US"
+    ],
+    "channelAvailabilities": [
+      {
+        "onAir": 1019529021000,
+        "offAir": 2145928811000
+      }
+    ]
+  },
+  {
+    "serviceKey": "4999943594700558117",
+    "providerTerritory": "US",
+    "gracenoteId": "11292",
+    "rank": 46,
+    "channelName": "WAVY-TV",
+    "logos": [
+      {
+        "type": "Default",
+        "key": "skychb_4999943594700558117_darknow",
+        "template": "https://imageservice.disco.peacocktv.com/logo/{key}/AGG_SOURCE/{width}/{height}?proposition=NBCUOTT&territory=US"
+      },
+      {
+        "type": "Light",
+        "key": "skychb_4999943594700558117_lightnow",
+        "template": "https://imageservice.disco.peacocktv.com/logo/{key}/AGG_SOURCE/{width}/{height}?proposition=NBCUOTT&territory=US"
+      },
+      {
+        "type": "Dark",
+        "key": "skychb_4999943594700558117_darknow",
+        "template": "https://imageservice.disco.peacocktv.com/logo/{key}/AGG_SOURCE/{width}/{height}?proposition=NBCUOTT&territory=US"
+      }
+    ],
+    "hidden": false,
+    "logoHeightPercentage": 12,
+    "logoStyle": "cinema",
+    "formatType": "SD",
+    "sectionNavigation": "NEWS",
+    "contentSegments": [
+      "LOCAL_AFFILIATES"
+    ],
+    "classifications": [
+      "News"
+    ],
+    "territories": [
+      "US"
+    ],
+    "channelAvailabilities": [
+      {
+        "onAir": 1019529021000,
+        "offAir": 2145928811000
+      }
+    ]
+  },
+  {
+    "serviceKey": "5997711749958399117",
+    "providerTerritory": "US",
+    "gracenoteId": "11994",
+    "rank": 47,
+    "channelName": "WXII",
+    "logos": [
+      {
+        "type": "Default",
+        "key": "skychb_5997711749958399117_darknow",
+        "template": "https://imageservice.disco.peacocktv.com/logo/{key}/AGG_SOURCE/{width}/{height}?proposition=NBCUOTT&territory=US"
+      },
+      {
+        "type": "Light",
+        "key": "skychb_5997711749958399117_lightnow",
+        "template": "https://imageservice.disco.peacocktv.com/logo/{key}/AGG_SOURCE/{width}/{height}?proposition=NBCUOTT&territory=US"
+      },
+      {
+        "type": "Dark",
+        "key": "skychb_5997711749958399117_darknow",
+        "template": "https://imageservice.disco.peacocktv.com/logo/{key}/AGG_SOURCE/{width}/{height}?proposition=NBCUOTT&territory=US"
+      }
+    ],
+    "hidden": false,
+    "logoHeightPercentage": 12,
+    "logoStyle": "cinema",
+    "formatType": "SD",
+    "sectionNavigation": "NEWS",
+    "contentSegments": [
+      "LOCAL_AFFILIATES"
+    ],
+    "classifications": [
+      "News"
+    ],
+    "territories": [
+      "US"
+    ],
+    "channelAvailabilities": [
+      {
+        "onAir": 1019529021000,
+        "offAir": 2145928811000
+      }
+    ]
+  },
+  {
+    "serviceKey": "8714868509976045117",
+    "providerTerritory": "US",
+    "gracenoteId": "11291",
+    "rank": 48,
+    "channelName": "WAVE",
+    "logos": [
+      {
+        "type": "Default",
+        "key": "skychb_8714868509976045117_darknow",
+        "template": "https://imageservice.disco.peacocktv.com/logo/{key}/AGG_SOURCE/{width}/{height}?proposition=NBCUOTT&territory=US"
+      },
+      {
+        "type": "Light",
+        "key": "skychb_8714868509976045117_lightnow",
+        "template": "https://imageservice.disco.peacocktv.com/logo/{key}/AGG_SOURCE/{width}/{height}?proposition=NBCUOTT&territory=US"
+      },
+      {
+        "type": "Dark",
+        "key": "skychb_8714868509976045117_darknow",
+        "template": "https://imageservice.disco.peacocktv.com/logo/{key}/AGG_SOURCE/{width}/{height}?proposition=NBCUOTT&territory=US"
+      }
+    ],
+    "hidden": false,
+    "logoHeightPercentage": 12,
+    "logoStyle": "cinema",
+    "formatType": "SD",
+    "sectionNavigation": "NEWS",
+    "contentSegments": [
+      "LOCAL_AFFILIATES"
+    ],
+    "classifications": [
+      "News"
+    ],
+    "territories": [
+      "US"
+    ],
+    "channelAvailabilities": [
+      {
+        "onAir": 1019529021000,
+        "offAir": 2145928811000
+      }
+    ]
+  },
+  {
+    "serviceKey": "8206415673737137117",
+    "providerTerritory": "US",
+    "gracenoteId": "10609",
+    "rank": 49,
+    "channelName": "KOB",
+    "logos": [
+      {
+        "type": "Default",
+        "key": "skychb_8206415673737137117_darknow",
+        "template": "https://imageservice.disco.peacocktv.com/logo/{key}/AGG_SOURCE/{width}/{height}?proposition=NBCUOTT&territory=US"
+      },
+      {
+        "type": "Light",
+        "key": "skychb_8206415673737137117_lightnow",
+        "template": "https://imageservice.disco.peacocktv.com/logo/{key}/AGG_SOURCE/{width}/{height}?proposition=NBCUOTT&territory=US"
+      },
+      {
+        "type": "Dark",
+        "key": "skychb_8206415673737137117_darknow",
+        "template": "https://imageservice.disco.peacocktv.com/logo/{key}/AGG_SOURCE/{width}/{height}?proposition=NBCUOTT&territory=US"
+      }
+    ],
+    "hidden": false,
+    "logoHeightPercentage": 12,
+    "logoStyle": "cinema",
+    "formatType": "SD",
+    "sectionNavigation": "NEWS",
+    "contentSegments": [
+      "LOCAL_AFFILIATES"
+    ],
+    "classifications": [
+      "News"
+    ],
+    "territories": [
+      "US"
+    ],
+    "channelAvailabilities": [
+      {
+        "onAir": 1019529021000,
+        "offAir": 2145928811000
+      }
+    ]
+  },
+  {
+    "serviceKey": "7867793795430570117",
+    "providerTerritory": "US",
+    "gracenoteId": "11395",
+    "rank": 50,
+    "channelName": "WDSU",
+    "logos": [
+      {
+        "type": "Default",
+        "key": "skychb_7867793795430570117_darknow",
+        "template": "https://imageservice.disco.peacocktv.com/logo/{key}/AGG_SOURCE/{width}/{height}?proposition=NBCUOTT&territory=US"
+      },
+      {
+        "type": "Light",
+        "key": "skychb_7867793795430570117_lightnow",
+        "template": "https://imageservice.disco.peacocktv.com/logo/{key}/AGG_SOURCE/{width}/{height}?proposition=NBCUOTT&territory=US"
+      },
+      {
+        "type": "Dark",
+        "key": "skychb_7867793795430570117_darknow",
+        "template": "https://imageservice.disco.peacocktv.com/logo/{key}/AGG_SOURCE/{width}/{height}?proposition=NBCUOTT&territory=US"
+      }
+    ],
+    "hidden": false,
+    "logoHeightPercentage": 12,
+    "logoStyle": "cinema",
+    "formatType": "SD",
+    "sectionNavigation": "NEWS",
+    "contentSegments": [
+      "LOCAL_AFFILIATES"
+    ],
+    "classifications": [
+      "News"
+    ],
+    "territories": [
+      "US"
+    ],
+    "channelAvailabilities": [
+      {
+        "onAir": 1019529021000,
+        "offAir": 2145928811000
+      }
+    ]
+  },
+  {
+    "serviceKey": "8614817601462142117",
+    "providerTerritory": "US",
+    "gracenoteId": "11567",
+    "rank": 51,
+    "channelName": "WJAR",
+    "logos": [
+      {
+        "type": "Default",
+        "key": "skychb_8614817601462142117_darknow",
+        "template": "https://imageservice.disco.peacocktv.com/logo/{key}/AGG_SOURCE/{width}/{height}?proposition=NBCUOTT&territory=US"
+      },
+      {
+        "type": "Light",
+        "key": "skychb_8614817601462142117_lightnow",
+        "template": "https://imageservice.disco.peacocktv.com/logo/{key}/AGG_SOURCE/{width}/{height}?proposition=NBCUOTT&territory=US"
+      },
+      {
+        "type": "Dark",
+        "key": "skychb_8614817601462142117_darknow",
+        "template": "https://imageservice.disco.peacocktv.com/logo/{key}/AGG_SOURCE/{width}/{height}?proposition=NBCUOTT&territory=US"
+      }
+    ],
+    "hidden": false,
+    "logoHeightPercentage": 12,
+    "logoStyle": "cinema",
+    "formatType": "SD",
+    "sectionNavigation": "NEWS",
+    "contentSegments": [
+      "LOCAL_AFFILIATES"
+    ],
+    "classifications": [
+      "News"
+    ],
+    "territories": [
+      "US"
+    ],
+    "channelAvailabilities": [
+      {
+        "onAir": 1019529021000,
+        "offAir": 2145928811000
+      }
+    ]
+  },
+  {
+    "serviceKey": "7517858593666600117",
+    "providerTerritory": "US",
+    "gracenoteId": "11484",
+    "rank": 52,
+    "channelName": "WGRZ-TV",
+    "logos": [
+      {
+        "type": "Default",
+        "key": "skychb_7517858593666600117_darknow",
+        "template": "https://imageservice.disco.peacocktv.com/logo/{key}/AGG_SOURCE/{width}/{height}?proposition=NBCUOTT&territory=US"
+      },
+      {
+        "type": "Light",
+        "key": "skychb_7517858593666600117_lightnow",
+        "template": "https://imageservice.disco.peacocktv.com/logo/{key}/AGG_SOURCE/{width}/{height}?proposition=NBCUOTT&territory=US"
+      },
+      {
+        "type": "Dark",
+        "key": "skychb_7517858593666600117_darknow",
+        "template": "https://imageservice.disco.peacocktv.com/logo/{key}/AGG_SOURCE/{width}/{height}?proposition=NBCUOTT&territory=US"
+      }
+    ],
+    "hidden": false,
+    "logoHeightPercentage": 12,
+    "logoStyle": "cinema",
+    "formatType": "SD",
+    "sectionNavigation": "NEWS",
+    "contentSegments": [
+      "LOCAL_AFFILIATES"
+    ],
+    "classifications": [
+      "News"
+    ],
+    "territories": [
+      "US"
+    ],
+    "channelAvailabilities": [
+      {
+        "onAir": 1019529021000,
+        "offAir": 2145928811000
+      }
+    ]
+  },
+  {
+    "serviceKey": "4689660169436116117",
+    "providerTerritory": "US",
+    "gracenoteId": "11678",
+    "rank": 53,
+    "channelName": "WMC-TV",
+    "logos": [
+      {
+        "type": "Default",
+        "key": "skychb_4689660169436116117_darknow",
+        "template": "https://imageservice.disco.peacocktv.com/logo/{key}/AGG_SOURCE/{width}/{height}?proposition=NBCUOTT&territory=US"
+      },
+      {
+        "type": "Light",
+        "key": "skychb_4689660169436116117_lightnow",
+        "template": "https://imageservice.disco.peacocktv.com/logo/{key}/AGG_SOURCE/{width}/{height}?proposition=NBCUOTT&territory=US"
+      },
+      {
+        "type": "Dark",
+        "key": "skychb_4689660169436116117_darknow",
+        "template": "https://imageservice.disco.peacocktv.com/logo/{key}/AGG_SOURCE/{width}/{height}?proposition=NBCUOTT&territory=US"
+      }
+    ],
+    "hidden": false,
+    "logoHeightPercentage": 12,
+    "logoStyle": "cinema",
+    "formatType": "SD",
+    "sectionNavigation": "NEWS",
+    "contentSegments": [
+      "LOCAL_AFFILIATES"
+    ],
+    "classifications": [
+      "News"
+    ],
+    "territories": [
+      "US"
+    ],
+    "channelAvailabilities": [
+      {
+        "onAir": 1019529021000,
+        "offAir": 2145928811000
+      }
+    ]
+  },
+  {
+    "serviceKey": "6034065111612307117",
+    "providerTerritory": "US",
+    "gracenoteId": "11298",
+    "rank": 54,
+    "channelName": "WBBH-TV",
+    "logos": [
+      {
+        "type": "Default",
+        "key": "skychb_6034065111612307117_darknow",
+        "template": "https://imageservice.disco.peacocktv.com/logo/{key}/AGG_SOURCE/{width}/{height}?proposition=NBCUOTT&territory=US"
+      },
+      {
+        "type": "Light",
+        "key": "skychb_6034065111612307117_lightnow",
+        "template": "https://imageservice.disco.peacocktv.com/logo/{key}/AGG_SOURCE/{width}/{height}?proposition=NBCUOTT&territory=US"
+      },
+      {
+        "type": "Dark",
+        "key": "skychb_6034065111612307117_darknow",
+        "template": "https://imageservice.disco.peacocktv.com/logo/{key}/AGG_SOURCE/{width}/{height}?proposition=NBCUOTT&territory=US"
+      }
+    ],
+    "hidden": false,
+    "logoHeightPercentage": 12,
+    "logoStyle": "cinema",
+    "formatType": "SD",
+    "sectionNavigation": "NEWS",
+    "contentSegments": [
+      "LOCAL_AFFILIATES"
+    ],
+    "classifications": [
+      "News"
+    ],
+    "territories": [
+      "US"
+    ],
+    "channelAvailabilities": [
+      {
+        "onAir": 1019529021000,
+        "offAir": 2145928811000
+      }
+    ]
+  },
+  {
+    "serviceKey": "6605928329691087117",
+    "providerTerritory": "US",
+    "gracenoteId": "10686",
+    "rank": 55,
+    "channelName": "KSEE",
+    "logos": [
+      {
+        "type": "Default",
+        "key": "skychb_6605928329691087117_darknow",
+        "template": "https://imageservice.disco.peacocktv.com/logo/{key}/AGG_SOURCE/{width}/{height}?proposition=NBCUOTT&territory=US"
+      },
+      {
+        "type": "Light",
+        "key": "skychb_6605928329691087117_lightnow",
+        "template": "https://imageservice.disco.peacocktv.com/logo/{key}/AGG_SOURCE/{width}/{height}?proposition=NBCUOTT&territory=US"
+      },
+      {
+        "type": "Dark",
+        "key": "skychb_6605928329691087117_darknow",
+        "template": "https://imageservice.disco.peacocktv.com/logo/{key}/AGG_SOURCE/{width}/{height}?proposition=NBCUOTT&territory=US"
+      }
+    ],
+    "hidden": false,
+    "logoHeightPercentage": 12,
+    "logoStyle": "cinema",
+    "formatType": "SD",
+    "sectionNavigation": "NEWS",
+    "contentSegments": [
+      "LOCAL_AFFILIATES"
+    ],
+    "classifications": [
+      "News"
+    ],
+    "territories": [
+      "US"
+    ],
+    "channelAvailabilities": [
+      {
+        "onAir": 1019529021000,
+        "offAir": 2145928811000
+      }
+    ]
+  },
+  {
+    "serviceKey": "5549168744869640117",
+    "providerTerritory": "US",
+    "gracenoteId": "11978",
+    "rank": 56,
+    "channelName": "WWBT",
+    "logos": [
+      {
+        "type": "Default",
+        "key": "skychb_5549168744869640117_darknow",
+        "template": "https://imageservice.disco.peacocktv.com/logo/{key}/AGG_SOURCE/{width}/{height}?proposition=NBCUOTT&territory=US"
+      },
+      {
+        "type": "Light",
+        "key": "skychb_5549168744869640117_lightnow",
+        "template": "https://imageservice.disco.peacocktv.com/logo/{key}/AGG_SOURCE/{width}/{height}?proposition=NBCUOTT&territory=US"
+      },
+      {
+        "type": "Dark",
+        "key": "skychb_5549168744869640117_darknow",
+        "template": "https://imageservice.disco.peacocktv.com/logo/{key}/AGG_SOURCE/{width}/{height}?proposition=NBCUOTT&territory=US"
+      }
+    ],
+    "hidden": false,
+    "logoHeightPercentage": 12,
+    "logoStyle": "cinema",
+    "formatType": "SD",
+    "sectionNavigation": "NEWS",
+    "contentSegments": [
+      "LOCAL_AFFILIATES"
+    ],
+    "classifications": [
+      "News"
+    ],
+    "territories": [
+      "US"
+    ],
+    "channelAvailabilities": [
+      {
+        "onAir": 1019529021000,
+        "offAir": 2145928811000
+      }
+    ]
+  },
+  {
+    "serviceKey": "4811939207145178117",
+    "providerTerritory": "US",
+    "gracenoteId": "11781",
+    "rank": 57,
+    "channelName": "WPMI-TV",
+    "logos": [
+      {
+        "type": "Default",
+        "key": "skychb_4811939207145178117_darknow",
+        "template": "https://imageservice.disco.peacocktv.com/logo/{key}/AGG_SOURCE/{width}/{height}?proposition=NBCUOTT&territory=US"
+      },
+      {
+        "type": "Light",
+        "key": "skychb_4811939207145178117_lightnow",
+        "template": "https://imageservice.disco.peacocktv.com/logo/{key}/AGG_SOURCE/{width}/{height}?proposition=NBCUOTT&territory=US"
+      },
+      {
+        "type": "Dark",
+        "key": "skychb_4811939207145178117_darknow",
+        "template": "https://imageservice.disco.peacocktv.com/logo/{key}/AGG_SOURCE/{width}/{height}?proposition=NBCUOTT&territory=US"
+      }
+    ],
+    "hidden": false,
+    "logoHeightPercentage": 12,
+    "logoStyle": "cinema",
+    "formatType": "SD",
+    "sectionNavigation": "NEWS",
+    "contentSegments": [
+      "LOCAL_AFFILIATES"
+    ],
+    "classifications": [
+      "News"
+    ],
+    "territories": [
+      "US"
+    ],
+    "channelAvailabilities": [
+      {
+        "onAir": 1019529021000,
+        "offAir": 2145928811000
+      }
+    ]
+  },
+  {
+    "serviceKey": "7035488214976856117",
+    "providerTerritory": "US",
+    "gracenoteId": "11317",
+    "rank": 58,
+    "channelName": "WBRE-TV",
+    "logos": [
+      {
+        "type": "Default",
+        "key": "skychb_7035488214976856117_darknow",
+        "template": "https://imageservice.disco.peacocktv.com/logo/{key}/AGG_SOURCE/{width}/{height}?proposition=NBCUOTT&territory=US"
+      },
+      {
+        "type": "Light",
+        "key": "skychb_7035488214976856117_lightnow",
+        "template": "https://imageservice.disco.peacocktv.com/logo/{key}/AGG_SOURCE/{width}/{height}?proposition=NBCUOTT&territory=US"
+      },
+      {
+        "type": "Dark",
+        "key": "skychb_7035488214976856117_darknow",
+        "template": "https://imageservice.disco.peacocktv.com/logo/{key}/AGG_SOURCE/{width}/{height}?proposition=NBCUOTT&territory=US"
+      }
+    ],
+    "hidden": false,
+    "logoHeightPercentage": 12,
+    "logoStyle": "cinema",
+    "formatType": "SD",
+    "sectionNavigation": "NEWS",
+    "contentSegments": [
+      "LOCAL_AFFILIATES"
+    ],
+    "classifications": [
+      "News"
+    ],
+    "territories": [
+      "US"
+    ],
+    "channelAvailabilities": [
+      {
+        "onAir": 1019529021000,
+        "offAir": 2145928811000
+      }
+    ]
+  },
+  {
+    "serviceKey": "7575700122146562117",
+    "providerTerritory": "US",
+    "gracenoteId": "11745",
+    "rank": 59,
+    "channelName": "WNYT",
+    "logos": [
+      {
+        "type": "Default",
+        "key": "skychb_7575700122146562117_darknow",
+        "template": "https://imageservice.disco.peacocktv.com/logo/{key}/AGG_SOURCE/{width}/{height}?proposition=NBCUOTT&territory=US"
+      },
+      {
+        "type": "Light",
+        "key": "skychb_7575700122146562117_lightnow",
+        "template": "https://imageservice.disco.peacocktv.com/logo/{key}/AGG_SOURCE/{width}/{height}?proposition=NBCUOTT&territory=US"
+      },
+      {
+        "type": "Dark",
+        "key": "skychb_7575700122146562117_darknow",
+        "template": "https://imageservice.disco.peacocktv.com/logo/{key}/AGG_SOURCE/{width}/{height}?proposition=NBCUOTT&territory=US"
+      }
+    ],
+    "hidden": false,
+    "logoHeightPercentage": 12,
+    "logoStyle": "cinema",
+    "formatType": "SD",
+    "sectionNavigation": "NEWS",
+    "contentSegments": [
+      "LOCAL_AFFILIATES"
+    ],
+    "classifications": [
+      "News"
+    ],
+    "territories": [
+      "US"
+    ],
+    "channelAvailabilities": [
+      {
+        "onAir": 1019529021000,
+        "offAir": 2145928811000
+      }
+    ]
+  },
+  {
+    "serviceKey": "5115173261563607117",
+    "providerTerritory": "US",
+    "gracenoteId": "10330",
+    "rank": 60,
+    "channelName": "KARK-TV",
+    "logos": [
+      {
+        "type": "Default",
+        "key": "skychb_5115173261563607117_darknow",
+        "template": "https://imageservice.disco.peacocktv.com/logo/{key}/AGG_SOURCE/{width}/{height}?proposition=NBCUOTT&territory=US"
+      },
+      {
+        "type": "Light",
+        "key": "skychb_5115173261563607117_lightnow",
+        "template": "https://imageservice.disco.peacocktv.com/logo/{key}/AGG_SOURCE/{width}/{height}?proposition=NBCUOTT&territory=US"
+      },
+      {
+        "type": "Dark",
+        "key": "skychb_5115173261563607117_darknow",
+        "template": "https://imageservice.disco.peacocktv.com/logo/{key}/AGG_SOURCE/{width}/{height}?proposition=NBCUOTT&territory=US"
+      }
+    ],
+    "hidden": false,
+    "logoHeightPercentage": 12,
+    "logoStyle": "cinema",
+    "formatType": "SD",
+    "sectionNavigation": "NEWS",
+    "contentSegments": [
+      "LOCAL_AFFILIATES"
+    ],
+    "classifications": [
+      "News"
+    ],
+    "territories": [
+      "US"
+    ],
+    "channelAvailabilities": [
+      {
+        "onAir": 1019529021000,
+        "offAir": 2145928811000
+      }
+    ]
+  },
+  {
+    "serviceKey": "6459536559641934117",
+    "providerTerritory": "US",
+    "gracenoteId": "10531",
+    "rank": 61,
+    "channelName": "KJRH",
+    "logos": [
+      {
+        "type": "Default",
+        "key": "skychb_6459536559641934117_darknow",
+        "template": "https://imageservice.disco.peacocktv.com/logo/{key}/AGG_SOURCE/{width}/{height}?proposition=NBCUOTT&territory=US"
+      },
+      {
+        "type": "Light",
+        "key": "skychb_6459536559641934117_lightnow",
+        "template": "https://imageservice.disco.peacocktv.com/logo/{key}/AGG_SOURCE/{width}/{height}?proposition=NBCUOTT&territory=US"
+      },
+      {
+        "type": "Dark",
+        "key": "skychb_6459536559641934117_darknow",
+        "template": "https://imageservice.disco.peacocktv.com/logo/{key}/AGG_SOURCE/{width}/{height}?proposition=NBCUOTT&territory=US"
+      }
+    ],
+    "hidden": false,
+    "logoHeightPercentage": 12,
+    "logoStyle": "cinema",
+    "formatType": "SD",
+    "sectionNavigation": "NEWS",
+    "contentSegments": [
+      "LOCAL_AFFILIATES"
+    ],
+    "classifications": [
+      "News"
+    ],
+    "territories": [
+      "US"
+    ],
+    "channelAvailabilities": [
+      {
+        "onAir": 1019529021000,
+        "offAir": 2145928811000
+      }
+    ]
+  },
+  {
+    "serviceKey": "5519816441241812117",
+    "providerTerritory": "US",
+    "gracenoteId": "11305",
+    "rank": 62,
+    "channelName": "WBIR-TV",
+    "logos": [
+      {
+        "type": "Default",
+        "key": "skychb_5519816441241812117_darknow",
+        "template": "https://imageservice.disco.peacocktv.com/logo/{key}/AGG_SOURCE/{width}/{height}?proposition=NBCUOTT&territory=US"
+      },
+      {
+        "type": "Light",
+        "key": "skychb_5519816441241812117_lightnow",
+        "template": "https://imageservice.disco.peacocktv.com/logo/{key}/AGG_SOURCE/{width}/{height}?proposition=NBCUOTT&territory=US"
+      },
+      {
+        "type": "Dark",
+        "key": "skychb_5519816441241812117_darknow",
+        "template": "https://imageservice.disco.peacocktv.com/logo/{key}/AGG_SOURCE/{width}/{height}?proposition=NBCUOTT&territory=US"
+      }
+    ],
+    "hidden": false,
+    "logoHeightPercentage": 12,
+    "logoStyle": "cinema",
+    "formatType": "SD",
+    "sectionNavigation": "NEWS",
+    "contentSegments": [
+      "LOCAL_AFFILIATES"
+    ],
+    "classifications": [
+      "News"
+    ],
+    "territories": [
+      "US"
+    ],
+    "channelAvailabilities": [
+      {
+        "onAir": 1019529021000,
+        "offAir": 2145928811000
+      }
+    ]
+  },
+  {
+    "serviceKey": "4717059789175908117",
+    "providerTerritory": "US",
+    "gracenoteId": "11638",
+    "rank": 63,
+    "channelName": "WLEX-TV",
+    "logos": [
+      {
+        "type": "Default",
+        "key": "skychb_4717059789175908117_darknow",
+        "template": "https://imageservice.disco.peacocktv.com/logo/{key}/AGG_SOURCE/{width}/{height}?proposition=NBCUOTT&territory=US"
+      },
+      {
+        "type": "Light",
+        "key": "skychb_4717059789175908117_lightnow",
+        "template": "https://imageservice.disco.peacocktv.com/logo/{key}/AGG_SOURCE/{width}/{height}?proposition=NBCUOTT&territory=US"
+      },
+      {
+        "type": "Dark",
+        "key": "skychb_4717059789175908117_darknow",
+        "template": "https://imageservice.disco.peacocktv.com/logo/{key}/AGG_SOURCE/{width}/{height}?proposition=NBCUOTT&territory=US"
+      }
+    ],
+    "hidden": false,
+    "logoHeightPercentage": 12,
+    "logoStyle": "cinema",
+    "formatType": "SD",
+    "sectionNavigation": "NEWS",
+    "contentSegments": [
+      "LOCAL_AFFILIATES"
+    ],
+    "classifications": [
+      "News"
+    ],
+    "territories": [
+      "US"
+    ],
+    "channelAvailabilities": [
+      {
+        "onAir": 1019529021000,
+        "offAir": 2145928811000
+      }
+    ]
+  },
+  {
+    "serviceKey": "6523359251770606117",
+    "providerTerritory": "US",
+    "gracenoteId": "11396",
+    "rank": 64,
+    "channelName": "WDTN",
+    "logos": [
+      {
+        "type": "Default",
+        "key": "skychb_6523359251770606117_darknow",
+        "template": "https://imageservice.disco.peacocktv.com/logo/{key}/AGG_SOURCE/{width}/{height}?proposition=NBCUOTT&territory=US"
+      },
+      {
+        "type": "Light",
+        "key": "skychb_6523359251770606117_lightnow",
+        "template": "https://imageservice.disco.peacocktv.com/logo/{key}/AGG_SOURCE/{width}/{height}?proposition=NBCUOTT&territory=US"
+      },
+      {
+        "type": "Dark",
+        "key": "skychb_6523359251770606117_darknow",
+        "template": "https://imageservice.disco.peacocktv.com/logo/{key}/AGG_SOURCE/{width}/{height}?proposition=NBCUOTT&territory=US"
+      }
+    ],
+    "hidden": false,
+    "logoHeightPercentage": 12,
+    "logoStyle": "cinema",
+    "formatType": "SD",
+    "sectionNavigation": "NEWS",
+    "contentSegments": [
+      "LOCAL_AFFILIATES"
+    ],
+    "classifications": [
+      "News"
+    ],
+    "territories": [
+      "US"
+    ],
+    "channelAvailabilities": [
+      {
+        "onAir": 1019529021000,
+        "offAir": 2145928811000
+      }
+    ]
+  },
+  {
+    "serviceKey": "5530283236539858117",
+    "providerTerritory": "US",
+    "gracenoteId": "10494",
+    "rank": 65,
+    "channelName": "KHNL",
+    "logos": [
+      {
+        "type": "Default",
+        "key": "skychb_5530283236539858117_darknow",
+        "template": "https://imageservice.disco.peacocktv.com/logo/{key}/AGG_SOURCE/{width}/{height}?proposition=NBCUOTT&territory=US"
+      },
+      {
+        "type": "Light",
+        "key": "skychb_5530283236539858117_lightnow",
+        "template": "https://imageservice.disco.peacocktv.com/logo/{key}/AGG_SOURCE/{width}/{height}?proposition=NBCUOTT&territory=US"
+      },
+      {
+        "type": "Dark",
+        "key": "skychb_5530283236539858117_darknow",
+        "template": "https://imageservice.disco.peacocktv.com/logo/{key}/AGG_SOURCE/{width}/{height}?proposition=NBCUOTT&territory=US"
+      }
+    ],
+    "hidden": false,
+    "logoHeightPercentage": 12,
+    "logoStyle": "cinema",
+    "formatType": "SD",
+    "sectionNavigation": "NEWS",
+    "contentSegments": [
+      "LOCAL_AFFILIATES"
+    ],
+    "classifications": [
+      "News"
+    ],
+    "territories": [
+      "US"
+    ],
+    "channelAvailabilities": [
+      {
+        "onAir": 1019529021000,
+        "offAir": 2145928811000
+      }
+    ]
+  },
+  {
+    "serviceKey": "7979774648485807117",
+    "providerTerritory": "US",
+    "gracenoteId": "10497",
+    "rank": 66,
+    "channelName": "KHQ-TV",
+    "logos": [
+      {
+        "type": "Default",
+        "key": "skychb_7979774648485807117_darknow",
+        "template": "https://imageservice.disco.peacocktv.com/logo/{key}/AGG_SOURCE/{width}/{height}?proposition=NBCUOTT&territory=US"
+      },
+      {
+        "type": "Light",
+        "key": "skychb_7979774648485807117_lightnow",
+        "template": "https://imageservice.disco.peacocktv.com/logo/{key}/AGG_SOURCE/{width}/{height}?proposition=NBCUOTT&territory=US"
+      },
+      {
+        "type": "Dark",
+        "key": "skychb_7979774648485807117_darknow",
+        "template": "https://imageservice.disco.peacocktv.com/logo/{key}/AGG_SOURCE/{width}/{height}?proposition=NBCUOTT&territory=US"
+      }
+    ],
+    "hidden": false,
+    "logoHeightPercentage": 12,
+    "logoStyle": "cinema",
+    "formatType": "SD",
+    "sectionNavigation": "NEWS",
+    "contentSegments": [
+      "LOCAL_AFFILIATES"
+    ],
+    "classifications": [
+      "News"
+    ],
+    "territories": [
+      "US"
+    ],
+    "channelAvailabilities": [
+      {
+        "onAir": 1019529021000,
+        "offAir": 2145928811000
+      }
+    ]
+  },
+  {
+    "serviceKey": "5782461587668615117",
+    "providerTerritory": "US",
+    "gracenoteId": "11520",
+    "rank": 67,
+    "channelName": "WHO-TV",
+    "logos": [
+      {
+        "type": "Default",
+        "key": "skychb_5782461587668615117_darknow",
+        "template": "https://imageservice.disco.peacocktv.com/logo/{key}/AGG_SOURCE/{width}/{height}?proposition=NBCUOTT&territory=US"
+      },
+      {
+        "type": "Light",
+        "key": "skychb_5782461587668615117_lightnow",
+        "template": "https://imageservice.disco.peacocktv.com/logo/{key}/AGG_SOURCE/{width}/{height}?proposition=NBCUOTT&territory=US"
+      },
+      {
+        "type": "Dark",
+        "key": "skychb_5782461587668615117_darknow",
+        "template": "https://imageservice.disco.peacocktv.com/logo/{key}/AGG_SOURCE/{width}/{height}?proposition=NBCUOTT&territory=US"
+      }
+    ],
+    "hidden": false,
+    "logoHeightPercentage": 12,
+    "logoStyle": "cinema",
+    "formatType": "SD",
+    "sectionNavigation": "NEWS",
+    "contentSegments": [
+      "LOCAL_AFFILIATES"
+    ],
+    "classifications": [
+      "News"
+    ],
+    "territories": [
+      "US"
+    ],
+    "channelAvailabilities": [
+      {
+        "onAir": 1019529021000,
+        "offAir": 2145928811000
+      }
+    ]
+  },
+  {
+    "serviceKey": "7061664281808557117",
+    "providerTerritory": "US",
+    "gracenoteId": "30513",
+    "rank": 68,
+    "channelName": "WGBA-TV",
+    "logos": [
+      {
+        "type": "Default",
+        "key": "skychb_7061664281808557117_darknow",
+        "template": "https://imageservice.disco.peacocktv.com/logo/{key}/AGG_SOURCE/{width}/{height}?proposition=NBCUOTT&territory=US"
+      },
+      {
+        "type": "Light",
+        "key": "skychb_7061664281808557117_lightnow",
+        "template": "https://imageservice.disco.peacocktv.com/logo/{key}/AGG_SOURCE/{width}/{height}?proposition=NBCUOTT&territory=US"
+      },
+      {
+        "type": "Dark",
+        "key": "skychb_7061664281808557117_darknow",
+        "template": "https://imageservice.disco.peacocktv.com/logo/{key}/AGG_SOURCE/{width}/{height}?proposition=NBCUOTT&territory=US"
+      }
+    ],
+    "hidden": false,
+    "logoHeightPercentage": 12,
+    "logoStyle": "cinema",
+    "formatType": "SD",
+    "sectionNavigation": "NEWS",
+    "contentSegments": [
+      "LOCAL_AFFILIATES"
+    ],
+    "classifications": [
+      "News"
+    ],
+    "territories": [
+      "US"
+    ],
+    "channelAvailabilities": [
+      {
+        "onAir": 1019529021000,
+        "offAir": 2145928811000
+      }
+    ]
+  },
+  {
+    "serviceKey": "7430549128715587117",
+    "providerTerritory": "US",
+    "gracenoteId": "10804",
+    "rank": 69,
+    "channelName": "KVOA",
+    "logos": [
+      {
+        "type": "Default",
+        "key": "skychb_7430549128715587117_darknow",
+        "template": "https://imageservice.disco.peacocktv.com/logo/{key}/AGG_SOURCE/{width}/{height}?proposition=NBCUOTT&territory=US"
+      },
+      {
+        "type": "Light",
+        "key": "skychb_7430549128715587117_lightnow",
+        "template": "https://imageservice.disco.peacocktv.com/logo/{key}/AGG_SOURCE/{width}/{height}?proposition=NBCUOTT&territory=US"
+      },
+      {
+        "type": "Dark",
+        "key": "skychb_7430549128715587117_darknow",
+        "template": "https://imageservice.disco.peacocktv.com/logo/{key}/AGG_SOURCE/{width}/{height}?proposition=NBCUOTT&territory=US"
+      }
+    ],
+    "hidden": false,
+    "logoHeightPercentage": 12,
+    "logoStyle": "cinema",
+    "formatType": "SD",
+    "sectionNavigation": "NEWS",
+    "contentSegments": [
+      "LOCAL_AFFILIATES"
+    ],
+    "classifications": [
+      "News"
+    ],
+    "territories": [
+      "US"
+    ],
+    "channelAvailabilities": [
+      {
+        "onAir": 1019529021000,
+        "offAir": 2145928811000
+      }
+    ]
+  },
+  {
+    "serviceKey": "7426363460614919117",
+    "providerTerritory": "US",
+    "gracenoteId": "10698",
+    "rank": 70,
+    "channelName": "KSNW",
+    "logos": [
+      {
+        "type": "Default",
+        "key": "skychb_7426363460614919117_darknow",
+        "template": "https://imageservice.disco.peacocktv.com/logo/{key}/AGG_SOURCE/{width}/{height}?proposition=NBCUOTT&territory=US"
+      },
+      {
+        "type": "Light",
+        "key": "skychb_7426363460614919117_lightnow",
+        "template": "https://imageservice.disco.peacocktv.com/logo/{key}/AGG_SOURCE/{width}/{height}?proposition=NBCUOTT&territory=US"
+      },
+      {
+        "type": "Dark",
+        "key": "skychb_7426363460614919117_darknow",
+        "template": "https://imageservice.disco.peacocktv.com/logo/{key}/AGG_SOURCE/{width}/{height}?proposition=NBCUOTT&territory=US"
+      }
+    ],
+    "hidden": false,
+    "logoHeightPercentage": 12,
+    "logoStyle": "cinema",
+    "formatType": "SD",
+    "sectionNavigation": "NEWS",
+    "contentSegments": [
+      "LOCAL_AFFILIATES"
+    ],
+    "classifications": [
+      "News"
+    ],
+    "territories": [
+      "US"
+    ],
+    "channelAvailabilities": [
+      {
+        "onAir": 1019529021000,
+        "offAir": 2145928811000
+      }
+    ]
+  },
+  {
+    "serviceKey": "7938908535665209117",
+    "providerTerritory": "US",
+    "gracenoteId": "11845",
+    "rank": 71,
+    "channelName": "WSLS-TV",
+    "logos": [
+      {
+        "type": "Default",
+        "key": "skychb_7938908535665209117_darknow",
+        "template": "https://imageservice.disco.peacocktv.com/logo/{key}/AGG_SOURCE/{width}/{height}?proposition=NBCUOTT&territory=US"
+      },
+      {
+        "type": "Light",
+        "key": "skychb_7938908535665209117_lightnow",
+        "template": "https://imageservice.disco.peacocktv.com/logo/{key}/AGG_SOURCE/{width}/{height}?proposition=NBCUOTT&territory=US"
+      },
+      {
+        "type": "Dark",
+        "key": "skychb_7938908535665209117_darknow",
+        "template": "https://imageservice.disco.peacocktv.com/logo/{key}/AGG_SOURCE/{width}/{height}?proposition=NBCUOTT&territory=US"
+      }
+    ],
+    "hidden": false,
+    "logoHeightPercentage": 12,
+    "logoStyle": "cinema",
+    "formatType": "SD",
+    "sectionNavigation": "NEWS",
+    "contentSegments": [
+      "LOCAL_AFFILIATES"
+    ],
+    "classifications": [
+      "News"
+    ],
+    "territories": [
+      "US"
+    ],
+    "channelAvailabilities": [
+      {
+        "onAir": 1019529021000,
+        "offAir": 2145928811000
+      }
+    ]
+  },
+  {
+    "serviceKey": "5953021974570224117",
+    "providerTerritory": "US",
+    "gracenoteId": "11767",
+    "rank": 72,
+    "channelName": "WOWT-TV",
+    "logos": [
+      {
+        "type": "Default",
+        "key": "skychb_5953021974570224117_darknow",
+        "template": "https://imageservice.disco.peacocktv.com/logo/{key}/AGG_SOURCE/{width}/{height}?proposition=NBCUOTT&territory=US"
+      },
+      {
+        "type": "Light",
+        "key": "skychb_5953021974570224117_lightnow",
+        "template": "https://imageservice.disco.peacocktv.com/logo/{key}/AGG_SOURCE/{width}/{height}?proposition=NBCUOTT&territory=US"
+      },
+      {
+        "type": "Dark",
+        "key": "skychb_5953021974570224117_darknow",
+        "template": "https://imageservice.disco.peacocktv.com/logo/{key}/AGG_SOURCE/{width}/{height}?proposition=NBCUOTT&territory=US"
+      }
+    ],
+    "hidden": false,
+    "logoHeightPercentage": 12,
+    "logoStyle": "cinema",
+    "formatType": "SD",
+    "sectionNavigation": "NEWS",
+    "contentSegments": [
+      "LOCAL_AFFILIATES"
+    ],
+    "classifications": [
+      "News"
+    ],
+    "territories": [
+      "US"
+    ],
+    "channelAvailabilities": [
+      {
+        "onAir": 1019529021000,
+        "offAir": 2145928811000
+      }
+    ]
+  },
+  {
+    "serviceKey": "8035329147746407117",
+    "providerTerritory": "US",
+    "gracenoteId": "11429",
+    "rank": 73,
+    "channelName": "WEYI-TV",
+    "logos": [
+      {
+        "type": "Default",
+        "key": "skychb_8035329147746407117_darknow",
+        "template": "https://imageservice.disco.peacocktv.com/logo/{key}/AGG_SOURCE/{width}/{height}?proposition=NBCUOTT&territory=US"
+      },
+      {
+        "type": "Light",
+        "key": "skychb_8035329147746407117_lightnow",
+        "template": "https://imageservice.disco.peacocktv.com/logo/{key}/AGG_SOURCE/{width}/{height}?proposition=NBCUOTT&territory=US"
+      },
+      {
+        "type": "Dark",
+        "key": "skychb_8035329147746407117_darknow",
+        "template": "https://imageservice.disco.peacocktv.com/logo/{key}/AGG_SOURCE/{width}/{height}?proposition=NBCUOTT&territory=US"
+      }
+    ],
+    "hidden": false,
+    "logoHeightPercentage": 12,
+    "logoStyle": "cinema",
+    "formatType": "SD",
+    "sectionNavigation": "NEWS",
+    "contentSegments": [
+      "LOCAL_AFFILIATES"
+    ],
+    "classifications": [
+      "News"
+    ],
+    "territories": [
+      "US"
+    ],
+    "channelAvailabilities": [
+      {
+        "onAir": 1019529021000,
+        "offAir": 2145928811000
+      }
+    ]
+  },
+  {
+    "serviceKey": "7421663726395112117",
+    "providerTerritory": "US",
+    "gracenoteId": "15343",
+    "rank": 74,
+    "channelName": "KYTV",
+    "logos": [
+      {
+        "type": "Default",
+        "key": "skychb_7421663726395112117_darknow",
+        "template": "https://imageservice.disco.peacocktv.com/logo/{key}/AGG_SOURCE/{width}/{height}?proposition=NBCUOTT&territory=US"
+      },
+      {
+        "type": "Light",
+        "key": "skychb_7421663726395112117_lightnow",
+        "template": "https://imageservice.disco.peacocktv.com/logo/{key}/AGG_SOURCE/{width}/{height}?proposition=NBCUOTT&territory=US"
+      },
+      {
+        "type": "Dark",
+        "key": "skychb_7421663726395112117_darknow",
+        "template": "https://imageservice.disco.peacocktv.com/logo/{key}/AGG_SOURCE/{width}/{height}?proposition=NBCUOTT&territory=US"
+      }
+    ],
+    "hidden": false,
+    "logoHeightPercentage": 12,
+    "logoStyle": "cinema",
+    "formatType": "SD",
+    "sectionNavigation": "NEWS",
+    "contentSegments": [
+      "LOCAL_AFFILIATES"
+    ],
+    "classifications": [
+      "News"
+    ],
+    "territories": [
+      "US"
+    ],
+    "channelAvailabilities": [
+      {
+        "onAir": 1019529021000,
+        "offAir": 2145928811000
+      }
+    ]
+  },
+  {
+    "serviceKey": "7001396868364750117",
+    "providerTerritory": "US",
+    "gracenoteId": "11503",
+    "rank": 75,
+    "channelName": "WHEC-TV",
+    "logos": [
+      {
+        "type": "Default",
+        "key": "skychb_7001396868364750117_darknow",
+        "template": "https://imageservice.disco.peacocktv.com/logo/{key}/AGG_SOURCE/{width}/{height}?proposition=NBCUOTT&territory=US"
+      },
+      {
+        "type": "Light",
+        "key": "skychb_7001396868364750117_lightnow",
+        "template": "https://imageservice.disco.peacocktv.com/logo/{key}/AGG_SOURCE/{width}/{height}?proposition=NBCUOTT&territory=US"
+      },
+      {
+        "type": "Dark",
+        "key": "skychb_7001396868364750117_darknow",
+        "template": "https://imageservice.disco.peacocktv.com/logo/{key}/AGG_SOURCE/{width}/{height}?proposition=NBCUOTT&territory=US"
+      }
+    ],
+    "hidden": false,
+    "logoHeightPercentage": 12,
+    "logoStyle": "cinema",
+    "formatType": "SD",
+    "sectionNavigation": "NEWS",
+    "contentSegments": [
+      "LOCAL_AFFILIATES"
+    ],
+    "classifications": [
+      "News"
+    ],
+    "territories": [
+      "US"
+    ],
+    "channelAvailabilities": [
+      {
+        "onAir": 1019529021000,
+        "offAir": 2145928811000
+      }
+    ]
+  },
+  {
+    "serviceKey": "6346536965415528117",
+    "providerTerritory": "US",
+    "gracenoteId": "11268",
+    "rank": 76,
+    "channelName": "WAFF",
+    "logos": [
+      {
+        "type": "Default",
+        "key": "skychb_6346536965415528117_darknow",
+        "template": "https://imageservice.disco.peacocktv.com/logo/{key}/AGG_SOURCE/{width}/{height}?proposition=NBCUOTT&territory=US"
+      },
+      {
+        "type": "Light",
+        "key": "skychb_6346536965415528117_lightnow",
+        "template": "https://imageservice.disco.peacocktv.com/logo/{key}/AGG_SOURCE/{width}/{height}?proposition=NBCUOTT&territory=US"
+      },
+      {
+        "type": "Dark",
+        "key": "skychb_6346536965415528117_darknow",
+        "template": "https://imageservice.disco.peacocktv.com/logo/{key}/AGG_SOURCE/{width}/{height}?proposition=NBCUOTT&territory=US"
+      }
+    ],
+    "hidden": false,
+    "logoHeightPercentage": 12,
+    "logoStyle": "cinema",
+    "formatType": "SD",
+    "sectionNavigation": "NEWS",
+    "contentSegments": [
+      "LOCAL_AFFILIATES"
+    ],
+    "classifications": [
+      "News"
+    ],
+    "territories": [
+      "US"
+    ],
+    "channelAvailabilities": [
+      {
+        "onAir": 1019529021000,
+        "offAir": 2145928811000
+      }
+    ]
+  },
+  {
+    "serviceKey": "6880418036342717117",
+    "providerTerritory": "US",
+    "gracenoteId": "11828",
+    "rank": 77,
+    "channelName": "WSAZ-TV",
+    "logos": [
+      {
+        "type": "Default",
+        "key": "skychb_6880418036342717117_darknow",
+        "template": "https://imageservice.disco.peacocktv.com/logo/{key}/AGG_SOURCE/{width}/{height}?proposition=NBCUOTT&territory=US"
+      },
+      {
+        "type": "Light",
+        "key": "skychb_6880418036342717117_lightnow",
+        "template": "https://imageservice.disco.peacocktv.com/logo/{key}/AGG_SOURCE/{width}/{height}?proposition=NBCUOTT&territory=US"
+      },
+      {
+        "type": "Dark",
+        "key": "skychb_6880418036342717117_darknow",
+        "template": "https://imageservice.disco.peacocktv.com/logo/{key}/AGG_SOURCE/{width}/{height}?proposition=NBCUOTT&territory=US"
+      }
+    ],
+    "hidden": false,
+    "logoHeightPercentage": 12,
+    "logoStyle": "cinema",
+    "formatType": "SD",
+    "sectionNavigation": "NEWS",
+    "contentSegments": [
+      "LOCAL_AFFILIATES"
+    ],
+    "classifications": [
+      "News"
+    ],
+    "territories": [
+      "US"
+    ],
+    "channelAvailabilities": [
+      {
+        "onAir": 1019529021000,
+        "offAir": 2145928811000
+      }
+    ]
+  },
+  {
+    "serviceKey": "7811740501149471117",
+    "providerTerritory": "US",
+    "gracenoteId": "11366",
+    "rank": 78,
+    "channelName": "WCSH",
+    "logos": [
+      {
+        "type": "Default",
+        "key": "skychb_7811740501149471117_darknow",
+        "template": "https://imageservice.disco.peacocktv.com/logo/{key}/AGG_SOURCE/{width}/{height}?proposition=NBCUOTT&territory=US"
+      },
+      {
+        "type": "Light",
+        "key": "skychb_7811740501149471117_lightnow",
+        "template": "https://imageservice.disco.peacocktv.com/logo/{key}/AGG_SOURCE/{width}/{height}?proposition=NBCUOTT&territory=US"
+      },
+      {
+        "type": "Dark",
+        "key": "skychb_7811740501149471117_darknow",
+        "template": "https://imageservice.disco.peacocktv.com/logo/{key}/AGG_SOURCE/{width}/{height}?proposition=NBCUOTT&territory=US"
+      }
+    ],
+    "hidden": false,
+    "logoHeightPercentage": 12,
+    "logoStyle": "cinema",
+    "formatType": "SD",
+    "sectionNavigation": "NEWS",
+    "contentSegments": [
+      "LOCAL_AFFILIATES"
+    ],
+    "classifications": [
+      "News"
+    ],
+    "territories": [
+      "US"
+    ],
+    "channelAvailabilities": [
+      {
+        "onAir": 1019529021000,
+        "offAir": 2145928811000
+      }
+    ]
+  },
+  {
+    "serviceKey": "8452411843477422117",
+    "providerTerritory": "US",
+    "gracenoteId": "11555",
+    "rank": 79,
+    "channelName": "WIS",
+    "logos": [
+      {
+        "type": "Default",
+        "key": "skychb_8452411843477422117_darknow",
+        "template": "https://imageservice.disco.peacocktv.com/logo/{key}/AGG_SOURCE/{width}/{height}?proposition=NBCUOTT&territory=US"
+      },
+      {
+        "type": "Light",
+        "key": "skychb_8452411843477422117_lightnow",
+        "template": "https://imageservice.disco.peacocktv.com/logo/{key}/AGG_SOURCE/{width}/{height}?proposition=NBCUOTT&territory=US"
+      },
+      {
+        "type": "Dark",
+        "key": "skychb_8452411843477422117_darknow",
+        "template": "https://imageservice.disco.peacocktv.com/logo/{key}/AGG_SOURCE/{width}/{height}?proposition=NBCUOTT&territory=US"
+      }
+    ],
+    "hidden": false,
+    "logoHeightPercentage": 12,
+    "logoStyle": "cinema",
+    "formatType": "SD",
+    "sectionNavigation": "NEWS",
+    "contentSegments": [
+      "LOCAL_AFFILIATES"
+    ],
+    "classifications": [
+      "News"
+    ],
+    "territories": [
+      "US"
+    ],
+    "channelAvailabilities": [
+      {
+        "onAir": 1019529021000,
+        "offAir": 2145928811000
+      }
+    ]
+  },
+  {
+    "serviceKey": "7733124181249184117",
+    "providerTerritory": "US",
+    "gracenoteId": "11698",
+    "rank": 80,
+    "channelName": "WMTV",
+    "logos": [
+      {
+        "type": "Default",
+        "key": "skychb_7733124181249184117_darknow",
+        "template": "https://imageservice.disco.peacocktv.com/logo/{key}/AGG_SOURCE/{width}/{height}?proposition=NBCUOTT&territory=US"
+      },
+      {
+        "type": "Light",
+        "key": "skychb_7733124181249184117_lightnow",
+        "template": "https://imageservice.disco.peacocktv.com/logo/{key}/AGG_SOURCE/{width}/{height}?proposition=NBCUOTT&territory=US"
+      },
+      {
+        "type": "Dark",
+        "key": "skychb_7733124181249184117_darknow",
+        "template": "https://imageservice.disco.peacocktv.com/logo/{key}/AGG_SOURCE/{width}/{height}?proposition=NBCUOTT&territory=US"
+      }
+    ],
+    "hidden": false,
+    "logoHeightPercentage": 12,
+    "logoStyle": "cinema",
+    "formatType": "SD",
+    "sectionNavigation": "NEWS",
+    "contentSegments": [
+      "LOCAL_AFFILIATES"
+    ],
+    "classifications": [
+      "News"
+    ],
+    "territories": [
+      "US"
+    ],
+    "channelAvailabilities": [
+      {
+        "onAir": 1019529021000,
+        "offAir": 2145928811000
+      }
+    ]
+  },
+  {
+    "serviceKey": "4788601273577259117",
+    "providerTerritory": "US",
+    "gracenoteId": "11741",
+    "rank": 81,
+    "channelName": "WNWO-TV",
+    "logos": [
+      {
+        "type": "Default",
+        "key": "skychb_4788601273577259117_darknow",
+        "template": "https://imageservice.disco.peacocktv.com/logo/{key}/AGG_SOURCE/{width}/{height}?proposition=NBCUOTT&territory=US"
+      },
+      {
+        "type": "Light",
+        "key": "skychb_4788601273577259117_lightnow",
+        "template": "https://imageservice.disco.peacocktv.com/logo/{key}/AGG_SOURCE/{width}/{height}?proposition=NBCUOTT&territory=US"
+      },
+      {
+        "type": "Dark",
+        "key": "skychb_4788601273577259117_darknow",
+        "template": "https://imageservice.disco.peacocktv.com/logo/{key}/AGG_SOURCE/{width}/{height}?proposition=NBCUOTT&territory=US"
+      }
+    ],
+    "hidden": false,
+    "logoHeightPercentage": 12,
+    "logoStyle": "cinema",
+    "formatType": "SD",
+    "sectionNavigation": "NEWS",
+    "contentSegments": [
+      "LOCAL_AFFILIATES"
+    ],
+    "classifications": [
+      "News"
+    ],
+    "territories": [
+      "US"
+    ],
+    "channelAvailabilities": [
+      {
+        "onAir": 1019529021000,
+        "offAir": 2145928811000
+      }
+    ]
+  },
+  {
+    "serviceKey": "5078848183253631117",
+    "providerTerritory": "US",
+    "gracenoteId": "32555",
+    "rank": 82,
+    "channelName": "KAGS-TV",
+    "logos": [
+      {
+        "type": "Default",
+        "key": "skychb_5078848183253631117_darknow",
+        "template": "https://imageservice.disco.peacocktv.com/logo/{key}/AGG_SOURCE/{width}/{height}?proposition=NBCUOTT&territory=US"
+      },
+      {
+        "type": "Light",
+        "key": "skychb_5078848183253631117_lightnow",
+        "template": "https://imageservice.disco.peacocktv.com/logo/{key}/AGG_SOURCE/{width}/{height}?proposition=NBCUOTT&territory=US"
+      },
+      {
+        "type": "Dark",
+        "key": "skychb_5078848183253631117_darknow",
+        "template": "https://imageservice.disco.peacocktv.com/logo/{key}/AGG_SOURCE/{width}/{height}?proposition=NBCUOTT&territory=US"
+      }
+    ],
+    "hidden": false,
+    "logoHeightPercentage": 12,
+    "logoStyle": "cinema",
+    "formatType": "SD",
+    "sectionNavigation": "NEWS",
+    "contentSegments": [
+      "LOCAL_AFFILIATES"
+    ],
+    "classifications": [
+      "News"
+    ],
+    "territories": [
+      "US"
+    ],
+    "channelAvailabilities": [
+      {
+        "onAir": 1019529021000,
+        "offAir": 2145928811000
+      }
+    ]
+  },
+  {
+    "serviceKey": "4690087021935355117",
+    "providerTerritory": "US",
+    "gracenoteId": "10372",
+    "rank": 83,
+    "channelName": "KCEN-TV",
+    "logos": [
+      {
+        "type": "Default",
+        "key": "skychb_4690087021935355117_darknow",
+        "template": "https://imageservice.disco.peacocktv.com/logo/{key}/AGG_SOURCE/{width}/{height}?proposition=NBCUOTT&territory=US"
+      },
+      {
+        "type": "Light",
+        "key": "skychb_4690087021935355117_lightnow",
+        "template": "https://imageservice.disco.peacocktv.com/logo/{key}/AGG_SOURCE/{width}/{height}?proposition=NBCUOTT&territory=US"
+      },
+      {
+        "type": "Dark",
+        "key": "skychb_4690087021935355117_darknow",
+        "template": "https://imageservice.disco.peacocktv.com/logo/{key}/AGG_SOURCE/{width}/{height}?proposition=NBCUOTT&territory=US"
+      }
+    ],
+    "hidden": false,
+    "logoHeightPercentage": 12,
+    "logoStyle": "cinema",
+    "formatType": "SD",
+    "sectionNavigation": "NEWS",
+    "contentSegments": [
+      "LOCAL_AFFILIATES"
+    ],
+    "classifications": [
+      "News"
+    ],
+    "territories": [
+      "US"
+    ],
+    "channelAvailabilities": [
+      {
+        "onAir": 1019529021000,
+        "offAir": 2145928811000
+      }
+    ]
+  },
+  {
+    "serviceKey": "5312097087863196117",
+    "providerTerritory": "US",
+    "gracenoteId": "11855",
+    "rank": 84,
+    "channelName": "WSTM-TV",
+    "logos": [
+      {
+        "type": "Default",
+        "key": "skychb_5312097087863196117_darknow",
+        "template": "https://imageservice.disco.peacocktv.com/logo/{key}/AGG_SOURCE/{width}/{height}?proposition=NBCUOTT&territory=US"
+      },
+      {
+        "type": "Light",
+        "key": "skychb_5312097087863196117_lightnow",
+        "template": "https://imageservice.disco.peacocktv.com/logo/{key}/AGG_SOURCE/{width}/{height}?proposition=NBCUOTT&territory=US"
+      },
+      {
+        "type": "Dark",
+        "key": "skychb_5312097087863196117_darknow",
+        "template": "https://imageservice.disco.peacocktv.com/logo/{key}/AGG_SOURCE/{width}/{height}?proposition=NBCUOTT&territory=US"
+      }
+    ],
+    "hidden": false,
+    "logoHeightPercentage": 12,
+    "logoStyle": "cinema",
+    "formatType": "SD",
+    "sectionNavigation": "NEWS",
+    "contentSegments": [
+      "LOCAL_AFFILIATES"
+    ],
+    "classifications": [
+      "News"
+    ],
+    "territories": [
+      "US"
+    ],
+    "channelAvailabilities": [
+      {
+        "onAir": 1019529021000,
+        "offAir": 2145928811000
+      }
+    ]
+  },
+  {
+    "serviceKey": "8886644741629974117",
+    "providerTerritory": "US",
+    "gracenoteId": "10603",
+    "rank": 85,
+    "channelName": "KOAA-TV",
+    "logos": [
+      {
+        "type": "Default",
+        "key": "skychb_8886644741629974117_darknow",
+        "template": "https://imageservice.disco.peacocktv.com/logo/{key}/AGG_SOURCE/{width}/{height}?proposition=NBCUOTT&territory=US"
+      },
+      {
+        "type": "Light",
+        "key": "skychb_8886644741629974117_lightnow",
+        "template": "https://imageservice.disco.peacocktv.com/logo/{key}/AGG_SOURCE/{width}/{height}?proposition=NBCUOTT&territory=US"
+      },
+      {
+        "type": "Dark",
+        "key": "skychb_8886644741629974117_darknow",
+        "template": "https://imageservice.disco.peacocktv.com/logo/{key}/AGG_SOURCE/{width}/{height}?proposition=NBCUOTT&territory=US"
+      }
+    ],
+    "hidden": false,
+    "logoHeightPercentage": 12,
+    "logoStyle": "cinema",
+    "formatType": "SD",
+    "sectionNavigation": "NEWS",
+    "contentSegments": [
+      "LOCAL_AFFILIATES"
+    ],
+    "classifications": [
+      "News"
+    ],
+    "territories": [
+      "US"
+    ],
+    "channelAvailabilities": [
+      {
+        "onAir": 1019529021000,
+        "offAir": 2145928811000
+      }
+    ]
+  },
+  {
+    "serviceKey": "6580216714414287117",
+    "providerTerritory": "US",
+    "gracenoteId": "11812",
+    "rank": 86,
+    "channelName": "WRCB-TV",
+    "logos": [
+      {
+        "type": "Default",
+        "key": "skychb_6580216714414287117_darknow",
+        "template": "https://imageservice.disco.peacocktv.com/logo/{key}/AGG_SOURCE/{width}/{height}?proposition=NBCUOTT&territory=US"
+      },
+      {
+        "type": "Light",
+        "key": "skychb_6580216714414287117_lightnow",
+        "template": "https://imageservice.disco.peacocktv.com/logo/{key}/AGG_SOURCE/{width}/{height}?proposition=NBCUOTT&territory=US"
+      },
+      {
+        "type": "Dark",
+        "key": "skychb_6580216714414287117_darknow",
+        "template": "https://imageservice.disco.peacocktv.com/logo/{key}/AGG_SOURCE/{width}/{height}?proposition=NBCUOTT&territory=US"
+      }
+    ],
+    "hidden": false,
+    "logoHeightPercentage": 12,
+    "logoStyle": "cinema",
+    "formatType": "SD",
+    "sectionNavigation": "NEWS",
+    "contentSegments": [
+      "LOCAL_AFFILIATES"
+    ],
+    "classifications": [
+      "News"
+    ],
+    "territories": [
+      "US"
+    ],
+    "channelAvailabilities": [
+      {
+        "onAir": 1019529021000,
+        "offAir": 2145928811000
+      }
+    ]
+  },
+  {
+    "serviceKey": "7226356991568729117",
+    "providerTerritory": "US",
+    "gracenoteId": "10708",
+    "rank": 87,
+    "channelName": "KTAL-TV",
+    "logos": [
+      {
+        "type": "Default",
+        "key": "skychb_7226356991568729117_darknow",
+        "template": "https://imageservice.disco.peacocktv.com/logo/{key}/AGG_SOURCE/{width}/{height}?proposition=NBCUOTT&territory=US"
+      },
+      {
+        "type": "Light",
+        "key": "skychb_7226356991568729117_lightnow",
+        "template": "https://imageservice.disco.peacocktv.com/logo/{key}/AGG_SOURCE/{width}/{height}?proposition=NBCUOTT&territory=US"
+      },
+      {
+        "type": "Dark",
+        "key": "skychb_7226356991568729117_darknow",
+        "template": "https://imageservice.disco.peacocktv.com/logo/{key}/AGG_SOURCE/{width}/{height}?proposition=NBCUOTT&territory=US"
+      }
+    ],
+    "hidden": false,
+    "logoHeightPercentage": 12,
+    "logoStyle": "cinema",
+    "formatType": "SD",
+    "sectionNavigation": "NEWS",
+    "contentSegments": [
+      "LOCAL_AFFILIATES"
+    ],
+    "classifications": [
+      "News"
+    ],
+    "territories": [
+      "US"
+    ],
+    "channelAvailabilities": [
+      {
+        "onAir": 1019529021000,
+        "offAir": 2145928811000
+      }
+    ]
+  },
+  {
+    "serviceKey": "4935915786964072117",
+    "providerTerritory": "US",
+    "gracenoteId": "11785",
+    "rank": 88,
+    "channelName": "WPSD-TV",
+    "logos": [
+      {
+        "type": "Default",
+        "key": "skychb_4935915786964072117_darknow",
+        "template": "https://imageservice.disco.peacocktv.com/logo/{key}/AGG_SOURCE/{width}/{height}?proposition=NBCUOTT&territory=US"
+      },
+      {
+        "type": "Light",
+        "key": "skychb_4935915786964072117_lightnow",
+        "template": "https://imageservice.disco.peacocktv.com/logo/{key}/AGG_SOURCE/{width}/{height}?proposition=NBCUOTT&territory=US"
+      },
+      {
+        "type": "Dark",
+        "key": "skychb_4935915786964072117_darknow",
+        "template": "https://imageservice.disco.peacocktv.com/logo/{key}/AGG_SOURCE/{width}/{height}?proposition=NBCUOTT&territory=US"
+      }
+    ],
+    "hidden": false,
+    "logoHeightPercentage": 12,
+    "logoStyle": "cinema",
+    "formatType": "SD",
+    "sectionNavigation": "NEWS",
+    "contentSegments": [
+      "LOCAL_AFFILIATES"
+    ],
+    "classifications": [
+      "News"
+    ],
+    "territories": [
+      "US"
+    ],
+    "channelAvailabilities": [
+      {
+        "onAir": 1019529021000,
+        "offAir": 2145928811000
+      }
+    ]
+  },
+  {
+    "serviceKey": "8717751774645776117",
+    "providerTerritory": "US",
+    "gracenoteId": "10796",
+    "rank": 89,
+    "channelName": "KVEO",
+    "logos": [
+      {
+        "type": "Default",
+        "key": "skychb_8717751774645776117_darknow",
+        "template": "https://imageservice.disco.peacocktv.com/logo/{key}/AGG_SOURCE/{width}/{height}?proposition=NBCUOTT&territory=US"
+      },
+      {
+        "type": "Light",
+        "key": "skychb_8717751774645776117_lightnow",
+        "template": "https://imageservice.disco.peacocktv.com/logo/{key}/AGG_SOURCE/{width}/{height}?proposition=NBCUOTT&territory=US"
+      },
+      {
+        "type": "Dark",
+        "key": "skychb_8717751774645776117_darknow",
+        "template": "https://imageservice.disco.peacocktv.com/logo/{key}/AGG_SOURCE/{width}/{height}?proposition=NBCUOTT&territory=US"
+      }
+    ],
+    "hidden": false,
+    "logoHeightPercentage": 12,
+    "logoStyle": "cinema",
+    "formatType": "SD",
+    "sectionNavigation": "NEWS",
+    "contentSegments": [
+      "LOCAL_AFFILIATES"
+    ],
+    "classifications": [
+      "News"
+    ],
+    "territories": [
+      "US"
+    ],
+    "channelAvailabilities": [
+      {
+        "onAir": 1019529021000,
+        "offAir": 2145928811000
+      }
+    ]
+  },
+  {
+    "serviceKey": "6045491109801556117",
+    "providerTerritory": "US",
+    "gracenoteId": "11278",
+    "rank": 90,
+    "channelName": "WAND-TV",
+    "logos": [
+      {
+        "type": "Default",
+        "key": "skychb_6045491109801556117_darknow",
+        "template": "https://imageservice.disco.peacocktv.com/logo/{key}/AGG_SOURCE/{width}/{height}?proposition=NBCUOTT&territory=US"
+      },
+      {
+        "type": "Light",
+        "key": "skychb_6045491109801556117_lightnow",
+        "template": "https://imageservice.disco.peacocktv.com/logo/{key}/AGG_SOURCE/{width}/{height}?proposition=NBCUOTT&territory=US"
+      },
+      {
+        "type": "Dark",
+        "key": "skychb_6045491109801556117_darknow",
+        "template": "https://imageservice.disco.peacocktv.com/logo/{key}/AGG_SOURCE/{width}/{height}?proposition=NBCUOTT&territory=US"
+      }
+    ],
+    "hidden": false,
+    "logoHeightPercentage": 12,
+    "logoStyle": "cinema",
+    "formatType": "SD",
+    "sectionNavigation": "NEWS",
+    "contentSegments": [
+      "LOCAL_AFFILIATES"
+    ],
+    "classifications": [
+      "News"
+    ],
+    "territories": [
+      "US"
+    ],
+    "channelAvailabilities": [
+      {
+        "onAir": 1019529021000,
+        "offAir": 2145928811000
+      }
+    ]
+  },
+  {
+    "serviceKey": "7299218064741165117",
+    "providerTerritory": "US",
+    "gracenoteId": "11826",
+    "rank": 91,
+    "channelName": "WSAV-TV",
+    "logos": [
+      {
+        "type": "Default",
+        "key": "skychb_7299218064741165117_darknow",
+        "template": "https://imageservice.disco.peacocktv.com/logo/{key}/AGG_SOURCE/{width}/{height}?proposition=NBCUOTT&territory=US"
+      },
+      {
+        "type": "Light",
+        "key": "skychb_7299218064741165117_lightnow",
+        "template": "https://imageservice.disco.peacocktv.com/logo/{key}/AGG_SOURCE/{width}/{height}?proposition=NBCUOTT&territory=US"
+      },
+      {
+        "type": "Dark",
+        "key": "skychb_7299218064741165117_darknow",
+        "template": "https://imageservice.disco.peacocktv.com/logo/{key}/AGG_SOURCE/{width}/{height}?proposition=NBCUOTT&territory=US"
+      }
+    ],
+    "hidden": false,
+    "logoHeightPercentage": 12,
+    "logoStyle": "cinema",
+    "formatType": "SD",
+    "sectionNavigation": "NEWS",
+    "contentSegments": [
+      "LOCAL_AFFILIATES"
+    ],
+    "classifications": [
+      "News"
+    ],
+    "territories": [
+      "US"
+    ],
+    "channelAvailabilities": [
+      {
+        "onAir": 1019529021000,
+        "offAir": 2145928811000
+      }
+    ]
+  },
+  {
+    "serviceKey": "6161832762039727117",
+    "providerTerritory": "US",
+    "gracenoteId": "96041",
+    "rank": 92,
+    "channelName": "WCBD-TV",
+    "logos": [
+      {
+        "type": "Default",
+        "key": "skychb_6161832762039727117_darknow",
+        "template": "https://imageservice.disco.peacocktv.com/logo/{key}/AGG_SOURCE/{width}/{height}?proposition=NBCUOTT&territory=US"
+      },
+      {
+        "type": "Light",
+        "key": "skychb_6161832762039727117_lightnow",
+        "template": "https://imageservice.disco.peacocktv.com/logo/{key}/AGG_SOURCE/{width}/{height}?proposition=NBCUOTT&territory=US"
+      },
+      {
+        "type": "Dark",
+        "key": "skychb_6161832762039727117_darknow",
+        "template": "https://imageservice.disco.peacocktv.com/logo/{key}/AGG_SOURCE/{width}/{height}?proposition=NBCUOTT&territory=US"
+      }
+    ],
+    "hidden": false,
+    "logoHeightPercentage": 12,
+    "logoStyle": "cinema",
+    "formatType": "SD",
+    "sectionNavigation": "NEWS",
+    "contentSegments": [
+      "LOCAL_AFFILIATES"
+    ],
+    "classifications": [
+      "News"
+    ],
+    "territories": [
+      "US"
+    ],
+    "channelAvailabilities": [
+      {
+        "onAir": 1019529021000,
+        "offAir": 2145928811000
+      }
+    ]
+  },
+  {
+    "serviceKey": "8615694682618232117",
+    "providerTerritory": "US",
+    "gracenoteId": "10828",
+    "rank": 93,
+    "channelName": "KWWL",
+    "logos": [
+      {
+        "type": "Default",
+        "key": "skychb_8615694682618232117_darknow",
+        "template": "https://imageservice.disco.peacocktv.com/logo/{key}/AGG_SOURCE/{width}/{height}?proposition=NBCUOTT&territory=US"
+      },
+      {
+        "type": "Light",
+        "key": "skychb_8615694682618232117_lightnow",
+        "template": "https://imageservice.disco.peacocktv.com/logo/{key}/AGG_SOURCE/{width}/{height}?proposition=NBCUOTT&territory=US"
+      },
+      {
+        "type": "Dark",
+        "key": "skychb_8615694682618232117_darknow",
+        "template": "https://imageservice.disco.peacocktv.com/logo/{key}/AGG_SOURCE/{width}/{height}?proposition=NBCUOTT&territory=US"
+      }
+    ],
+    "hidden": false,
+    "logoHeightPercentage": 12,
+    "logoStyle": "cinema",
+    "formatType": "SD",
+    "sectionNavigation": "NEWS",
+    "contentSegments": [
+      "LOCAL_AFFILIATES"
+    ],
+    "classifications": [
+      "News"
+    ],
+    "territories": [
+      "US"
+    ],
+    "channelAvailabilities": [
+      {
+        "onAir": 1019529021000,
+        "offAir": 2145928811000
+      }
+    ]
+  },
+  {
+    "serviceKey": "7490834884011872117",
+    "providerTerritory": "US",
+    "gracenoteId": "10737",
+    "rank": 94,
+    "channelName": "KTSM-TV",
+    "logos": [
+      {
+        "type": "Default",
+        "key": "skychb_7490834884011872117_darknow",
+        "template": "https://imageservice.disco.peacocktv.com/logo/{key}/AGG_SOURCE/{width}/{height}?proposition=NBCUOTT&territory=US"
+      },
+      {
+        "type": "Light",
+        "key": "skychb_7490834884011872117_lightnow",
+        "template": "https://imageservice.disco.peacocktv.com/logo/{key}/AGG_SOURCE/{width}/{height}?proposition=NBCUOTT&territory=US"
+      },
+      {
+        "type": "Dark",
+        "key": "skychb_7490834884011872117_darknow",
+        "template": "https://imageservice.disco.peacocktv.com/logo/{key}/AGG_SOURCE/{width}/{height}?proposition=NBCUOTT&territory=US"
+      }
+    ],
+    "hidden": false,
+    "logoHeightPercentage": 12,
+    "logoStyle": "cinema",
+    "formatType": "SD",
+    "sectionNavigation": "NEWS",
+    "contentSegments": [
+      "LOCAL_AFFILIATES"
+    ],
+    "classifications": [
+      "News"
+    ],
+    "territories": [
+      "US"
+    ],
+    "channelAvailabilities": [
+      {
+        "onAir": 1019529021000,
+        "offAir": 2145928811000
+      }
+    ]
+  },
+  {
+    "serviceKey": "5318052240475219117",
+    "providerTerritory": "US",
+    "gracenoteId": "11966",
+    "rank": 95,
+    "channelName": "WVLA-TV",
+    "logos": [
+      {
+        "type": "Default",
+        "key": "skychb_5318052240475219117_darknow",
+        "template": "https://imageservice.disco.peacocktv.com/logo/{key}/AGG_SOURCE/{width}/{height}?proposition=NBCUOTT&territory=US"
+      },
+      {
+        "type": "Light",
+        "key": "skychb_5318052240475219117_lightnow",
+        "template": "https://imageservice.disco.peacocktv.com/logo/{key}/AGG_SOURCE/{width}/{height}?proposition=NBCUOTT&territory=US"
+      },
+      {
+        "type": "Dark",
+        "key": "skychb_5318052240475219117_darknow",
+        "template": "https://imageservice.disco.peacocktv.com/logo/{key}/AGG_SOURCE/{width}/{height}?proposition=NBCUOTT&territory=US"
+      }
+    ],
+    "hidden": false,
+    "logoHeightPercentage": 12,
+    "logoStyle": "cinema",
+    "formatType": "SD",
+    "sectionNavigation": "NEWS",
+    "contentSegments": [
+      "LOCAL_AFFILIATES"
+    ],
+    "classifications": [
+      "News"
+    ],
+    "territories": [
+      "US"
+    ],
+    "channelAvailabilities": [
+      {
+        "onAir": 1019529021000,
+        "offAir": 2145928811000
+      }
+    ]
+  },
+  {
+    "serviceKey": "5705326837618311117",
+    "providerTerritory": "US",
+    "gracenoteId": "11793",
+    "rank": 96,
+    "channelName": "WPTZ",
+    "logos": [
+      {
+        "type": "Default",
+        "key": "skychb_5705326837618311117_darknow",
+        "template": "https://imageservice.disco.peacocktv.com/logo/{key}/AGG_SOURCE/{width}/{height}?proposition=NBCUOTT&territory=US"
+      },
+      {
+        "type": "Light",
+        "key": "skychb_5705326837618311117_lightnow",
+        "template": "https://imageservice.disco.peacocktv.com/logo/{key}/AGG_SOURCE/{width}/{height}?proposition=NBCUOTT&territory=US"
+      },
+      {
+        "type": "Dark",
+        "key": "skychb_5705326837618311117_darknow",
+        "template": "https://imageservice.disco.peacocktv.com/logo/{key}/AGG_SOURCE/{width}/{height}?proposition=NBCUOTT&territory=US"
+      }
+    ],
+    "hidden": false,
+    "logoHeightPercentage": 12,
+    "logoStyle": "cinema",
+    "formatType": "SD",
+    "sectionNavigation": "NEWS",
+    "contentSegments": [
+      "LOCAL_AFFILIATES"
+    ],
+    "classifications": [
+      "News"
+    ],
+    "territories": [
+      "US"
+    ],
+    "channelAvailabilities": [
+      {
+        "onAir": 1019529021000,
+        "offAir": 2145928811000
+      }
+    ]
+  },
+  {
+    "serviceKey": "8814122833816951117",
+    "providerTerritory": "US",
+    "gracenoteId": "52408",
+    "rank": 97,
+    "channelName": "KNWA-TV",
+    "logos": [
+      {
+        "type": "Default",
+        "key": "skychb_8814122833816951117_darknow",
+        "template": "https://imageservice.disco.peacocktv.com/logo/{key}/AGG_SOURCE/{width}/{height}?proposition=NBCUOTT&territory=US"
+      },
+      {
+        "type": "Light",
+        "key": "skychb_8814122833816951117_lightnow",
+        "template": "https://imageservice.disco.peacocktv.com/logo/{key}/AGG_SOURCE/{width}/{height}?proposition=NBCUOTT&territory=US"
+      },
+      {
+        "type": "Dark",
+        "key": "skychb_8814122833816951117_darknow",
+        "template": "https://imageservice.disco.peacocktv.com/logo/{key}/AGG_SOURCE/{width}/{height}?proposition=NBCUOTT&territory=US"
+      }
+    ],
+    "hidden": false,
+    "logoHeightPercentage": 12,
+    "logoStyle": "cinema",
+    "formatType": "SD",
+    "sectionNavigation": "NEWS",
+    "contentSegments": [
+      "LOCAL_AFFILIATES"
+    ],
+    "classifications": [
+      "News"
+    ],
+    "territories": [
+      "US"
+    ],
+    "channelAvailabilities": [
+      {
+        "onAir": 1019529021000,
+        "offAir": 2145928811000
+      }
+    ]
+  },
+  {
+    "serviceKey": "7275480699647352117",
+    "providerTerritory": "US",
+    "gracenoteId": "11634",
+    "rank": 98,
+    "channelName": "WLBT",
+    "logos": [
+      {
+        "type": "Default",
+        "key": "skychb_7275480699647352117_darknow",
+        "template": "https://imageservice.disco.peacocktv.com/logo/{key}/AGG_SOURCE/{width}/{height}?proposition=NBCUOTT&territory=US"
+      },
+      {
+        "type": "Light",
+        "key": "skychb_7275480699647352117_lightnow",
+        "template": "https://imageservice.disco.peacocktv.com/logo/{key}/AGG_SOURCE/{width}/{height}?proposition=NBCUOTT&territory=US"
+      },
+      {
+        "type": "Dark",
+        "key": "skychb_7275480699647352117_darknow",
+        "template": "https://imageservice.disco.peacocktv.com/logo/{key}/AGG_SOURCE/{width}/{height}?proposition=NBCUOTT&territory=US"
+      }
+    ],
+    "hidden": false,
+    "logoHeightPercentage": 12,
+    "logoStyle": "cinema",
+    "formatType": "SD",
+    "sectionNavigation": "NEWS",
+    "contentSegments": [
+      "LOCAL_AFFILIATES"
+    ],
+    "classifications": [
+      "News"
+    ],
+    "territories": [
+      "US"
+    ],
+    "channelAvailabilities": [
+      {
+        "onAir": 1019529021000,
+        "offAir": 2145928811000
+      }
+    ]
+  },
+  {
+    "serviceKey": "6288802512849424117",
+    "providerTerritory": "US",
+    "gracenoteId": "10747",
+    "rank": 99,
+    "channelName": "KTVB",
+    "logos": [
+      {
+        "type": "Default",
+        "key": "skychb_6288802512849424117_darknow",
+        "template": "https://imageservice.disco.peacocktv.com/logo/{key}/AGG_SOURCE/{width}/{height}?proposition=NBCUOTT&territory=US"
+      },
+      {
+        "type": "Light",
+        "key": "skychb_6288802512849424117_lightnow",
+        "template": "https://imageservice.disco.peacocktv.com/logo/{key}/AGG_SOURCE/{width}/{height}?proposition=NBCUOTT&territory=US"
+      },
+      {
+        "type": "Dark",
+        "key": "skychb_6288802512849424117_darknow",
+        "template": "https://imageservice.disco.peacocktv.com/logo/{key}/AGG_SOURCE/{width}/{height}?proposition=NBCUOTT&territory=US"
+      }
+    ],
+    "hidden": false,
+    "logoHeightPercentage": 12,
+    "logoStyle": "cinema",
+    "formatType": "SD",
+    "sectionNavigation": "NEWS",
+    "contentSegments": [
+      "LOCAL_AFFILIATES"
+    ],
+    "classifications": [
+      "News"
+    ],
+    "territories": [
+      "US"
+    ],
+    "channelAvailabilities": [
+      {
+        "onAir": 1019529021000,
+        "offAir": 2145928811000
+      }
+    ]
+  },
+  {
+    "serviceKey": "5389265108330585117",
+    "providerTerritory": "US",
+    "gracenoteId": "11708",
+    "rank": 100,
+    "channelName": "WNDU-TV",
+    "logos": [
+      {
+        "type": "Default",
+        "key": "skychb_5389265108330585117_darknow",
+        "template": "https://imageservice.disco.peacocktv.com/logo/{key}/AGG_SOURCE/{width}/{height}?proposition=NBCUOTT&territory=US"
+      },
+      {
+        "type": "Light",
+        "key": "skychb_5389265108330585117_lightnow",
+        "template": "https://imageservice.disco.peacocktv.com/logo/{key}/AGG_SOURCE/{width}/{height}?proposition=NBCUOTT&territory=US"
+      },
+      {
+        "type": "Dark",
+        "key": "skychb_5389265108330585117_darknow",
+        "template": "https://imageservice.disco.peacocktv.com/logo/{key}/AGG_SOURCE/{width}/{height}?proposition=NBCUOTT&territory=US"
+      }
+    ],
+    "hidden": false,
+    "logoHeightPercentage": 12,
+    "logoStyle": "cinema",
+    "formatType": "SD",
+    "sectionNavigation": "NEWS",
+    "contentSegments": [
+      "LOCAL_AFFILIATES"
+    ],
+    "classifications": [
+      "News"
+    ],
+    "territories": [
+      "US"
+    ],
+    "channelAvailabilities": [
+      {
+        "onAir": 1019529021000,
+        "offAir": 2145928811000
+      }
+    ]
+  },
+  {
+    "serviceKey": "6687046933411524117",
+    "providerTerritory": "US",
+    "gracenoteId": "11373",
+    "rank": 101,
+    "channelName": "WCYB-TV",
+    "logos": [
+      {
+        "type": "Default",
+        "key": "skychb_6687046933411524117_darknow",
+        "template": "https://imageservice.disco.peacocktv.com/logo/{key}/AGG_SOURCE/{width}/{height}?proposition=NBCUOTT&territory=US"
+      },
+      {
+        "type": "Light",
+        "key": "skychb_6687046933411524117_lightnow",
+        "template": "https://imageservice.disco.peacocktv.com/logo/{key}/AGG_SOURCE/{width}/{height}?proposition=NBCUOTT&territory=US"
+      },
+      {
+        "type": "Dark",
+        "key": "skychb_6687046933411524117_darknow",
+        "template": "https://imageservice.disco.peacocktv.com/logo/{key}/AGG_SOURCE/{width}/{height}?proposition=NBCUOTT&territory=US"
+      }
+    ],
+    "hidden": false,
+    "logoHeightPercentage": 12,
+    "logoStyle": "cinema",
+    "formatType": "SD",
+    "sectionNavigation": "NEWS",
+    "contentSegments": [
+      "LOCAL_AFFILIATES"
+    ],
+    "classifications": [
+      "News"
+    ],
+    "territories": [
+      "US"
+    ],
+    "channelAvailabilities": [
+      {
+        "onAir": 1019529021000,
+        "offAir": 2145928811000
+      }
+    ]
+  },
+  {
+    "serviceKey": "8193963274474351117",
+    "providerTerritory": "US",
+    "gracenoteId": "59517",
+    "rank": 102,
+    "channelName": "WMBF-TV",
+    "logos": [
+      {
+        "type": "Default",
+        "key": "skychb_8193963274474351117_darknow",
+        "template": "https://imageservice.disco.peacocktv.com/logo/{key}/AGG_SOURCE/{width}/{height}?proposition=NBCUOTT&territory=US"
+      },
+      {
+        "type": "Light",
+        "key": "skychb_8193963274474351117_lightnow",
+        "template": "https://imageservice.disco.peacocktv.com/logo/{key}/AGG_SOURCE/{width}/{height}?proposition=NBCUOTT&territory=US"
+      },
+      {
+        "type": "Dark",
+        "key": "skychb_8193963274474351117_darknow",
+        "template": "https://imageservice.disco.peacocktv.com/logo/{key}/AGG_SOURCE/{width}/{height}?proposition=NBCUOTT&territory=US"
+      }
+    ],
+    "hidden": false,
+    "logoHeightPercentage": 12,
+    "logoStyle": "cinema",
+    "formatType": "SD",
+    "sectionNavigation": "NEWS",
+    "contentSegments": [
+      "LOCAL_AFFILIATES"
+    ],
+    "classifications": [
+      "News"
+    ],
+    "territories": [
+      "US"
+    ],
+    "channelAvailabilities": [
+      {
+        "onAir": 1019529021000,
+        "offAir": 2145928811000
+      }
+    ]
+  },
+  {
+    "serviceKey": "8921873663826416117",
+    "providerTerritory": "US",
+    "gracenoteId": "11561",
+    "rank": 103,
+    "channelName": "WITN-TV",
+    "logos": [
+      {
+        "type": "Default",
+        "key": "skychb_8921873663826416117_darknow",
+        "template": "https://imageservice.disco.peacocktv.com/logo/{key}/AGG_SOURCE/{width}/{height}?proposition=NBCUOTT&territory=US"
+      },
+      {
+        "type": "Light",
+        "key": "skychb_8921873663826416117_lightnow",
+        "template": "https://imageservice.disco.peacocktv.com/logo/{key}/AGG_SOURCE/{width}/{height}?proposition=NBCUOTT&territory=US"
+      },
+      {
+        "type": "Dark",
+        "key": "skychb_8921873663826416117_darknow",
+        "template": "https://imageservice.disco.peacocktv.com/logo/{key}/AGG_SOURCE/{width}/{height}?proposition=NBCUOTT&territory=US"
+      }
+    ],
+    "hidden": false,
+    "logoHeightPercentage": 12,
+    "logoStyle": "cinema",
+    "formatType": "SD",
+    "sectionNavigation": "NEWS",
+    "contentSegments": [
+      "LOCAL_AFFILIATES"
+    ],
+    "classifications": [
+      "News"
+    ],
+    "territories": [
+      "US"
+    ],
+    "channelAvailabilities": [
+      {
+        "onAir": 1019529021000,
+        "offAir": 2145928811000
+      }
+    ]
+  },
+  {
+    "serviceKey": "6475653958431419117",
+    "providerTerritory": "US",
+    "gracenoteId": "10823",
+    "rank": 104,
+    "channelName": "KWQC-TV",
+    "logos": [
+      {
+        "type": "Default",
+        "key": "skychb_6475653958431419117_darknow",
+        "template": "https://imageservice.disco.peacocktv.com/logo/{key}/AGG_SOURCE/{width}/{height}?proposition=NBCUOTT&territory=US"
+      },
+      {
+        "type": "Light",
+        "key": "skychb_6475653958431419117_lightnow",
+        "template": "https://imageservice.disco.peacocktv.com/logo/{key}/AGG_SOURCE/{width}/{height}?proposition=NBCUOTT&territory=US"
+      },
+      {
+        "type": "Dark",
+        "key": "skychb_6475653958431419117_darknow",
+        "template": "https://imageservice.disco.peacocktv.com/logo/{key}/AGG_SOURCE/{width}/{height}?proposition=NBCUOTT&territory=US"
+      }
+    ],
+    "hidden": false,
+    "logoHeightPercentage": 12,
+    "logoStyle": "cinema",
+    "formatType": "SD",
+    "sectionNavigation": "NEWS",
+    "contentSegments": [
+      "LOCAL_AFFILIATES"
+    ],
+    "classifications": [
+      "News"
+    ],
+    "territories": [
+      "US"
+    ],
+    "channelAvailabilities": [
+      {
+        "onAir": 1019529021000,
+        "offAir": 2145928811000
+      }
+    ]
+  },
+  {
+    "serviceKey": "5673315933366320117",
+    "providerTerritory": "US",
+    "gracenoteId": "10695",
+    "rank": 105,
+    "channelName": "KSNB",
+    "logos": [
+      {
+        "type": "Default",
+        "key": "skychb_5673315933366320117_darknow",
+        "template": "https://imageservice.disco.peacocktv.com/logo/{key}/AGG_SOURCE/{width}/{height}?proposition=NBCUOTT&territory=US"
+      },
+      {
+        "type": "Light",
+        "key": "skychb_5673315933366320117_lightnow",
+        "template": "https://imageservice.disco.peacocktv.com/logo/{key}/AGG_SOURCE/{width}/{height}?proposition=NBCUOTT&territory=US"
+      },
+      {
+        "type": "Dark",
+        "key": "skychb_5673315933366320117_darknow",
+        "template": "https://imageservice.disco.peacocktv.com/logo/{key}/AGG_SOURCE/{width}/{height}?proposition=NBCUOTT&territory=US"
+      }
+    ],
+    "hidden": false,
+    "logoHeightPercentage": 12,
+    "logoStyle": "cinema",
+    "formatType": "SD",
+    "sectionNavigation": "NEWS",
+    "contentSegments": [
+      "LOCAL_AFFILIATES"
+    ],
+    "classifications": [
+      "News"
+    ],
+    "territories": [
+      "US"
+    ],
+    "channelAvailabilities": [
+      {
+        "onAir": 1019529021000,
+        "offAir": 2145928811000
+      }
+    ]
+  },
+  {
+    "serviceKey": "7581048766777881117",
+    "providerTerritory": "US",
+    "gracenoteId": "10671",
+    "rank": 106,
+    "channelName": "KRNV",
+    "logos": [
+      {
+        "type": "Default",
+        "key": "skychb_7581048766777881117_darknow",
+        "template": "https://imageservice.disco.peacocktv.com/logo/{key}/AGG_SOURCE/{width}/{height}?proposition=NBCUOTT&territory=US"
+      },
+      {
+        "type": "Light",
+        "key": "skychb_7581048766777881117_lightnow",
+        "template": "https://imageservice.disco.peacocktv.com/logo/{key}/AGG_SOURCE/{width}/{height}?proposition=NBCUOTT&territory=US"
+      },
+      {
+        "type": "Dark",
+        "key": "skychb_7581048766777881117_darknow",
+        "template": "https://imageservice.disco.peacocktv.com/logo/{key}/AGG_SOURCE/{width}/{height}?proposition=NBCUOTT&territory=US"
+      }
+    ],
+    "hidden": false,
+    "logoHeightPercentage": 12,
+    "logoStyle": "cinema",
+    "formatType": "SD",
+    "sectionNavigation": "NEWS",
+    "contentSegments": [
+      "LOCAL_AFFILIATES"
+    ],
+    "classifications": [
+      "News"
+    ],
+    "territories": [
+      "US"
+    ],
+    "channelAvailabilities": [
+      {
+        "onAir": 1019529021000,
+        "offAir": 2145928811000
+      }
+    ]
+  },
+  {
+    "serviceKey": "5927838286580965117",
+    "providerTerritory": "US",
+    "gracenoteId": "49161",
+    "rank": 107,
+    "channelName": "WFIE",
+    "logos": [
+      {
+        "type": "Default",
+        "key": "skychb_5927838286580965117_darknow",
+        "template": "https://imageservice.disco.peacocktv.com/logo/{key}/AGG_SOURCE/{width}/{height}?proposition=NBCUOTT&territory=US"
+      },
+      {
+        "type": "Light",
+        "key": "skychb_5927838286580965117_lightnow",
+        "template": "https://imageservice.disco.peacocktv.com/logo/{key}/AGG_SOURCE/{width}/{height}?proposition=NBCUOTT&territory=US"
+      },
+      {
+        "type": "Dark",
+        "key": "skychb_5927838286580965117_darknow",
+        "template": "https://imageservice.disco.peacocktv.com/logo/{key}/AGG_SOURCE/{width}/{height}?proposition=NBCUOTT&territory=US"
+      }
+    ],
+    "hidden": false,
+    "logoHeightPercentage": 12,
+    "logoStyle": "cinema",
+    "formatType": "SD",
+    "sectionNavigation": "NEWS",
+    "contentSegments": [
+      "LOCAL_AFFILIATES"
+    ],
+    "classifications": [
+      "News"
+    ],
+    "territories": [
+      "US"
+    ],
+    "channelAvailabilities": [
+      {
+        "onAir": 1019529021000,
+        "offAir": 2145928811000
+      }
+    ]
+  },
+  {
+    "serviceKey": "5605298171143887117",
+    "providerTerritory": "US",
+    "gracenoteId": "11927",
+    "rank": 108,
+    "channelName": "WTWC-TV",
+    "logos": [
+      {
+        "type": "Default",
+        "key": "skychb_5605298171143887117_darknow",
+        "template": "https://imageservice.disco.peacocktv.com/logo/{key}/AGG_SOURCE/{width}/{height}?proposition=NBCUOTT&territory=US"
+      },
+      {
+        "type": "Light",
+        "key": "skychb_5605298171143887117_lightnow",
+        "template": "https://imageservice.disco.peacocktv.com/logo/{key}/AGG_SOURCE/{width}/{height}?proposition=NBCUOTT&territory=US"
+      },
+      {
+        "type": "Dark",
+        "key": "skychb_5605298171143887117_darknow",
+        "template": "https://imageservice.disco.peacocktv.com/logo/{key}/AGG_SOURCE/{width}/{height}?proposition=NBCUOTT&territory=US"
+      }
+    ],
+    "hidden": false,
+    "logoHeightPercentage": 12,
+    "logoStyle": "cinema",
+    "formatType": "SD",
+    "sectionNavigation": "NEWS",
+    "contentSegments": [
+      "LOCAL_AFFILIATES"
+    ],
+    "classifications": [
+      "News"
+    ],
+    "territories": [
+      "US"
+    ],
+    "channelAvailabilities": [
+      {
+        "onAir": 1019529021000,
+        "offAir": 2145928811000
+      }
+    ]
+  },
+  {
+    "serviceKey": "7425328042981355117",
+    "providerTerritory": "US",
+    "gracenoteId": "11565",
+    "rank": 109,
+    "channelName": "WJAC-TV",
+    "logos": [
+      {
+        "type": "Default",
+        "key": "skychb_7425328042981355117_darknow",
+        "template": "https://imageservice.disco.peacocktv.com/logo/{key}/AGG_SOURCE/{width}/{height}?proposition=NBCUOTT&territory=US"
+      },
+      {
+        "type": "Light",
+        "key": "skychb_7425328042981355117_lightnow",
+        "template": "https://imageservice.disco.peacocktv.com/logo/{key}/AGG_SOURCE/{width}/{height}?proposition=NBCUOTT&territory=US"
+      },
+      {
+        "type": "Dark",
+        "key": "skychb_7425328042981355117_darknow",
+        "template": "https://imageservice.disco.peacocktv.com/logo/{key}/AGG_SOURCE/{width}/{height}?proposition=NBCUOTT&territory=US"
+      }
+    ],
+    "hidden": false,
+    "logoHeightPercentage": 12,
+    "logoStyle": "cinema",
+    "formatType": "SD",
+    "sectionNavigation": "NEWS",
+    "contentSegments": [
+      "LOCAL_AFFILIATES"
+    ],
+    "classifications": [
+      "News"
+    ],
+    "territories": [
+      "US"
+    ],
+    "channelAvailabilities": [
+      {
+        "onAir": 1019529021000,
+        "offAir": 2145928811000
+      }
+    ]
+  },
+  {
+    "serviceKey": "6337006762137813117",
+    "providerTerritory": "US",
+    "gracenoteId": "N/A",
+    "rank": 110,
+    "channelName": "_Fallback",
+    "logos": [
+      {
+        "type": "Default",
+        "key": "skychb_6337006762137813117_darknow",
+        "template": "https://imageservice.disco.peacocktv.com/logo/{key}/AGG_SOURCE/{width}/{height}?proposition=NBCUOTT&territory=US"
+      },
+      {
+        "type": "Light",
+        "key": "skychb_6337006762137813117_lightnow",
+        "template": "https://imageservice.disco.peacocktv.com/logo/{key}/AGG_SOURCE/{width}/{height}?proposition=NBCUOTT&territory=US"
+      },
+      {
+        "type": "Dark",
+        "key": "skychb_6337006762137813117_darknow",
+        "template": "https://imageservice.disco.peacocktv.com/logo/{key}/AGG_SOURCE/{width}/{height}?proposition=NBCUOTT&territory=US"
+      }
+    ],
+    "hidden": false,
+    "logoHeightPercentage": 12,
+    "logoStyle": "cinema",
+    "formatType": "SD",
+    "sectionNavigation": "NEWS",
+    "contentSegments": [
+      "LOCAL_AFFILIATES"
+    ],
+    "classifications": [
+      "News"
+    ],
+    "territories": [
+      "US"
+    ],
+    "channelAvailabilities": [
+      {
+        "onAir": 1019529021000,
+        "offAir": 2145928811000
+      }
+    ]
+  }
+]

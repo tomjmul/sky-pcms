@@ -1,0 +1,49 @@
+[
+  {
+  "serviceKey": "7529711492120809117",
+  "providerTerritory": "US",
+  "gracenoteId": "65489",
+  "rank": 7,
+  "channelName": "WBKB-TV(D2,.2)",
+  "logos": [
+    {
+      "type": "Default",
+      "key": "skychb_7529711492120809117_darknow",
+      "template": "https://imageservice.disco.peacocktv.com/logo/{key}/AGG_SOURCE/{width}/{height}?proposition=NBCUOTT&territory=US"
+    },
+    {
+      "type": "Light",
+      "key": "skychb_7529711492120809117_darknow",
+      "template": "https://imageservice.disco.peacocktv.com/logo/{key}/AGG_SOURCE/{width}/{height}?proposition=NBCUOTT&territory=US"
+    },
+    {
+      "type": "Dark",
+      "key": "skychb_7529711492120809117_darknow",
+      "template": "https://imageservice.disco.peacocktv.com/logo/{key}/AGG_SOURCE/{width}/{height}?proposition=NBCUOTT&territory=US"
+    }
+  ],
+  "hidden": false,
+  "logoHeightPercentage": 12,
+  "logoStyle": "cinema",
+  "formatType": "SD",
+  "sectionNavigation": "ENTERTAINMENT",
+  "contentSegments": [
+    "LOCAL_AFFILIATES"
+  ],
+  "classifications": [
+    "NEWS"
+  ],
+  "territories": [
+    "US"
+  ],
+  "privacyRestrictions": [
+    "NFLCONSENT"
+  ],
+  "channelAvailabilities": [
+    {
+      "onAir": 1019529021000,
+      "offAir": 2145928811000
+    }
+  ]
+}
+]

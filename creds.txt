@@ -1,0 +1,9 @@
+Docker:
+u: pcms-dev
+p: para4nal1a
+'/apps/pcms-gonzalez-feeds-0.0.1-SNAPSHOT.jar; ssh -qt root@10.74.20.178 'java -XX:+UseStringDeduplication -XX:+UseG1GC -Xmx1536M -jar -Dspring.profiles.active=fileconsumer /apps/pcms-gonzalez-feeds-0.0.1-SNAPSHOT.jar'
+
+Monitoring
+admin / pcms
+$oVerySecret3
+

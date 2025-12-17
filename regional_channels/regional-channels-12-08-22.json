@@ -1,0 +1,128 @@
+[
+  {
+    "serviceKey": "8453801660570823117",
+    "providerTerritory": "US",
+    "gracenoteId": "11437",
+    "rank": 1,
+    "channelName": "WFLA-TV",
+    "logos": [
+      {
+        "type": "Default",
+        "key": "skychb_8453801660570823117_darknow",
+        "template": "https://imageservice.disco.peacocktv.com/logo/{key}/AGG_SOURCE/{width}/{height}?proposition=NBCUOTT&territory=US"
+      },
+      {
+        "type": "Light",
+        "key": "skychb_8453801660570823117_darknow",
+        "template": "https://imageservice.disco.peacocktv.com/logo/{key}/AGG_SOURCE/{width}/{height}?proposition=NBCUOTT&territory=US"
+      },
+      {
+        "type": "Dark",
+        "key": "skychb_8453801660570823117_lightnow",
+        "template": "https://imageservice.disco.peacocktv.com/logo/{key}/AGG_SOURCE/{width}/{height}?proposition=NBCUOTT&territory=US"
+      }
+    ],
+    "hidden": false,
+    "logoHeightPercentage": 12,
+    "logoStyle": "cinema",
+    "formatType": "SD",
+    "sectionNavigation": "NEWS",
+    "contentSegment": "LOCAL_AFFILIATES",
+    "classifications": [
+      "News"
+    ],
+    "territories": [
+      "US"
+    ],
+    "channelAvailabilities": [
+      {
+        "onAir": 1019529021000,
+        "offAir": 2145928811000
+      }
+    ]
+  },
+  {
+    "serviceKey": "6751709690595948117",
+    "providerTerritory": "US",
+    "gracenoteId": "10328",
+    "rank": 2,
+    "channelName": "KARE",
+    "logos": [
+      {
+        "type": "Default",
+        "key": "skychb_6751709690595948117_darknow",
+        "template": "https://imageservice.disco.peacocktv.com/logo/{key}/AGG_SOURCE/{width}/{height}?proposition=NBCUOTT&territory=US"
+      },
+      {
+        "type": "Light",
+        "key": "skychb_6751709690595948117_darknow",
+        "template": "https://imageservice.disco.peacocktv.com/logo/{key}/AGG_SOURCE/{width}/{height}?proposition=NBCUOTT&territory=US"
+      },
+      {
+        "type": "Dark",
+        "key": "skychb_6751709690595948117_lightnow",
+        "template": "https://imageservice.disco.peacocktv.com/logo/{key}/AGG_SOURCE/{width}/{height}?proposition=NBCUOTT&territory=US"
+      }
+    ],
+    "hidden": false,
+    "logoHeightPercentage": 12,
+    "logoStyle": "cinema",
+    "formatType": "SD",
+    "sectionNavigation": "NEWS",
+    "contentSegment": "LOCAL_AFFILIATES",
+    "classifications": [
+      "News"
+    ],
+    "territories": [
+      "US"
+    ],
+    "channelAvailabilities": [
+      {
+        "onAir": 1019529021000,
+        "offAir": 2145928811000
+      }
+    ]
+  },
+  {
+    "serviceKey": "8076796986326985117",
+    "providerTerritory": "US",
+    "gracenoteId": "11387",
+    "rank": 3,
+    "channelName": "WDIV-TV",
+    "logos": [
+      {
+        "type": "Default",
+        "key": "skychb_8076796986326985117_darknow",
+        "template": "https://imageservice.disco.peacocktv.com/logo/{key}/AGG_SOURCE/{width}/{height}?proposition=NBCUOTT&territory=US"
+      },
+      {
+        "type": "Light",
+        "key": "skychb_8076796986326985117_darknow",
+        "template": "https://imageservice.disco.peacocktv.com/logo/{key}/AGG_SOURCE/{width}/{height}?proposition=NBCUOTT&territory=US"
+      },
+      {
+        "type": "Dark",
+        "key": "skychb_8076796986326985117_lightnow",
+        "template": "https://imageservice.disco.peacocktv.com/logo/{key}/AGG_SOURCE/{width}/{height}?proposition=NBCUOTT&territory=US"
+      }
+    ],
+    "hidden": false,
+    "logoHeightPercentage": 12,
+    "logoStyle": "cinema",
+    "formatType": "SD",
+    "sectionNavigation": "NEWS",
+    "contentSegment": "LOCAL_AFFILIATES",
+    "classifications": [
+      "News"
+    ],
+    "territories": [
+      "US"
+    ],
+    "channelAvailabilities": [
+      {
+        "onAir": 1019529021000,
+        "offAir": 2145928811000
+      }
+    ]
+  }
+]

@@ -1,0 +1,169 @@
+[
+  {
+    "serviceKey": "6921318133304004117",
+    "providerTerritory": "US",
+    "gracenoteId": "10348",
+    "rank": 1,
+    "channelName": "KBJR",
+    "logos": [
+      {
+        "type": "Default",
+        "key": "skychb_6921318133304004117_lightnow",
+        "template": "http://ee1.imageservice.sky.com/logo/{key}/AGG_SOURCE/{width}/{height}?proposition=NBCUOTT&territory=US"
+      },
+      {
+        "type": "Light",
+        "key": "skychb_6921318133304004117_lightnow",
+        "template": "http://ee1.imageservice.sky.com/logo/{key}/AGG_SOURCE/{width}/{height}?proposition=NBCUOTT&territory=US"
+      },
+      {
+        "type": "Dark",
+        "key": "skychb_6921318133304004117_darknow ",
+        "template": "http://ee1.imageservice.sky.com/logo/{key}/AGG_SOURCE/{width}/{height}?proposition=NBCUOTT&territory=US"
+      }
+    ],
+    "hidden": false,
+    "logoHeightPercentage": 12,
+    "logoStyle": "cinema",
+    "formatType": "SD",
+    "sectionNavigation": "NEWS",
+    "contentSegment": "LOCAL_AFFILIATES",
+    "classifications": [
+      "NEWS"
+    ],
+    "territories": [
+      "US"
+    ],
+    "channelAvailabilities": [
+      {
+        "onAir": 1019529021000,
+        "offAir": 2145928811000
+      }
+    ]
+  },
+  {
+    "serviceKey": "6769855846078151117",
+    "providerTerritory": "US",
+    "gracenoteId": "10478",
+    "rank": 2,
+    "channelName": "KGNS-TV",
+    "logos": [
+      {
+        "type": "Default",
+        "key": "skychb_6769855846078151117_lightnow",
+        "template": "http://ee1.imageservice.sky.com/logo/{key}/AGG_SOURCE/{width}/{height}?proposition=NBCUOTT&territory=US"
+      },
+      {
+        "type": "Light",
+        "key": "skychb_6769855846078151117_lightnow",
+        "template": "http://ee1.imageservice.sky.com/logo/{key}/AGG_SOURCE/{width}/{height}?proposition=NBCUOTT&territory=US"
+      },
+      {
+        "type": "Dark",
+        "key": "skychb_6769855846078151117_darknow",
+        "template": "http://ee1.imageservice.sky.com/logo/{key}/AGG_SOURCE/{width}/{height}?proposition=NBCUOTT&territory=US"
+      }
+    ],
+    "hidden": false,
+    "logoHeightPercentage": 12,
+    "logoStyle": "cinema",
+    "formatType": "SD",
+    "sectionNavigation": "NEWS",
+    "contentSegment": "LOCAL_AFFILIATES",
+    "classifications": [
+      "NEWS"
+    ],
+    "territories": [
+      "US"
+    ],
+    "channelAvailabilities": [
+      {
+        "onAir": 1019529021000,
+        "offAir": 2145928811000
+      }
+    ]
+  },
+  {
+    "serviceKey": "8124040456083464117",
+    "providerTerritory": "US",
+    "gracenoteId": "10462",
+    "rank": 3,
+    "channelName": "KFOR-TV",
+    "logos": [
+      {
+        "type": "Default",
+        "key": "skychb_8124040456083464117_lightnow",
+        "template": "http://ee1.imageservice.sky.com/logo/{key}/AGG_SOURCE/{width}/{height}?proposition=NBCUOTT&territory=US"
+      },
+      {
+        "type": "Light",
+        "key": "skychb_8124040456083464117_lightnow",
+        "template": "http://ee1.imageservice.sky.com/logo/{key}/AGG_SOURCE/{width}/{height}?proposition=NBCUOTT&territory=US"
+      },
+      {
+        "type": "Dark",
+        "key": "skychb_8124040456083464117_darknow",
+        "template": "http://ee1.imageservice.sky.com/logo/{key}/AGG_SOURCE/{width}/{height}?proposition=NBCUOTT&territory=US"
+      }
+    ],
+    "hidden": false,
+    "logoHeightPercentage": 12,
+    "logoStyle": "cinema",
+    "formatType": "SD",
+    "sectionNavigation": "NEWS",
+    "contentSegment": "LOCAL_AFFILIATES",
+    "classifications": [
+      "NEWS"
+    ],
+    "territories": [
+      "US"
+    ],
+    "channelAvailabilities": [
+      {
+        "onAir": 1019529021000,
+        "offAir": 2145928811000
+      }
+    ]
+  },
+  {
+    "serviceKey": "6337006762137813117",
+    "providerTerritory": "US",
+    "rank": 4,
+    "channelName": "_Fallback",
+    "logos": [
+      {
+        "type": "Default",
+        "key": "skychb_6337006762137813117_lightnow",
+        "template": "http://ee1.imageservice.sky.com/logo/{key}/AGG_SOURCE/{width}/{height}?proposition=NBCUOTT&territory=US"
+      },
+      {
+        "type": "Light",
+        "key": "skychb_6337006762137813117_lightnow",
+        "template": "http://ee1.imageservice.sky.com/logo/{key}/AGG_SOURCE/{width}/{height}?proposition=NBCUOTT&territory=US"
+      },
+      {
+        "type": "Dark",
+        "key": "skychb_6337006762137813117_darknow",
+        "template": "http://ee1.imageservice.sky.com/logo/{key}/AGG_SOURCE/{width}/{height}?proposition=NBCUOTT&territory=US"
+      }
+    ],
+    "hidden": false,
+    "logoHeightPercentage": 12,
+    "logoStyle": "cinema",
+    "formatType": "SD",
+    "sectionNavigation": "NEWS",
+    "contentSegment": "LOCAL_AFFILIATES",
+    "classifications": [
+      "NEWS"
+    ],
+    "territories": [
+      "US"
+    ],
+    "channelAvailabilities": [
+      {
+        "onAir": 1019529021000,
+        "offAir": 2145928811000
+      }
+    ]
+  }
+]

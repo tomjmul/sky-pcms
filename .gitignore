@@ -1,0 +1,10 @@
+# Regeneratable data - exclude from backup
+db-dumps/
+solr-data/
+apple-feeds/
+google-feeds/
+amazon-feed/
+roku/
+
+# Sensitive
+creds/
